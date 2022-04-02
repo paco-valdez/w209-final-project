@@ -84,7 +84,7 @@ function init() {
 // kick things off
 init();
 
-d3.csv("files/athlete_events.csv").then(function(data) {
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athlete_events.csv").then(function(data) {
     console.log(data);
 });
 
