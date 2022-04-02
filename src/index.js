@@ -1,4 +1,9 @@
 import _ from 'lodash';
+import * as d3 from "d3";
+import * as scrollama from "scrollama";
+import * as vl from "vega-lite";
+import './style.css';
+// import athlete_events from '../dist/files/athlete_events.csv';
 
 function component() {
   const element = document.createElement('div');
@@ -10,10 +15,6 @@ function component() {
 }
 
 document.body.appendChild(component());
-
-import * as d3 from "d3";
-import * as scrollama from "scrollama";
-import * as vl from "vega-lite";
 
 // using d3 for convenience
 const main = d3.select("main");
@@ -83,6 +84,7 @@ function init() {
 // kick things off
 init();
 
-// read data
-//const athletes = d3.csv("/files/athletes.csv");
-//const athlete_events = d3.csv("/files/athlete_events.csv");
+d3.csv("files/athlete_events.csv").then(function(data) {
+    console.log(data);
+});
+
