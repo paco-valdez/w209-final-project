@@ -1,20 +1,12 @@
-import _ from 'lodash';
 import * as d3 from "d3";
 import * as scrollama from "scrollama";
-import * as vl from "vega-lite";
+import * as vega from "vega";
+import * as vegaLite from "vega-lite";
+import * as vegaTooltip from "vega-tooltip";
+import * as vl from "vega-lite-api";
 import './style.css';
-// import athlete_events from '../dist/files/athlete_events.csv';
+import Demographics from './demographics.js';
 
-function component() {
-  const element = document.createElement('div');
-
-  // Lodash, currently included via a script, is required for this line to work
-  element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-
-  return element;
-}
-
-document.body.appendChild(component());
 
 // using d3 for convenience
 const main = d3.select("main");
@@ -54,7 +46,25 @@ function handleStepEnter(response) {
     });
 
     // update graphic based on step
-    figure.select("p").text(response.index + 1);
+    let chart_key = "chart_" + (response.index + 1);
+    console.log(chart_key);
+    let update_func = chart_map[chart_key];
+    if (update_func !== undefined && data_ready && rendered_chart !== chart_key){
+        console.log("Updating: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
+        rendered_chart = chart_key;
+        document.getElementById('view').innerHTML = '';
+        update_func(filtered_data(raw_data));
+    } else if (!data_ready || update_func === undefined){
+        console.log("Wait: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
+        document.getElementById('view').innerHTML = '';
+        rendered_chart = null;
+    } else {
+        console.log("Nothing: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
+        // rendered_chart = null;
+    }
+
+
+    // figure.select("p").text(response.index + 1);
 }
 
 function setupStickyfill() {
@@ -79,12 +89,53 @@ function init() {
             debug: false
         })
         .onStepEnter(handleStepEnter);
+
+    const options = {
+        config: {
+          // Vega-Lite default configuration
+        },
+        init: (view) => {
+          // initialize tooltip handler
+          view.tooltip(new vegaTooltip.Handler().call);
+        },
+        view: {
+          // view constructor options
+          // remove the loader if you don't want to default to vega-datasets!
+          renderer: "canvas",
+        },
+      };
+
+      // register vega and vega-lite with the API
+      vl.register(vega, vegaLite, options);
+}
+
+function filtered_data(data){
+    return data
+        .map(obj=> ({ ...obj, Year_City: obj.Year + ' ' + obj.City, Height_N: +obj.Height,  Weight_N: +obj.Weight, Age_N: +obj.Age}))
+    ;
 }
 
 // kick things off
 init();
+let dem = new Demographics();
+
+const chart_map = {
+    chart_1: dem.render_demographics,
+    chart_2: dem.render_gender
+}
+
+let data_ready = false;
+let raw_data = null;
+let rendered_chart = null;
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athlete_events.csv").then(function(data) {
-    console.log(data);
+    let seasonUser = Array.from(new Set(data.map((d) => d.Season))).sort(
+        d3.ascending
+    )
+    console.log(seasonUser);
+    data_ready = true;
+    dem.render_demographics(filtered_data(data));
+    raw_data = data;
+    rendered_chart = 'chart_1';
 });
 

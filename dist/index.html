@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Scrollama: Sticky Side Example</title>
-    <meta name="description" content="Scrollama: Sticky Side Example" />
+    <meta name="description" content="120 Years of Olympics Data" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
         #scrolly {
@@ -79,7 +79,7 @@
 </head>
 
 <body>
-    <a href="https://github.com/russellgoldenberg/scrollama" target="_blank" class="github-corner"
+    <a href="https://github.com/pacofvf/w209-final-project" target="_blank" class="github-corner"
         aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250"
             style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
             <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -92,41 +92,43 @@
         </svg></a>
     <main>
         <nav>
-            <a href="https://github.com/russellgoldenberg/scrollama">scrollama.js</a>
+            <p>120 Years of Olympics Data</p>
             <div class="nav__examples">
-                <p>Examples:</p>
-                <a href="https://russellgoldenberg.github.io/scrollama/basic">Basic</a>
-                <a href="https://russellgoldenberg.github.io/scrollama/progress">Progress</a>
-                <a href="https://russellgoldenberg.github.io/scrollama/sticky-side">Sticky Side</a>
-                <a href="https://russellgoldenberg.github.io/scrollama/sticky-overlay">Sticky Overlay</a>
-                <a href="https://russellgoldenberg.github.io/scrollama/mobile-pattern">Mobile Pattern</a>
+                <p>Sections:</p>
+                <a href="#demographics">Demographics</a>
+                <a href="#sports-events">Sports and Events</a>
+                <a href="#newcomers">Newcomers by Sport</a>
+                <a href="#rankings">Medal Count Ranking</a>
             </div>
         </nav>
         <section id="intro">
-            <h1 class="intro__hed">Sticky Side Example</h1>
+            <h1 class="intro__hed">120 Years of Olympics Data</h1>
             <p class="intro__dek">
-                Start scrolling to see how it works.
+                Leena Bhai, Tiffany Cheng, Brian Moon, Paco Valdez
             </p>
         </section>
 
         <section id="scrolly">
             <article>
-                <div class="step" data-step="1">
+                <div id="demographics" class="step" data-step="1">
                     <p>STEP 1</p>
                 </div>
-                <div class="step" data-step="2">
+                <div id="gender" class="step" data-step="2">
+                    <p>STEP 1.5</p>
+                </div>
+                <div id="sports-events" class="step" data-step="3">
                     <p>STEP 2</p>
                 </div>
-                <div class="step" data-step="3">
+                <div id="newcomers" class="step" data-step="4">
                     <p>STEP 3</p>
                 </div>
-                <div class="step" data-step="4">
+                <div id="rankings" class="step" data-step="5">
                     <p>STEP 4</p>
                 </div>
             </article>
 
             <figure>
-                <p>0</p>
+                <div id="view"></div>
             </figure>
         </section>
 
