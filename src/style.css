@@ -127,3 +127,8 @@ nav {
     margin-left: 2rem;
   }
 }
+
+.selector{
+  float: left;
+  clear: left;
+}

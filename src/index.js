@@ -110,9 +110,69 @@ function init() {
 }
 
 function filtered_data(data){
+    let e = document.getElementById("season");
+    let season = e.options[e.selectedIndex].value;
+    e = document.getElementById("firstGame");
+    let first_game = e.options[e.selectedIndex].value;
+    e = document.getElementById("secondGame");
+    let second_game = e.options[e.selectedIndex].value;
     return data
-        .map(obj=> ({ ...obj, Year_City: obj.Year + ' ' + obj.City, Height_N: +obj.Height,  Weight_N: +obj.Weight, Age_N: +obj.Age}))
+        .filter(athlete => athlete.Season === season)
+        .filter(athlete => athlete.Year_City >= first_game)
+        .filter(athlete => athlete.Year_City <= second_game)
     ;
+}
+
+function populateSelect(select_id, values){
+    let e = document.getElementById(select_id);
+    e.innerHTML = '';
+    for (let i = 0; i < values.length; i++){
+        let opt = document.createElement('option');
+        opt.value = values[i];
+        opt.innerHTML = values[i];
+        if(i===0){
+            opt.selected = true;
+        }
+        e.appendChild(opt);
+    }
+    return e
+}
+
+function onUpdateSeason(){
+    let e = document.getElementById("season");
+    let season = e.options[e.selectedIndex].value;
+    let userData = raw_data.filter(d => d.Season === season)
+    let gamesUser = Array.from(new Set(userData.map((d) => d.Year_City))).sort(d3.ascending)
+    let gamesUserFirst = gamesUser.slice(0, gamesUser.length - 1)
+    let select = populateSelect("firstGame", gamesUserFirst);
+    let first_game = select.options[select.selectedIndex].value;
+    let gamesUserSecond = gamesUser.filter(
+        (d) => d.slice(0, 4) > first_game.slice(0, 4)
+    )
+    populateSelect("secondGame", gamesUserSecond);
+    renderSelectedChart();
+}
+
+function onUpdateFirstGame(){
+    let e = document.getElementById("season");
+    let season = e.options[e.selectedIndex].value;
+    let userData = raw_data.filter(d => d.Season === season)
+    let gamesUser = Array.from(new Set(userData.map((d) => d.Year_City))).sort(d3.ascending)
+    let select = document.getElementById("firstGame");
+    let first_game = select.options[select.selectedIndex].value;
+    let gamesUserSecond = gamesUser.filter(
+        (d) => d.slice(0, 4) > first_game.slice(0, 4)
+    )
+    populateSelect("secondGame", gamesUserSecond);
+    renderSelectedChart();
+}
+
+function renderSelectedChart(){
+    let update_func = chart_map[rendered_chart];
+    document.getElementById('view').innerHTML = '';
+    if (update_func !== undefined){
+        update_func(filtered_data(raw_data));
+    }
 }
 
 // kick things off
@@ -128,14 +188,29 @@ let data_ready = false;
 let raw_data = null;
 let rendered_chart = null;
 
-d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athlete_events.csv").then(function(data) {
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athletes_agg.csv").then(function(data) {
     let seasonUser = Array.from(new Set(data.map((d) => d.Season))).sort(
         d3.ascending
     )
     console.log(seasonUser);
     data_ready = true;
-    dem.render_demographics(filtered_data(data));
-    raw_data = data;
+
+    raw_data = data.map(obj=> ({ ...obj, Year_City: obj.Year + ' ' + obj.City}));
+    // dem.render_demographics(filtered_data(raw_data));
     rendered_chart = 'chart_1';
+
+    let e = document.getElementById("season");
+    e.addEventListener("change", function() {
+        onUpdateSeason();
+    });
+    e = document.getElementById("firstGame");
+    e.addEventListener("change", function() {
+        onUpdateFirstGame();
+    });
+    e = document.getElementById("secondGame");
+    e.addEventListener("change", function() {
+        renderSelectedChart();
+    });
+    onUpdateSeason();
 });
 

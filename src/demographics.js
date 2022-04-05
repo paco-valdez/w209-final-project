@@ -7,7 +7,7 @@ export default class Demographics {
         .markRect()
         .data(data)
         .encode(
-            vl.y({"aggregate": "count"}).title("Amount of Athletes"),
+            vl.y({"aggregate": "sum", "field": "Athletes"}).title("Amount of Athletes"),
             vl.x().fieldO("Year_City").title("Games"),
             //vl.color({"aggregate": "count"}).title("Amount of Athletes")
         )
@@ -25,7 +25,7 @@ export default class Demographics {
         .markBar()
         .data(data)
         .encode(
-            vl.y({"aggregate": "count", "stack":  "normalize"}).title("Athletes"),
+            vl.y({"aggregate": "sum", "field": "Athletes", "stack":  "normalize"}).title("Athletes"),
             vl.x().fieldO("Year_City").title("Games"),
             vl.color({"scale": {
                 "domain": ["M", "F"],

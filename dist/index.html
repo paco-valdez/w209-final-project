@@ -37,7 +37,7 @@
             -webkit-transform: translate3d(0, 0, 0);
             -moz-transform: translate3d(0, 0, 0);
             transform: translate3d(0, 0, 0);
-            background-color: #8a8a8a;
+            background-color: #bdbdbd;
             z-index: 0;
         }
 
@@ -128,7 +128,23 @@
             </article>
 
             <figure>
-                <div id="view"></div>
+
+                <div class="selector">
+                    <label for="season">Season:</label>
+                    <select id="season">
+                        <option value="Winter">Winter</option>
+                        <option value="Summer" selected="selected">Summer</option>
+                    </select>
+                </div>
+                <div class="selector">
+                    <label for="firstGame">First Game:</label>
+                    <select id="firstGame"></select>
+                </div>
+                <div class="selector">
+                    <label for="secondGame">Second Game:</label>
+                    <select id="secondGame"></select>
+                </div>
+                <div id="view" class="selector"></div>
             </figure>
         </section>
 
