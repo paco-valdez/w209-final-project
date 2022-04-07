@@ -6,6 +6,7 @@ import * as vegaTooltip from "vega-tooltip";
 import * as vl from "vega-lite-api";
 import './style.css';
 import Demographics from './demographics.js';
+import SportsAndEvents from './sports_and_events.js';
 
 
 // using d3 for convenience
@@ -52,8 +53,7 @@ function handleStepEnter(response) {
     if (update_func !== undefined && data_ready && rendered_chart !== chart_key){
         console.log("Updating: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
         rendered_chart = chart_key;
-        document.getElementById('view').innerHTML = '';
-        update_func(filtered_data(raw_data));
+        renderSelectedChart();
     } else if (!data_ready || update_func === undefined){
         console.log("Wait: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
         document.getElementById('view').innerHTML = '';
@@ -123,6 +123,14 @@ function filtered_data(data){
     ;
 }
 
+function filtered_data_season_only(data) {
+    let e = document.getElementById("season");
+    let season = e.options[e.selectedIndex].value;
+    return data
+        .filter(athlete => athlete.Season === season)
+    ;
+}
+
 function populateSelect(select_id, values){
     let e = document.getElementById(select_id);
     e.innerHTML = '';
@@ -171,22 +179,34 @@ function renderSelectedChart(){
     let update_func = chart_map[rendered_chart];
     document.getElementById('view').innerHTML = '';
     if (update_func !== undefined){
-        update_func(filtered_data(raw_data));
+        if (['chart_1', 'chart_2'].indexOf(rendered_chart) > -1)
+            update_func(filtered_data(raw_data));
+        else if (['chart_3', 'chart_4'].indexOf(rendered_chart) > -1 && tree_data_ready)
+            update_func(filtered_data_season_only(user_tree_data));
     }
 }
 
 // kick things off
 init();
 let dem = new Demographics();
+let sports = new SportsAndEvents();
 
 const chart_map = {
     chart_1: dem.render_demographics,
-    chart_2: dem.render_gender
+    chart_2: dem.render_gender,
+    chart_3: sports.render_sports_and_events
 }
 
 let data_ready = false;
 let raw_data = null;
 let rendered_chart = null;
+let user_tree_data = null;
+let tree_data_ready = false;
+
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/user_tree_data.csv").then(function(data) {
+    user_tree_data = data;
+    tree_data_ready = true;
+});
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athletes_agg.csv").then(function(data) {
     let seasonUser = Array.from(new Set(data.map((d) => d.Season))).sort(

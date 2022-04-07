@@ -132,3 +132,7 @@ nav {
   float: left;
   clear: left;
 }
+
+#view{
+  width: 60%
+}
