@@ -25,12 +25,12 @@ function handleResize() {
     let stepH = Math.floor(window.innerHeight * 0.75);
     step.style("height", stepH + "px");
 
-    let figureHeight = window.innerHeight / 2;
-    let figureMarginTop = (window.innerHeight - figureHeight) / 2;
+    // let figureHeight = window.innerHeight / 2;
+    // let figureMarginTop = (window.innerHeight - figureHeight) / 2;
 
-    figure
-        .style("height", figureHeight + "px")
-        .style("top", figureMarginTop + "px");
+    // figure
+    //    .style("height", figureHeight + "px")
+    //    .style("top", figureMarginTop + "px");
 
     // 3. tell scrollama to update new element dimensions
     scroller.resize();

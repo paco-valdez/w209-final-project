@@ -1,0 +1,3862 @@
+Season,Year_City,year,name,value
+Summer,1992 Barcelona,1992-01-01,CHN,53
+Summer,2012 London,2012-01-01,CHN,88
+Summer,1920 Antwerpen,1920-01-01,DEN,13
+Summer,1900 Paris,1900-01-01,DEN,7
+Winter,1988 Calgary,1988-01-01,NED,7
+Winter,1992 Albertville,1992-01-01,NED,4
+Winter,1994 Lillehammer,1994-01-01,NED,4
+Winter,1992 Albertville,1992-01-01,USA,11
+Winter,1994 Lillehammer,1994-01-01,USA,13
+Summer,1932 Los Angeles,1932-01-01,NED,8
+Winter,2002 Salt Lake City,2002-01-01,FIN,7
+Summer,1952 Helsinki,1952-01-01,FIN,22
+Winter,1980 Lake Placid,1980-01-01,FIN,9
+Summer,2000 Sydney,2000-01-01,FIN,4
+Summer,1996 Atlanta,1996-01-01,FIN,4
+Winter,1994 Lillehammer,1994-01-01,FIN,6
+Summer,1912 Stockholm,1912-01-01,FIN,26
+Summer,1920 Antwerpen,1920-01-01,FIN,34
+Summer,1924 Paris,1924-01-01,FIN,37
+Winter,2014 Sochi,2014-01-01,FIN,5
+Summer,1948 London,1948-01-01,FIN,22
+Winter,1992 Albertville,1992-01-01,NOR,17
+Winter,1994 Lillehammer,1994-01-01,NOR,23
+Winter,1998 Nagano,1998-01-01,NOR,22
+Winter,2002 Salt Lake City,2002-01-01,NOR,24
+Winter,2006 Torino,2006-01-01,NOR,19
+Summer,2008 Beijing,2008-01-01,NOR,9
+Summer,2016 Rio de Janeiro,2016-01-01,ROU,4
+Summer,2000 Sydney,2000-01-01,NOR,10
+Summer,2004 Athina,2004-01-01,NOR,6
+Winter,1960 Squaw Valley,1960-01-01,NOR,6
+Winter,1964 Innsbruck,1964-01-01,NOR,15
+Summer,1920 Antwerpen,1920-01-01,NOR,29
+Winter,1984 Sarajevo,1984-01-01,NOR,9
+Summer,1984 Los Angeles,1984-01-01,NED,13
+Summer,1968 Mexico City,1968-01-01,NOR,2
+Summer,1972 Munich,1972-01-01,NOR,4
+Summer,1988 Seoul,1988-01-01,NED,9
+Summer,1996 Atlanta,1996-01-01,NED,19
+Summer,2000 Sydney,2000-01-01,NED,25
+Summer,1936 Berlin,1936-01-01,EST,7
+Summer,1912 Stockholm,1912-01-01,NOR,10
+Summer,1992 Barcelona,1992-01-01,FIN,5
+Summer,2012 London,2012-01-01,FRA,35
+Summer,1996 Atlanta,1996-01-01,NOR,7
+Winter,1952 Oslo,1952-01-01,NOR,16
+Winter,1956 Cortina d'Ampezzo,1956-01-01,NOR,4
+Summer,1992 Barcelona,1992-01-01,NOR,7
+Winter,1998 Nagano,1998-01-01,EST,0
+Winter,2002 Salt Lake City,2002-01-01,EST,3
+Summer,1936 Berlin,1936-01-01,NOR,6
+Summer,1948 London,1948-01-01,NOR,7
+Summer,1952 Helsinki,1952-01-01,NOR,5
+Summer,1956 Melbourne,1956-01-01,NOR,3
+Summer,1960 Roma,1960-01-01,NOR,1
+Summer,1924 Paris,1924-01-01,NOR,10
+Summer,1928 Amsterdam,1928-01-01,NOR,4
+Summer,2012 London,2012-01-01,MAR,1
+Summer,2004 Athina,2004-01-01,EST,3
+Summer,2008 Beijing,2008-01-01,EST,2
+Summer,1992 Barcelona,1992-01-01,EST,2
+Summer,1996 Atlanta,1996-01-01,EST,0
+Summer,2016 Rio de Janeiro,2016-01-01,ESP,17
+Summer,1976 Montreal,1976-01-01,FRA,9
+Summer,2000 Sydney,2000-01-01,EGY,0
+Summer,1948 London,1948-01-01,IRI,1
+Summer,1956 Melbourne,1956-01-01,FRA,14
+Summer,1988 Seoul,1988-01-01,BUL,35
+Summer,1924 Paris,1924-01-01,BUL,0
+Summer,1956 Melbourne,1956-01-01,BUL,5
+Summer,1960 Roma,1960-01-01,BUL,7
+Summer,2016 Rio de Janeiro,2016-01-01,ITA,28
+Summer,2008 Beijing,2008-01-01,ESP,18
+Summer,1992 Barcelona,1992-01-01,CHA,0
+Summer,2016 Rio de Janeiro,2016-01-01,AZE,18
+Summer,1972 Munich,1972-01-01,SUD,0
+Summer,2008 Beijing,2008-01-01,RUS,72
+Summer,2012 London,2012-01-01,RUS,82
+Summer,2000 Sydney,2000-01-01,ARG,4
+Summer,2000 Sydney,2000-01-01,CUB,29
+Summer,1992 Barcelona,1992-01-01,CUB,31
+Summer,2004 Athina,2004-01-01,BLR,13
+Summer,2008 Beijing,2008-01-01,BLR,18
+Summer,2008 Beijing,2008-01-01,FRA,41
+Summer,2016 Rio de Janeiro,2016-01-01,FRA,42
+Summer,2012 London,2012-01-01,ARG,4
+Summer,2004 Athina,2004-01-01,GRE,16
+Summer,2000 Sydney,2000-01-01,CMR,1
+Summer,1968 Mexico City,1968-01-01,CMR,1
+Summer,1996 Atlanta,1996-01-01,TUR,6
+Summer,1924 Paris,1924-01-01,CHI,0
+Summer,1996 Atlanta,1996-01-01,ESP,17
+Summer,2000 Sydney,2000-01-01,MEX,6
+Summer,1992 Barcelona,1992-01-01,CHI,0
+Summer,2004 Athina,2004-01-01,USA,101
+Summer,1976 Montreal,1976-01-01,ESP,2
+Summer,1980 Moskva,1980-01-01,ESP,6
+Summer,1984 Los Angeles,1984-01-01,ESP,5
+Summer,1964 Tokyo,1964-01-01,URS,93
+Summer,1980 Moskva,1980-01-01,URS,195
+Summer,1984 Los Angeles,1984-01-01,CHI,0
+Summer,2004 Athina,2004-01-01,RUS,90
+Summer,2012 London,2012-01-01,ITA,28
+Summer,2008 Beijing,2008-01-01,ITA,27
+Summer,2004 Athina,2004-01-01,FRA,33
+Summer,2004 Athina,2004-01-01,NCA,0
+Summer,1976 Montreal,1976-01-01,NCA,0
+Summer,1968 Mexico City,1968-01-01,MEX,9
+Summer,1992 Barcelona,1992-01-01,HUN,30
+Summer,1936 Berlin,1936-01-01,HUN,16
+Summer,1972 Munich,1972-01-01,NGR,1
+Summer,1920 Antwerpen,1920-01-01,EGY,0
+Summer,1928 Amsterdam,1928-01-01,EGY,4
+Summer,1936 Berlin,1936-01-01,ITA,27
+Summer,1972 Munich,1972-01-01,CHA,0
+Summer,2012 London,2012-01-01,ALG,1
+Summer,2016 Rio de Janeiro,2016-01-01,ALG,2
+Summer,1988 Seoul,1988-01-01,ITA,14
+Summer,1996 Atlanta,1996-01-01,ITA,35
+Summer,2000 Sydney,2000-01-01,ITA,34
+Summer,1984 Los Angeles,1984-01-01,ITA,32
+Summer,1992 Barcelona,1992-01-01,ITA,19
+Summer,1980 Moskva,1980-01-01,ITA,15
+Summer,1976 Montreal,1976-01-01,KUW,0
+Summer,1980 Moskva,1980-01-01,KUW,0
+Summer,2016 Rio de Janeiro,2016-01-01,BRN,2
+Summer,1996 Atlanta,1996-01-01,PAK,0
+Summer,1964 Tokyo,1964-01-01,IRQ,0
+Summer,2004 Athina,2004-01-01,IRQ,0
+Summer,1992 Barcelona,1992-01-01,PAK,1
+Summer,1960 Roma,1960-01-01,UAR,2
+Summer,1964 Tokyo,1964-01-01,EGY,0
+Summer,1988 Seoul,1988-01-01,LIB,0
+Summer,1952 Helsinki,1952-01-01,EGY,1
+Winter,2010 Vancouver,2010-01-01,PAK,0
+Summer,2004 Athina,2004-01-01,QAT,0
+Summer,2000 Sydney,2000-01-01,PAK,0
+Summer,2004 Athina,2004-01-01,PAK,0
+Summer,2012 London,2012-01-01,PAK,0
+Summer,1984 Los Angeles,1984-01-01,MAS,0
+Winter,2014 Sochi,2014-01-01,IRI,0
+Summer,2008 Beijing,2008-01-01,PAK,0
+Summer,2012 London,2012-01-01,IRI,12
+Summer,2008 Beijing,2008-01-01,AZE,7
+Summer,2000 Sydney,2000-01-01,AZE,3
+Summer,1900 Paris,1900-01-01,GER,8
+Summer,2016 Rio de Janeiro,2016-01-01,NED,19
+Winter,1964 Innsbruck,1964-01-01,ITA,4
+Winter,1968 Grenoble,1968-01-01,ITA,4
+Summer,2016 Rio de Janeiro,2016-01-01,IRQ,0
+Summer,1906 Athina,1906-01-01,GRE,35
+Summer,1996 Atlanta,1996-01-01,CAN,22
+Summer,2000 Sydney,2000-01-01,CAN,14
+Summer,2016 Rio de Janeiro,2016-01-01,IRL,2
+Summer,1928 Amsterdam,1928-01-01,USA,56
+Summer,2008 Beijing,2008-01-01,AUS,46
+Summer,2008 Beijing,2008-01-01,RSA,1
+Winter,2010 Vancouver,2010-01-01,USA,37
+Winter,2014 Sochi,2014-01-01,USA,28
+Summer,1976 Montreal,1976-01-01,CAN,11
+Summer,2008 Beijing,2008-01-01,CAN,19
+Summer,2016 Rio de Janeiro,2016-01-01,USA,121
+Summer,1900 Paris,1900-01-01,USA,54
+Summer,2008 Beijing,2008-01-01,USA,110
+Summer,2008 Beijing,2008-01-01,MAR,2
+Summer,2004 Athina,2004-01-01,EGY,5
+Summer,2012 London,2012-01-01,EGY,2
+Summer,2008 Beijing,2008-01-01,EGY,1
+Summer,2008 Beijing,2008-01-01,ERI,0
+Summer,2016 Rio de Janeiro,2016-01-01,EGY,3
+Summer,1992 Barcelona,1992-01-01,EGY,0
+Summer,1996 Atlanta,1996-01-01,EGY,0
+Summer,1964 Tokyo,1964-01-01,TAN,0
+Summer,1972 Munich,1972-01-01,TAN,0
+Summer,1952 Helsinki,1952-01-01,FRA,18
+Summer,1972 Munich,1972-01-01,KUW,0
+Summer,1984 Los Angeles,1984-01-01,JOR,0
+Summer,1960 Roma,1960-01-01,SUD,0
+Summer,1968 Mexico City,1968-01-01,SUD,0
+Summer,1948 London,1948-01-01,EGY,5
+Summer,1976 Montreal,1976-01-01,EGY,0
+Summer,1984 Los Angeles,1984-01-01,EGY,1
+Summer,1972 Munich,1972-01-01,EGY,0
+Summer,1976 Montreal,1976-01-01,TUN,0
+Summer,1988 Seoul,1988-01-01,EGY,0
+Summer,1996 Atlanta,1996-01-01,LBA,0
+Summer,1936 Berlin,1936-01-01,EGY,5
+Summer,2008 Beijing,2008-01-01,SUD,1
+Summer,1980 Moskva,1980-01-01,ALG,0
+Summer,1988 Seoul,1988-01-01,ALG,0
+Summer,1992 Barcelona,1992-01-01,ALG,2
+Summer,2008 Beijing,2008-01-01,ALG,2
+Summer,2016 Rio de Janeiro,2016-01-01,IRI,8
+Summer,2016 Rio de Janeiro,2016-01-01,BEL,6
+Summer,2012 London,2012-01-01,AUS,35
+Summer,1992 Barcelona,1992-01-01,QAT,1
+Summer,1996 Atlanta,1996-01-01,QAT,0
+Summer,1988 Seoul,1988-01-01,DJI,1
+Summer,1992 Barcelona,1992-01-01,DJI,0
+Summer,2000 Sydney,2000-01-01,USA,91
+Summer,2012 London,2012-01-01,USA,103
+Summer,2000 Sydney,2000-01-01,AUS,58
+Summer,2004 Athina,2004-01-01,AUS,50
+Summer,2008 Beijing,2008-01-01,PLE,0
+Summer,1984 Los Angeles,1984-01-01,CAN,44
+Summer,1976 Montreal,1976-01-01,IRI,2
+Summer,2012 London,2012-01-01,CMR,0
+Summer,1996 Atlanta,1996-01-01,COM,0
+Summer,1996 Atlanta,1996-01-01,CHA,0
+Summer,2016 Rio de Janeiro,2016-01-01,CMR,0
+Summer,2016 Rio de Janeiro,2016-01-01,KAZ,18
+Summer,2016 Rio de Janeiro,2016-01-01,BRU,0
+Summer,1980 Moskva,1980-01-01,IRQ,0
+Summer,2000 Sydney,2000-01-01,KUW,1
+Summer,1996 Atlanta,1996-01-01,MAS,2
+Summer,2000 Sydney,2000-01-01,MAS,0
+Summer,1992 Barcelona,1992-01-01,MAS,1
+Summer,1996 Atlanta,1996-01-01,BRU,0
+Summer,2000 Sydney,2000-01-01,BRU,0
+Summer,2000 Sydney,2000-01-01,SUD,0
+Summer,1928 Amsterdam,1928-01-01,IND,1
+Summer,1960 Roma,1960-01-01,IRQ,1
+Summer,1984 Los Angeles,1984-01-01,KSA,0
+Summer,1980 Moskva,1980-01-01,SYR,0
+Summer,1988 Seoul,1988-01-01,MDV,0
+Summer,2000 Sydney,2000-01-01,BRN,0
+Summer,1984 Los Angeles,1984-01-01,BRN,0
+Summer,1972 Munich,1972-01-01,ETH,2
+Summer,1968 Mexico City,1968-01-01,MAS,0
+Summer,1960 Roma,1960-01-01,PAK,2
+Summer,1964 Tokyo,1964-01-01,PAK,1
+Summer,2008 Beijing,2008-01-01,IRQ,0
+Summer,2012 London,2012-01-01,IRQ,0
+Summer,1948 London,1948-01-01,PAK,0
+Summer,1996 Atlanta,1996-01-01,UAE,0
+Summer,1988 Seoul,1988-01-01,YAR,0
+Summer,1952 Helsinki,1952-01-01,PAK,0
+Summer,2004 Athina,2004-01-01,INA,4
+Summer,1968 Mexico City,1968-01-01,NGR,0
+Summer,1972 Munich,1972-01-01,URS,99
+Summer,1968 Mexico City,1968-01-01,PHI,0
+Summer,2008 Beijing,2008-01-01,QAT,0
+Summer,1992 Barcelona,1992-01-01,IRQ,0
+Summer,1988 Seoul,1988-01-01,UAE,0
+Summer,1984 Los Angeles,1984-01-01,UAE,0
+Summer,1992 Barcelona,1992-01-01,KUW,0
+Summer,1992 Barcelona,1992-01-01,SGP,0
+Summer,1996 Atlanta,1996-01-01,SGP,0
+Summer,1988 Seoul,1988-01-01,NGR,0
+Summer,1996 Atlanta,1996-01-01,AZE,1
+Summer,1996 Atlanta,1996-01-01,UZB,2
+Summer,2000 Sydney,2000-01-01,UZB,4
+Summer,2012 London,2012-01-01,UZB,3
+Summer,2016 Rio de Janeiro,2016-01-01,UZB,13
+Summer,2004 Athina,2004-01-01,AZE,5
+Summer,2012 London,2012-01-01,AZE,10
+Summer,2012 London,2012-01-01,UAE,0
+Summer,1988 Seoul,1988-01-01,KUW,0
+Summer,2004 Athina,2004-01-01,UZB,5
+Summer,2008 Beijing,2008-01-01,KGZ,2
+Summer,2012 London,2012-01-01,KGZ,0
+Summer,2016 Rio de Janeiro,2016-01-01,TJK,1
+Summer,2016 Rio de Janeiro,2016-01-01,RUS,56
+Summer,2004 Athina,2004-01-01,TJK,0
+Summer,2008 Beijing,2008-01-01,TJK,2
+Summer,2012 London,2012-01-01,TJK,1
+Summer,1980 Moskva,1980-01-01,LBA,0
+Summer,1992 Barcelona,1992-01-01,EUN,112
+Summer,1988 Seoul,1988-01-01,URS,131
+Summer,2004 Athina,2004-01-01,KGZ,0
+Summer,1936 Berlin,1936-01-01,JPN,20
+Winter,1972 Sapporo,1972-01-01,JPN,3
+Winter,1976 Innsbruck,1976-01-01,JPN,0
+Summer,1960 Roma,1960-01-01,JPN,18
+Summer,1992 Barcelona,1992-01-01,JPN,22
+Summer,1972 Munich,1972-01-01,JPN,29
+Winter,1988 Calgary,1988-01-01,JPN,1
+Winter,1992 Albertville,1992-01-01,JPN,7
+Winter,1994 Lillehammer,1994-01-01,JPN,5
+Summer,1968 Mexico City,1968-01-01,JPN,25
+Summer,1976 Montreal,1976-01-01,JPN,25
+Summer,2000 Sydney,2000-01-01,JPN,18
+Summer,2008 Beijing,2008-01-01,JPN,25
+Summer,1996 Atlanta,1996-01-01,JPN,14
+Summer,1984 Los Angeles,1984-01-01,JPN,31
+Summer,1988 Seoul,1988-01-01,JPN,14
+Summer,2004 Athina,2004-01-01,JPN,37
+Summer,1980 Moskva,1980-01-01,CGO,0
+Summer,1992 Barcelona,1992-01-01,ETH,3
+Summer,1984 Los Angeles,1984-01-01,CMR,1
+Summer,1924 Paris,1924-01-01,SUI,25
+Summer,1928 Amsterdam,1928-01-01,SUI,17
+Summer,1972 Munich,1972-01-01,BRA,2
+Summer,1976 Montreal,1976-01-01,BRA,2
+Summer,2004 Athina,2004-01-01,ESP,20
+Summer,1928 Amsterdam,1928-01-01,GER,39
+Winter,1924 Chamonix,1924-01-01,USA,4
+Winter,1952 Oslo,1952-01-01,CAN,2
+Winter,1976 Innsbruck,1976-01-01,FRG,10
+Winter,1980 Lake Placid,1980-01-01,FRG,5
+Summer,1972 Munich,1972-01-01,GDR,66
+Summer,2012 London,2012-01-01,CAN,18
+Summer,2016 Rio de Janeiro,2016-01-01,CAN,22
+Summer,2008 Beijing,2008-01-01,GER,41
+Summer,2000 Sydney,2000-01-01,ESP,11
+Summer,1924 Paris,1924-01-01,MON,1
+Summer,1936 Berlin,1936-01-01,MON,0
+Summer,1948 London,1948-01-01,MON,0
+Summer,1952 Helsinki,1952-01-01,MON,0
+Summer,2012 London,2012-01-01,CUB,14
+Summer,1992 Barcelona,1992-01-01,ESP,22
+Summer,2016 Rio de Janeiro,2016-01-01,GER,42
+Summer,1960 Roma,1960-01-01,ISR,0
+Summer,1904 St. Louis,1904-01-01,USA,230
+Summer,2016 Rio de Janeiro,2016-01-01,MEX,5
+Summer,1948 London,1948-01-01,URU,2
+Winter,1980 Lake Placid,1980-01-01,ARG,0
+Summer,1988 Seoul,1988-01-01,ESP,4
+Summer,1952 Helsinki,1952-01-01,ESP,1
+Summer,1996 Atlanta,1996-01-01,CMR,0
+Summer,2000 Sydney,2000-01-01,ETH,8
+Summer,2016 Rio de Janeiro,2016-01-01,ETH,8
+Summer,1968 Mexico City,1968-01-01,ARG,2
+Summer,1972 Munich,1972-01-01,ARG,1
+Summer,1976 Montreal,1976-01-01,ARG,0
+Summer,1912 Stockholm,1912-01-01,SWE,65
+Winter,1992 Albertville,1992-01-01,SWE,4
+Summer,1988 Seoul,1988-01-01,SWE,11
+Summer,1948 London,1948-01-01,SWE,46
+Summer,1952 Helsinki,1952-01-01,SWE,35
+Winter,1988 Calgary,1988-01-01,ISV,0
+Winter,1992 Albertville,1992-01-01,ISV,0
+Winter,1994 Lillehammer,1994-01-01,ISV,0
+Winter,1998 Nagano,1998-01-01,ISV,0
+Winter,2002 Salt Lake City,2002-01-01,ISV,0
+Summer,1956 Melbourne,1956-01-01,RSA,4
+Summer,1996 Atlanta,1996-01-01,ALG,3
+Winter,1952 Oslo,1952-01-01,SUI,2
+Summer,1972 Munich,1972-01-01,ITA,18
+Summer,2004 Athina,2004-01-01,TUR,11
+Summer,2008 Beijing,2008-01-01,TUR,7
+Summer,2000 Sydney,2000-01-01,SRI,1
+Summer,2016 Rio de Janeiro,2016-01-01,SRI,0
+Summer,2016 Rio de Janeiro,2016-01-01,ARM,4
+Summer,1992 Barcelona,1992-01-01,CIV,0
+Summer,1996 Atlanta,1996-01-01,CIV,0
+Summer,2008 Beijing,2008-01-01,CIV,0
+Summer,2012 London,2012-01-01,ESP,17
+Summer,1984 Los Angeles,1984-01-01,FRA,28
+Summer,1988 Seoul,1988-01-01,GDR,102
+Summer,1988 Seoul,1988-01-01,TUN,0
+Summer,1988 Seoul,1988-01-01,IRQ,0
+Summer,2008 Beijing,2008-01-01,KAZ,13
+Summer,2012 London,2012-01-01,JPN,38
+Summer,2016 Rio de Janeiro,2016-01-01,KEN,13
+Summer,1976 Montreal,1976-01-01,BUL,22
+Summer,1980 Moskva,1980-01-01,BUL,41
+Summer,2012 London,2012-01-01,NGR,0
+Summer,2016 Rio de Janeiro,2016-01-01,NGR,1
+Summer,1980 Moskva,1980-01-01,BEN,0
+Summer,1984 Los Angeles,1984-01-01,BEN,0
+Winter,1998 Nagano,1998-01-01,FRA,8
+Summer,2016 Rio de Janeiro,2016-01-01,BRA,19
+Winter,2002 Salt Lake City,2002-01-01,UKR,0
+Winter,2006 Torino,2006-01-01,UKR,2
+Winter,2010 Vancouver,2010-01-01,UKR,0
+Summer,1928 Amsterdam,1928-01-01,GBR,22
+Summer,1936 Berlin,1936-01-01,GBR,14
+Summer,1932 Los Angeles,1932-01-01,USA,110
+Summer,1976 Montreal,1976-01-01,NED,5
+Summer,1996 Atlanta,1996-01-01,GHA,0
+Summer,1972 Munich,1972-01-01,SOM,0
+Winter,1998 Nagano,1998-01-01,LAT,0
+Winter,2014 Sochi,2014-01-01,LAT,4
+Summer,2016 Rio de Janeiro,2016-01-01,AUS,29
+Winter,1988 Calgary,1988-01-01,ESP,0
+Summer,1968 Mexico City,1968-01-01,LIB,0
+Summer,1972 Munich,1972-01-01,LIB,1
+Summer,2000 Sydney,2000-01-01,SYR,0
+Summer,2000 Sydney,2000-01-01,MAR,5
+Summer,1988 Seoul,1988-01-01,NIG,0
+Summer,1988 Seoul,1988-01-01,LBA,0
+Summer,1984 Los Angeles,1984-01-01,ALG,2
+Summer,1984 Los Angeles,1984-01-01,IRQ,0
+Summer,1968 Mexico City,1968-01-01,EGY,0
+Winter,1992 Albertville,1992-01-01,LIB,0
+Summer,2004 Athina,2004-01-01,MLI,0
+Summer,1956 Melbourne,1956-01-01,AFG,0
+Summer,1996 Atlanta,1996-01-01,USA,101
+Summer,1912 Stockholm,1912-01-01,GER,26
+Summer,1936 Berlin,1936-01-01,ROU,1
+Summer,1988 Seoul,1988-01-01,HUN,23
+Summer,1906 Athina,1906-01-01,GER,14
+Summer,1976 Montreal,1976-01-01,GBR,13
+Summer,1980 Moskva,1980-01-01,GBR,21
+Summer,2016 Rio de Janeiro,2016-01-01,CHI,0
+Summer,2016 Rio de Janeiro,2016-01-01,SUI,7
+Summer,1984 Los Angeles,1984-01-01,IND,0
+Summer,1988 Seoul,1988-01-01,IND,0
+Summer,1992 Barcelona,1992-01-01,IND,0
+Summer,1996 Atlanta,1996-01-01,IND,1
+Summer,1980 Moskva,1980-01-01,POL,32
+Summer,2000 Sydney,2000-01-01,SWE,12
+Summer,2004 Athina,2004-01-01,SWE,7
+Summer,2008 Beijing,2008-01-01,SWE,5
+Summer,1968 Mexico City,1968-01-01,FRA,15
+Summer,1984 Los Angeles,1984-01-01,CRC,0
+Summer,1976 Montreal,1976-01-01,PAN,0
+Summer,1920 Antwerpen,1920-01-01,GBR,43
+Summer,1924 Paris,1924-01-01,GBR,35
+Summer,1906 Athina,1906-01-01,GBR,25
+Summer,1912 Stockholm,1912-01-01,GBR,41
+Winter,1988 Calgary,1988-01-01,NOR,5
+Winter,1980 Lake Placid,1980-01-01,NOR,10
+Summer,1984 Los Angeles,1984-01-01,USA,173
+Summer,1972 Munich,1972-01-01,USA,94
+Summer,1976 Montreal,1976-01-01,USA,94
+Winter,1972 Sapporo,1972-01-01,SWE,4
+Summer,1920 Antwerpen,1920-01-01,SWE,64
+Summer,1960 Roma,1960-01-01,SWE,6
+Summer,1964 Tokyo,1964-01-01,SWE,8
+Winter,1928 Sankt Moritz,1928-01-01,SWE,5
+Winter,2006 Torino,2006-01-01,GEO,0
+Winter,2010 Vancouver,2010-01-01,GEO,0
+Winter,2014 Sochi,2014-01-01,GEO,0
+Summer,2016 Rio de Janeiro,2016-01-01,BLR,9
+Winter,2014 Sochi,2014-01-01,UKR,2
+Winter,2010 Vancouver,2010-01-01,BLR,3
+Winter,2014 Sochi,2014-01-01,BLR,6
+Summer,1992 Barcelona,1992-01-01,MAR,3
+Summer,1996 Atlanta,1996-01-01,GEO,2
+Summer,1996 Atlanta,1996-01-01,SLO,2
+Winter,1994 Lillehammer,1994-01-01,GEO,0
+Winter,1998 Nagano,1998-01-01,GEO,0
+Summer,1960 Roma,1960-01-01,URS,103
+Winter,1994 Lillehammer,1994-01-01,RUS,23
+Winter,2006 Torino,2006-01-01,RUS,22
+Winter,2010 Vancouver,2010-01-01,RUS,15
+Winter,2006 Torino,2006-01-01,CRO,3
+Summer,2016 Rio de Janeiro,2016-01-01,GUY,0
+Summer,1988 Seoul,1988-01-01,GUY,0
+Summer,1956 Melbourne,1956-01-01,NZL,2
+Summer,1960 Roma,1960-01-01,NZL,3
+Summer,2016 Rio de Janeiro,2016-01-01,GEO,7
+Summer,1988 Seoul,1988-01-01,POR,1
+Summer,1992 Barcelona,1992-01-01,POR,0
+Summer,1996 Atlanta,1996-01-01,POR,2
+Summer,2008 Beijing,2008-01-01,POR,2
+Summer,2012 London,2012-01-01,POR,1
+Summer,1996 Atlanta,1996-01-01,FRA,37
+Winter,1994 Lillehammer,1994-01-01,BUL,0
+Summer,2012 London,2012-01-01,SUI,4
+Winter,1994 Lillehammer,1994-01-01,GER,24
+Winter,1992 Albertville,1992-01-01,POL,0
+Winter,1998 Nagano,1998-01-01,POL,0
+Winter,2002 Salt Lake City,2002-01-01,POL,2
+Summer,2016 Rio de Janeiro,2016-01-01,POR,1
+Summer,1976 Montreal,1976-01-01,CUB,13
+Summer,2004 Athina,2004-01-01,BRA,10
+Summer,1968 Mexico City,1968-01-01,POR,0
+Summer,1976 Montreal,1976-01-01,PAR,0
+Summer,2008 Beijing,2008-01-01,ANG,0
+Summer,1984 Los Angeles,1984-01-01,BRA,8
+Summer,1980 Moskva,1980-01-01,CUB,20
+Summer,1996 Atlanta,1996-01-01,VEN,0
+Summer,1976 Montreal,1976-01-01,POR,2
+Summer,1980 Moskva,1980-01-01,POR,0
+Summer,1988 Seoul,1988-01-01,FRA,16
+Summer,2012 London,2012-01-01,COL,8
+Summer,2016 Rio de Janeiro,2016-01-01,COL,8
+Summer,2016 Rio de Janeiro,2016-01-01,DJI,0
+Summer,2000 Sydney,2000-01-01,RUS,89
+Summer,1952 Helsinki,1952-01-01,ROU,4
+Summer,2012 London,2012-01-01,ETH,7
+Summer,1988 Seoul,1988-01-01,USA,94
+Winter,2002 Salt Lake City,2002-01-01,GER,36
+Summer,1988 Seoul,1988-01-01,FRG,40
+Winter,2002 Salt Lake City,2002-01-01,RUS,13
+Summer,2008 Beijing,2008-01-01,IRI,2
+Summer,2008 Beijing,2008-01-01,BAN,0
+Summer,2012 London,2012-01-01,JOR,0
+Summer,2016 Rio de Janeiro,2016-01-01,JOR,1
+Summer,1996 Atlanta,1996-01-01,PLE,0
+Summer,2012 London,2012-01-01,PLE,0
+Summer,2000 Sydney,2000-01-01,JOR,0
+Summer,2004 Athina,2004-01-01,JOR,0
+Summer,1996 Atlanta,1996-01-01,KAZ,11
+Summer,2004 Athina,2004-01-01,SUD,0
+Summer,2004 Athina,2004-01-01,PLE,0
+Summer,2000 Sydney,2000-01-01,CHN,58
+Summer,1988 Seoul,1988-01-01,KEN,9
+Summer,2008 Beijing,2008-01-01,NGR,4
+Summer,1968 Mexico City,1968-01-01,PER,0
+Summer,1964 Tokyo,1964-01-01,PER,0
+Summer,2004 Athina,2004-01-01,LBA,0
+Summer,2004 Athina,2004-01-01,SOM,0
+Summer,1964 Tokyo,1964-01-01,JPN,29
+Summer,2016 Rio de Janeiro,2016-01-01,PLE,0
+Summer,2016 Rio de Janeiro,2016-01-01,KSA,0
+Summer,1996 Atlanta,1996-01-01,MEX,1
+Summer,1984 Los Angeles,1984-01-01,KUW,0
+Summer,2004 Athina,2004-01-01,MEX,4
+Summer,1976 Montreal,1976-01-01,URS,125
+Summer,2012 London,2012-01-01,KAZ,13
+Summer,1988 Seoul,1988-01-01,JOR,0
+Summer,1968 Mexico City,1968-01-01,TUR,2
+Summer,1948 London,1948-01-01,TUR,12
+Summer,1952 Helsinki,1952-01-01,TUR,3
+Summer,1972 Munich,1972-01-01,FRA,13
+Summer,2008 Beijing,2008-01-01,ROU,8
+Summer,1948 London,1948-01-01,ITA,31
+Winter,1994 Lillehammer,1994-01-01,SUI,9
+Winter,1998 Nagano,1998-01-01,SUI,7
+Winter,1988 Calgary,1988-01-01,SUI,15
+Winter,1992 Albertville,1992-01-01,SUI,3
+Winter,2002 Salt Lake City,2002-01-01,SUI,11
+Summer,1908 London,1908-01-01,ITA,4
+Summer,1948 London,1948-01-01,CHI,0
+Summer,1920 Antwerpen,1920-01-01,ESP,2
+Summer,1960 Roma,1960-01-01,CHI,0
+Summer,1988 Seoul,1988-01-01,URU,0
+Summer,1968 Mexico City,1968-01-01,ESA,0
+Summer,1992 Barcelona,1992-01-01,PUR,1
+Summer,1992 Barcelona,1992-01-01,COL,1
+Summer,1972 Munich,1972-01-01,COL,3
+Summer,1972 Munich,1972-01-01,PER,0
+Summer,2008 Beijing,2008-01-01,VEN,1
+Summer,1984 Los Angeles,1984-01-01,MEX,6
+Summer,1968 Mexico City,1968-01-01,GBR,13
+Summer,1972 Munich,1972-01-01,GBR,18
+Summer,1960 Roma,1960-01-01,PHI,0
+Summer,2004 Athina,2004-01-01,IND,1
+Summer,2008 Beijing,2008-01-01,IND,3
+Summer,2016 Rio de Janeiro,2016-01-01,IND,2
+Summer,2012 London,2012-01-01,GBR,65
+Winter,1948 Sankt Moritz,1948-01-01,FRA,5
+Summer,2000 Sydney,2000-01-01,GER,56
+Summer,1964 Tokyo,1964-01-01,GHA,1
+Summer,2016 Rio de Janeiro,2016-01-01,GHA,0
+Summer,1992 Barcelona,1992-01-01,GHA,1
+Summer,1984 Los Angeles,1984-01-01,SUI,8
+Winter,2010 Vancouver,2010-01-01,LIB,0
+Summer,1984 Los Angeles,1984-01-01,UGA,0
+Summer,1988 Seoul,1988-01-01,MAR,3
+Summer,1996 Atlanta,1996-01-01,MAR,2
+Summer,2000 Sydney,2000-01-01,GBR,28
+Summer,2008 Beijing,2008-01-01,GBR,48
+Summer,1900 Paris,1900-01-01,FRA,102
+Summer,1924 Paris,1924-01-01,FRA,40
+Winter,2014 Sochi,2014-01-01,ROU,0
+Winter,1964 Innsbruck,1964-01-01,URS,24
+Winter,1968 Grenoble,1968-01-01,URS,13
+Summer,2012 London,2012-01-01,UGA,1
+Summer,1996 Atlanta,1996-01-01,UGA,1
+Summer,2000 Sydney,2000-01-01,UGA,0
+Summer,2008 Beijing,2008-01-01,TUN,1
+Summer,2012 London,2012-01-01,TUN,3
+Summer,1956 Melbourne,1956-01-01,BEL,2
+Summer,1960 Roma,1960-01-01,BEL,4
+Summer,2012 London,2012-01-01,NED,20
+Summer,1988 Seoul,1988-01-01,CMR,0
+Summer,1956 Melbourne,1956-01-01,AUS,35
+Summer,1964 Tokyo,1964-01-01,CIV,0
+Summer,1988 Seoul,1988-01-01,UGA,0
+Summer,1988 Seoul,1988-01-01,BRA,6
+Summer,1924 Paris,1924-01-01,BEL,13
+Summer,1976 Montreal,1976-01-01,NZL,4
+Summer,1920 Antwerpen,1920-01-01,USA,95
+Summer,2004 Athina,2004-01-01,GBR,30
+Summer,1996 Atlanta,1996-01-01,GER,65
+Winter,1998 Nagano,1998-01-01,GER,29
+Winter,2006 Torino,2006-01-01,GER,29
+Summer,1968 Mexico City,1968-01-01,NED,7
+Summer,1932 Los Angeles,1932-01-01,BEL,1
+Summer,2000 Sydney,2000-01-01,SLO,2
+Summer,1992 Barcelona,1992-01-01,MEX,1
+Summer,1972 Munich,1972-01-01,CUB,8
+Summer,2016 Rio de Janeiro,2016-01-01,HON,0
+Summer,1936 Berlin,1936-01-01,MEX,3
+Summer,1960 Roma,1960-01-01,ARG,2
+Summer,1964 Tokyo,1964-01-01,ARG,1
+Summer,1936 Berlin,1936-01-01,CHI,0
+Summer,2008 Beijing,2008-01-01,ARG,6
+Summer,1984 Los Angeles,1984-01-01,ECU,0
+Summer,2008 Beijing,2008-01-01,MEX,3
+Summer,2012 London,2012-01-01,MEX,7
+Summer,2016 Rio de Janeiro,2016-01-01,ESA,0
+Summer,2016 Rio de Janeiro,2016-01-01,VEN,3
+Summer,1952 Helsinki,1952-01-01,ARG,5
+Summer,2008 Beijing,2008-01-01,CUB,24
+Summer,1980 Moskva,1980-01-01,VEN,1
+Summer,2016 Rio de Janeiro,2016-01-01,ARG,4
+Summer,1952 Helsinki,1952-01-01,URU,2
+Summer,1952 Helsinki,1952-01-01,GHA,0
+Summer,1968 Mexico City,1968-01-01,GHA,0
+Summer,1972 Munich,1972-01-01,GHA,1
+Summer,1948 London,1948-01-01,DEN,22
+Summer,1952 Helsinki,1952-01-01,DEN,6
+Winter,1960 Squaw Valley,1960-01-01,AUS,0
+Winter,2006 Torino,2006-01-01,CAN,24
+Winter,2010 Vancouver,2010-01-01,CAN,26
+Summer,2012 London,2012-01-01,VEN,1
+Summer,1972 Munich,1972-01-01,URU,0
+Summer,1948 London,1948-01-01,MEX,5
+Summer,2016 Rio de Janeiro,2016-01-01,TKM,0
+Summer,1924 Paris,1924-01-01,HUN,10
+Winter,1932 Lake Placid,1932-01-01,JPN,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,JPN,0
+Summer,2016 Rio de Janeiro,2016-01-01,JPN,41
+Winter,2014 Sochi,2014-01-01,JPN,8
+Summer,1984 Los Angeles,1984-01-01,NZL,11
+Summer,2000 Sydney,2000-01-01,TUR,5
+Summer,2008 Beijing,2008-01-01,MRI,1
+Summer,1936 Berlin,1936-01-01,USA,57
+Summer,1988 Seoul,1988-01-01,MEX,2
+Summer,1992 Barcelona,1992-01-01,SEY,0
+Summer,1976 Montreal,1976-01-01,TCH,8
+Summer,1980 Moskva,1980-01-01,TCH,14
+Summer,1908 London,1908-01-01,GER,13
+Summer,1992 Barcelona,1992-01-01,GBR,20
+Winter,2002 Salt Lake City,2002-01-01,GBR,2
+Summer,1976 Montreal,1976-01-01,GDR,90
+Summer,1912 Stockholm,1912-01-01,LUX,0
+Summer,1936 Berlin,1936-01-01,GER,101
+Summer,1912 Stockholm,1912-01-01,FRA,15
+Summer,1948 London,1948-01-01,FRA,32
+Summer,1912 Stockholm,1912-01-01,HUN,8
+Summer,1984 Los Angeles,1984-01-01,KEN,3
+Summer,1992 Barcelona,1992-01-01,KEN,8
+Summer,2004 Athina,2004-01-01,GER,49
+Summer,1996 Atlanta,1996-01-01,SUD,0
+Summer,1988 Seoul,1988-01-01,MTN,0
+Summer,1924 Paris,1924-01-01,POL,2
+Summer,1992 Barcelona,1992-01-01,POL,19
+Summer,1972 Munich,1972-01-01,POL,21
+Summer,1976 Montreal,1976-01-01,POL,26
+Summer,1948 London,1948-01-01,POL,2
+Summer,1988 Seoul,1988-01-01,TCH,8
+Summer,1992 Barcelona,1992-01-01,TCH,7
+Summer,1960 Roma,1960-01-01,MEX,1
+Winter,1992 Albertville,1992-01-01,TCH,3
+Winter,1994 Lillehammer,1994-01-01,CZE,0
+Winter,1998 Nagano,1998-01-01,CZE,3
+Summer,1996 Atlanta,1996-01-01,GRE,8
+Winter,1984 Sarajevo,1984-01-01,POL,0
+Winter,1988 Calgary,1988-01-01,POL,0
+Summer,2008 Beijing,2008-01-01,POL,10
+Summer,2012 London,2012-01-01,POL,10
+Summer,1992 Barcelona,1992-01-01,GER,82
+Summer,1952 Helsinki,1952-01-01,HUN,42
+Summer,1972 Munich,1972-01-01,IRI,3
+Summer,2012 London,2012-01-01,NIG,0
+Summer,1964 Tokyo,1964-01-01,BUL,10
+Summer,1968 Mexico City,1968-01-01,BUL,9
+Winter,1928 Sankt Moritz,1928-01-01,POL,0
+Summer,2012 London,2012-01-01,SKN,0
+Summer,2016 Rio de Janeiro,2016-01-01,SKN,0
+Summer,1992 Barcelona,1992-01-01,AUS,27
+Summer,1912 Stockholm,1912-01-01,USA,63
+Summer,1952 Helsinki,1952-01-01,CAN,3
+Winter,1948 Sankt Moritz,1948-01-01,GBR,2
+Summer,2000 Sydney,2000-01-01,RSA,5
+Summer,1908 London,1908-01-01,GBR,143
+Summer,1976 Montreal,1976-01-01,TTO,1
+Summer,1980 Moskva,1980-01-01,TTO,0
+Summer,1984 Los Angeles,1984-01-01,DOM,1
+Summer,1972 Munich,1972-01-01,CAN,5
+Summer,1988 Seoul,1988-01-01,VIN,0
+Summer,1936 Berlin,1936-01-01,CAN,9
+Summer,1976 Montreal,1976-01-01,AUS,5
+Summer,1984 Los Angeles,1984-01-01,GBR,37
+Summer,1988 Seoul,1988-01-01,GBR,24
+Summer,1988 Seoul,1988-01-01,PUR,0
+Summer,2016 Rio de Janeiro,2016-01-01,GBR,67
+Summer,1984 Los Angeles,1984-01-01,AUS,24
+Summer,1988 Seoul,1988-01-01,AUS,14
+Summer,1996 Atlanta,1996-01-01,AUS,41
+Summer,1908 London,1908-01-01,USA,46
+Summer,1928 Amsterdam,1928-01-01,CAN,15
+Summer,1960 Roma,1960-01-01,CAN,1
+Winter,2014 Sochi,2014-01-01,GBR,4
+Summer,1968 Mexico City,1968-01-01,FRG,26
+Summer,1972 Munich,1972-01-01,FRG,40
+Summer,1992 Barcelona,1992-01-01,USA,108
+Summer,1928 Amsterdam,1928-01-01,SWE,25
+Summer,2004 Athina,2004-01-01,NZL,5
+Summer,2008 Beijing,2008-01-01,NZL,9
+Summer,2012 London,2012-01-01,NZL,13
+Summer,2016 Rio de Janeiro,2016-01-01,NZL,18
+Summer,1952 Helsinki,1952-01-01,POL,4
+Summer,2012 London,2012-01-01,GER,44
+Summer,1960 Roma,1960-01-01,POL,21
+Summer,1980 Moskva,1980-01-01,SWE,12
+Summer,1984 Los Angeles,1984-01-01,JAM,3
+Summer,1988 Seoul,1988-01-01,JAM,2
+Summer,2000 Sydney,2000-01-01,GHA,0
+Summer,1988 Seoul,1988-01-01,PHI,1
+Summer,1988 Seoul,1988-01-01,SOM,0
+Summer,1996 Atlanta,1996-01-01,SOM,0
+Summer,2016 Rio de Janeiro,2016-01-01,TUR,8
+Summer,1948 London,1948-01-01,ESP,1
+Summer,1936 Berlin,1936-01-01,TUR,2
+Summer,2000 Sydney,2000-01-01,ALG,5
+Summer,1928 Amsterdam,1928-01-01,BEL,3
+Summer,1936 Berlin,1936-01-01,BEL,3
+Summer,1948 London,1948-01-01,BEL,7
+Summer,1992 Barcelona,1992-01-01,FRA,29
+Summer,1960 Roma,1960-01-01,FRA,5
+Summer,1992 Barcelona,1992-01-01,RSA,2
+Summer,1960 Roma,1960-01-01,GBR,20
+Summer,1920 Antwerpen,1920-01-01,SUI,11
+Summer,1964 Tokyo,1964-01-01,GBR,18
+Summer,1960 Roma,1960-01-01,GHA,1
+Summer,2008 Beijing,2008-01-01,LBR,0
+Summer,2012 London,2012-01-01,LBR,0
+Summer,1984 Los Angeles,1984-01-01,GHA,0
+Summer,1988 Seoul,1988-01-01,GHA,0
+Winter,1988 Calgary,1988-01-01,GDR,25
+Winter,1992 Albertville,1992-01-01,GER,26
+Summer,1948 London,1948-01-01,GBR,27
+Summer,1984 Los Angeles,1984-01-01,NGR,2
+Summer,1996 Atlanta,1996-01-01,NGR,6
+Summer,1992 Barcelona,1992-01-01,NGR,4
+Summer,1996 Atlanta,1996-01-01,SUR,0
+Summer,2000 Sydney,2000-01-01,SUR,0
+Winter,1964 Innsbruck,1964-01-01,SWE,7
+Summer,1956 Melbourne,1956-01-01,PHI,0
+Summer,1980 Moskva,1980-01-01,NED,3
+Summer,1928 Amsterdam,1928-01-01,FRA,25
+Summer,1932 Los Angeles,1932-01-01,FRA,20
+Winter,2014 Sochi,2014-01-01,FRA,15
+Summer,2012 London,2012-01-01,ERI,0
+Summer,2016 Rio de Janeiro,2016-01-01,ERI,0
+Summer,2000 Sydney,2000-01-01,SOM,0
+Summer,1984 Los Angeles,1984-01-01,SOM,0
+Summer,2012 London,2012-01-01,BRA,17
+Summer,1972 Munich,1972-01-01,CMR,0
+Summer,1996 Atlanta,1996-01-01,ETH,3
+Summer,2008 Beijing,2008-01-01,ETH,7
+Summer,1952 Helsinki,1952-01-01,GER,24
+Summer,2016 Rio de Janeiro,2016-01-01,UGA,0
+Summer,1952 Helsinki,1952-01-01,BRA,3
+Summer,1980 Moskva,1980-01-01,NGR,0
+Summer,1964 Tokyo,1964-01-01,BRA,1
+Winter,1976 Innsbruck,1976-01-01,USA,10
+Winter,1980 Lake Placid,1980-01-01,USA,12
+Summer,2008 Beijing,2008-01-01,NEP,0
+Summer,1972 Munich,1972-01-01,UGA,2
+Summer,2008 Beijing,2008-01-01,ARM,6
+Summer,2000 Sydney,2000-01-01,LBA,0
+Summer,1980 Moskva,1980-01-01,BRA,4
+Summer,1936 Berlin,1936-01-01,URU,0
+Summer,2000 Sydney,2000-01-01,FRA,38
+Summer,2016 Rio de Janeiro,2016-01-01,MGL,2
+Summer,1932 Los Angeles,1932-01-01,PHI,3
+Summer,1936 Berlin,1936-01-01,PHI,1
+Winter,2010 Vancouver,2010-01-01,GER,30
+Summer,1952 Helsinki,1952-01-01,USA,76
+Summer,1992 Barcelona,1992-01-01,BRA,3
+Summer,1960 Roma,1960-01-01,GER,42
+Summer,1912 Stockholm,1912-01-01,AUT,4
+Summer,1924 Paris,1924-01-01,AUT,4
+Summer,1964 Tokyo,1964-01-01,GER,50
+Summer,1912 Stockholm,1912-01-01,RUS,5
+Summer,1936 Berlin,1936-01-01,SWE,21
+Summer,1908 London,1908-01-01,SWE,25
+Summer,2012 London,2012-01-01,SWE,8
+Summer,1924 Paris,1924-01-01,SWE,29
+Summer,1960 Roma,1960-01-01,ETH,1
+Summer,1924 Paris,1924-01-01,NED,11
+Summer,1928 Amsterdam,1928-01-01,NED,23
+Summer,1996 Atlanta,1996-01-01,SYR,1
+Summer,1960 Roma,1960-01-01,MAR,1
+Summer,1964 Tokyo,1964-01-01,MAR,0
+Summer,1960 Roma,1960-01-01,UGA,0
+Summer,1984 Los Angeles,1984-01-01,CIV,1
+Summer,2000 Sydney,2000-01-01,PLW,0
+Winter,1924 Chamonix,1924-01-01,TCH,0
+Winter,1964 Innsbruck,1964-01-01,SUI,0
+Summer,1948 London,1948-01-01,PHI,0
+Summer,1992 Barcelona,1992-01-01,SWE,12
+Winter,1980 Lake Placid,1980-01-01,SWE,4
+Winter,1984 Sarajevo,1984-01-01,SWE,8
+Winter,1976 Innsbruck,1976-01-01,SWE,2
+Summer,2000 Sydney,2000-01-01,LTU,5
+Summer,2004 Athina,2004-01-01,LTU,3
+Summer,1984 Los Angeles,1984-01-01,SWE,19
+Summer,2016 Rio de Janeiro,2016-01-01,LTU,4
+Summer,1972 Munich,1972-01-01,HUN,35
+Summer,1972 Munich,1972-01-01,PHI,0
+Summer,1984 Los Angeles,1984-01-01,MON,0
+Summer,1996 Atlanta,1996-01-01,PUR,1
+Summer,1964 Tokyo,1964-01-01,PUR,0
+Summer,1968 Mexico City,1968-01-01,PUR,0
+Summer,1972 Munich,1972-01-01,TOG,0
+Summer,1920 Antwerpen,1920-01-01,BEL,42
+Summer,2016 Rio de Janeiro,2016-01-01,NAM,0
+Summer,1984 Los Angeles,1984-01-01,INA,0
+Summer,1988 Seoul,1988-01-01,INA,1
+Summer,1996 Atlanta,1996-01-01,BRA,15
+Summer,2000 Sydney,2000-01-01,BRA,12
+Summer,1960 Roma,1960-01-01,AHO,0
+Summer,1972 Munich,1972-01-01,AHO,0
+Summer,2004 Athina,2004-01-01,NED,22
+Summer,2008 Beijing,2008-01-01,NED,16
+Summer,2008 Beijing,2008-01-01,BRA,16
+Summer,1996 Atlanta,1996-01-01,HUN,21
+Winter,1968 Grenoble,1968-01-01,ESP,0
+Summer,1952 Helsinki,1952-01-01,CHI,2
+Summer,1980 Moskva,1980-01-01,MGL,4
+Summer,2004 Athina,2004-01-01,UKR,22
+Summer,2008 Beijing,2008-01-01,UKR,27
+Winter,2002 Salt Lake City,2002-01-01,KAZ,0
+Summer,2016 Rio de Janeiro,2016-01-01,KGZ,0
+Summer,1996 Atlanta,1996-01-01,UKR,23
+Summer,2000 Sydney,2000-01-01,UKR,23
+Summer,1984 Los Angeles,1984-01-01,ISL,1
+Summer,2008 Beijing,2008-01-01,ASA,0
+Summer,1948 London,1948-01-01,SUI,22
+Summer,1936 Berlin,1936-01-01,SUI,18
+Summer,1988 Seoul,1988-01-01,SUI,4
+Winter,2006 Torino,2006-01-01,SUI,14
+Summer,1972 Munich,1972-01-01,AUT,3
+Summer,1912 Stockholm,1912-01-01,BEL,6
+Summer,1976 Montreal,1976-01-01,SUI,4
+Summer,2012 London,2012-01-01,BEL,3
+Winter,2014 Sochi,2014-01-01,SUI,11
+Winter,2014 Sochi,2014-01-01,BEL,0
+Summer,2008 Beijing,2008-01-01,BEL,2
+Summer,1992 Barcelona,1992-01-01,SUI,1
+Summer,1972 Munich,1972-01-01,SUI,3
+Winter,1972 Sapporo,1972-01-01,SUI,10
+Summer,2016 Rio de Janeiro,2016-01-01,PUR,1
+Summer,1996 Atlanta,1996-01-01,RUS,63
+Summer,1968 Mexico City,1968-01-01,URS,91
+Summer,1984 Los Angeles,1984-01-01,MAR,2
+Summer,2012 London,2012-01-01,MAS,2
+Summer,2016 Rio de Janeiro,2016-01-01,MAS,5
+Summer,2004 Athina,2004-01-01,ETH,7
+Summer,1936 Berlin,1936-01-01,AFG,0
+Winter,1924 Chamonix,1924-01-01,SUI,3
+Summer,1980 Moskva,1980-01-01,SUI,2
+Summer,1988 Seoul,1988-01-01,IRI,1
+Winter,2014 Sochi,2014-01-01,TOG,0
+Summer,2000 Sydney,2000-01-01,IRI,4
+Summer,2016 Rio de Janeiro,2016-01-01,SAM,0
+Summer,2000 Sydney,2000-01-01,NGR,3
+Summer,2016 Rio de Janeiro,2016-01-01,ANG,0
+Summer,1976 Montreal,1976-01-01,ROU,27
+Summer,2016 Rio de Janeiro,2016-01-01,RSA,10
+Summer,2000 Sydney,2000-01-01,GRE,13
+Summer,2008 Beijing,2008-01-01,GRE,4
+Summer,2012 London,2012-01-01,GRE,2
+Summer,2016 Rio de Janeiro,2016-01-01,GRE,6
+Summer,1992 Barcelona,1992-01-01,IRI,3
+Summer,1952 Helsinki,1952-01-01,IRI,7
+Summer,1948 London,1948-01-01,AFG,0
+Summer,1988 Seoul,1988-01-01,PAK,1
+Winter,1964 Innsbruck,1964-01-01,IRI,0
+Summer,2012 London,2012-01-01,ROU,9
+Summer,1984 Los Angeles,1984-01-01,ROU,52
+Winter,2014 Sochi,2014-01-01,TUR,0
+Summer,2012 London,2012-01-01,RWA,0
+Summer,2004 Athina,2004-01-01,ITA,32
+Winter,2006 Torino,2006-01-01,UZB,0
+Summer,1996 Atlanta,1996-01-01,CRO,2
+Summer,2000 Sydney,2000-01-01,CRO,2
+Summer,2000 Sydney,2000-01-01,DMA,0
+Winter,1976 Innsbruck,1976-01-01,GBR,1
+Summer,1996 Atlanta,1996-01-01,DMA,0
+Summer,1968 Mexico City,1968-01-01,PAN,0
+Summer,1980 Moskva,1980-01-01,SEY,0
+Summer,1924 Paris,1924-01-01,EGY,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,ITA,3
+Summer,1972 Munich,1972-01-01,BEN,0
+Summer,1992 Barcelona,1992-01-01,BEN,0
+Summer,2012 London,2012-01-01,TOG,0
+Summer,1980 Moskva,1980-01-01,FRA,14
+Summer,1988 Seoul,1988-01-01,HAI,0
+Summer,1996 Atlanta,1996-01-01,HAI,0
+Summer,2000 Sydney,2000-01-01,DEN,6
+Summer,2016 Rio de Janeiro,2016-01-01,NOR,4
+Summer,1956 Melbourne,1956-01-01,URS,98
+Summer,1960 Roma,1960-01-01,KEN,0
+Summer,1964 Tokyo,1964-01-01,KEN,1
+Winter,1960 Squaw Valley,1960-01-01,SWE,7
+Summer,1908 London,1908-01-01,DEN,5
+Summer,2004 Athina,2004-01-01,ALG,0
+Summer,1972 Munich,1972-01-01,ROU,16
+Summer,2004 Athina,2004-01-01,ARM,0
+Summer,1964 Tokyo,1964-01-01,IRI,2
+Summer,1980 Moskva,1980-01-01,MLT,0
+Summer,1984 Los Angeles,1984-01-01,MLT,0
+Summer,1988 Seoul,1988-01-01,MLT,0
+Summer,2004 Athina,2004-01-01,MLT,0
+Winter,1994 Lillehammer,1994-01-01,FRA,5
+Winter,1952 Oslo,1952-01-01,FRA,1
+Winter,1956 Cortina d'Ampezzo,1956-01-01,FRA,0
+Summer,1948 London,1948-01-01,AUS,13
+Summer,1952 Helsinki,1952-01-01,AUS,11
+Summer,1964 Tokyo,1964-01-01,ITA,27
+Summer,1984 Los Angeles,1984-01-01,LUX,0
+Winter,2014 Sochi,2014-01-01,CAN,25
+Summer,1952 Helsinki,1952-01-01,ITA,21
+Summer,1948 London,1948-01-01,CUB,1
+Summer,1956 Melbourne,1956-01-01,TTO,0
+Winter,2006 Torino,2006-01-01,USA,25
+Summer,2008 Beijing,2008-01-01,AUT,3
+Summer,1964 Tokyo,1964-01-01,HUN,22
+Summer,1928 Amsterdam,1928-01-01,ITA,20
+Summer,1932 Los Angeles,1932-01-01,ITA,36
+Winter,1964 Innsbruck,1964-01-01,ARG,0
+Summer,1996 Atlanta,1996-01-01,TUN,1
+Winter,2014 Sochi,2014-01-01,ITA,8
+Summer,2008 Beijing,2008-01-01,SEY,0
+Summer,1976 Montreal,1976-01-01,FRG,39
+Summer,1984 Los Angeles,1984-01-01,FRG,59
+Summer,1976 Montreal,1976-01-01,GRE,0
+Summer,1984 Los Angeles,1984-01-01,PUR,2
+Summer,1984 Los Angeles,1984-01-01,CYP,0
+Summer,2008 Beijing,2008-01-01,DOM,2
+Summer,1996 Atlanta,1996-01-01,BEN,0
+Summer,1948 London,1948-01-01,ARG,7
+Summer,1988 Seoul,1988-01-01,ARG,2
+Summer,1952 Helsinki,1952-01-01,CUB,0
+Summer,1988 Seoul,1988-01-01,TOG,0
+Summer,2000 Sydney,2000-01-01,ANG,0
+Summer,1960 Roma,1960-01-01,URU,0
+Summer,1984 Los Angeles,1984-01-01,ARG,0
+Summer,1980 Moskva,1980-01-01,GUI,0
+Summer,1996 Atlanta,1996-01-01,CUB,25
+Summer,1980 Moskva,1980-01-01,CRC,0
+Summer,1964 Tokyo,1964-01-01,ESP,0
+Summer,1984 Los Angeles,1984-01-01,PAN,0
+Summer,1992 Barcelona,1992-01-01,PAN,0
+Summer,2004 Athina,2004-01-01,CUB,27
+Summer,1968 Mexico City,1968-01-01,CRC,0
+Summer,1964 Tokyo,1964-01-01,MEX,1
+Summer,1924 Paris,1924-01-01,MEX,0
+Summer,1972 Munich,1972-01-01,MEX,1
+Summer,1976 Montreal,1976-01-01,MEX,2
+Summer,2004 Athina,2004-01-01,BIZ,0
+Summer,1988 Seoul,1988-01-01,CRC,1
+Summer,1988 Seoul,1988-01-01,CHI,1
+Summer,2016 Rio de Janeiro,2016-01-01,CUB,11
+Winter,2002 Salt Lake City,2002-01-01,TTO,0
+Summer,1960 Roma,1960-01-01,CUB,0
+Summer,2008 Beijing,2008-01-01,NCA,0
+Summer,2004 Athina,2004-01-01,PUR,0
+Winter,2006 Torino,2006-01-01,ARG,0
+Summer,1928 Amsterdam,1928-01-01,MEX,0
+Summer,1992 Barcelona,1992-01-01,ARG,1
+Summer,1936 Berlin,1936-01-01,ARG,7
+Summer,2008 Beijing,2008-01-01,PAR,0
+Summer,2012 London,2012-01-01,PAR,0
+Summer,2016 Rio de Janeiro,2016-01-01,PAR,0
+Summer,1924 Paris,1924-01-01,ARG,6
+Summer,1992 Barcelona,1992-01-01,NCA,0
+Summer,1996 Atlanta,1996-01-01,NCA,0
+Summer,2012 London,2012-01-01,URU,0
+Summer,2016 Rio de Janeiro,2016-01-01,INA,3
+Summer,1996 Atlanta,1996-01-01,KEN,8
+Summer,1996 Atlanta,1996-01-01,GBR,15
+Summer,1964 Tokyo,1964-01-01,AUS,18
+Summer,2008 Beijing,2008-01-01,COM,0
+Summer,2012 London,2012-01-01,COM,0
+Summer,2004 Athina,2004-01-01,MAR,3
+Summer,1980 Moskva,1980-01-01,CMR,0
+Summer,1964 Tokyo,1964-01-01,NGR,1
+Winter,1972 Sapporo,1972-01-01,USA,8
+Summer,1948 London,1948-01-01,IRL,1
+Winter,1984 Sarajevo,1984-01-01,USA,8
+Summer,1992 Barcelona,1992-01-01,TOG,0
+Summer,1968 Mexico City,1968-01-01,MAR,0
+Summer,1948 London,1948-01-01,IND,1
+Summer,1936 Berlin,1936-01-01,FIN,20
+Summer,1932 Los Angeles,1932-01-01,FIN,25
+Summer,1972 Munich,1972-01-01,DEN,1
+Winter,1998 Nagano,1998-01-01,SWE,3
+Winter,2002 Salt Lake City,2002-01-01,SWE,7
+Winter,1924 Chamonix,1924-01-01,SWE,2
+Summer,1968 Mexico City,1968-01-01,URU,0
+Summer,1972 Munich,1972-01-01,NED,5
+Summer,1928 Amsterdam,1928-01-01,FIN,25
+Summer,1948 London,1948-01-01,USA,84
+Summer,1906 Athina,1906-01-01,FIN,4
+Summer,1928 Amsterdam,1928-01-01,DEN,9
+Winter,1952 Oslo,1952-01-01,SWE,4
+Summer,1932 Los Angeles,1932-01-01,SWE,24
+Summer,1964 Tokyo,1964-01-01,NOR,0
+Summer,1984 Los Angeles,1984-01-01,NOR,3
+Summer,1956 Melbourne,1956-01-01,SWE,16
+Summer,1980 Moskva,1980-01-01,IND,1
+Summer,1984 Los Angeles,1984-01-01,QAT,0
+Summer,1976 Montreal,1976-01-01,MAS,0
+Summer,2012 London,2012-01-01,INA,2
+Summer,1968 Mexico City,1968-01-01,PAK,1
+Summer,2012 London,2012-01-01,MDV,0
+Summer,1948 London,1948-01-01,IRQ,0
+Summer,1956 Melbourne,1956-01-01,IND,1
+Summer,1984 Los Angeles,1984-01-01,PAK,1
+Summer,2000 Sydney,2000-01-01,IRQ,0
+Summer,1996 Atlanta,1996-01-01,IRQ,0
+Summer,1972 Munich,1972-01-01,PAK,1
+Summer,2000 Sydney,2000-01-01,MDV,0
+Summer,1988 Seoul,1988-01-01,YMD,0
+Summer,2016 Rio de Janeiro,2016-01-01,BAN,0
+Winter,1992 Albertville,1992-01-01,KOR,4
+Winter,1994 Lillehammer,1994-01-01,KOR,6
+Winter,1998 Nagano,1998-01-01,KOR,6
+Winter,1984 Sarajevo,1984-01-01,FRG,4
+Summer,1980 Moskva,1980-01-01,FIN,8
+Summer,1960 Roma,1960-01-01,FIN,5
+Summer,1968 Mexico City,1968-01-01,FIN,4
+Winter,1976 Innsbruck,1976-01-01,FIN,7
+Summer,1988 Seoul,1988-01-01,FIN,4
+Summer,2004 Athina,2004-01-01,FIN,2
+Winter,1998 Nagano,1998-01-01,FIN,12
+Winter,2006 Torino,2006-01-01,FIN,9
+Winter,2010 Vancouver,2010-01-01,FIN,5
+Summer,1972 Munich,1972-01-01,FIN,8
+Summer,1976 Montreal,1976-01-01,FIN,6
+Summer,2012 London,2012-01-01,BEN,0
+Summer,2012 London,2012-01-01,CIV,0
+Summer,2016 Rio de Janeiro,2016-01-01,CIV,2
+Summer,2008 Beijing,2008-01-01,NAM,0
+Summer,2012 London,2012-01-01,NAM,0
+Summer,1948 London,1948-01-01,PER,1
+Summer,1956 Melbourne,1956-01-01,CHI,4
+Winter,1956 Cortina d'Ampezzo,1956-01-01,SWE,10
+Summer,1992 Barcelona,1992-01-01,LBA,0
+Winter,2006 Torino,2006-01-01,IND,0
+Summer,1948 London,1948-01-01,COL,0
+Summer,1956 Melbourne,1956-01-01,MEX,2
+Summer,2012 London,2012-01-01,EST,2
+Summer,2012 London,2012-01-01,TTO,4
+Summer,2016 Rio de Janeiro,2016-01-01,TTO,1
+Summer,2004 Athina,2004-01-01,CHN,63
+Summer,2016 Rio de Janeiro,2016-01-01,CHN,70
+Summer,1996 Atlanta,1996-01-01,ARG,3
+Summer,2004 Athina,2004-01-01,ARG,6
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,SUI,3
+Summer,1992 Barcelona,1992-01-01,MTN,0
+Summer,1996 Atlanta,1996-01-01,MTN,0
+Summer,2012 London,2012-01-01,LTU,5
+Summer,1964 Tokyo,1964-01-01,AUT,0
+Summer,1968 Mexico City,1968-01-01,AUT,4
+Summer,1956 Melbourne,1956-01-01,JPN,17
+Winter,1988 Calgary,1988-01-01,SWE,6
+Summer,1964 Tokyo,1964-01-01,FRA,15
+Summer,1956 Melbourne,1956-01-01,THA,0
+Winter,2002 Salt Lake City,2002-01-01,FRA,11
+Summer,1996 Atlanta,1996-01-01,RSA,5
+Winter,2010 Vancouver,2010-01-01,GBR,1
+Winter,1948 Sankt Moritz,1948-01-01,ITA,1
+Summer,1932 Los Angeles,1932-01-01,GBR,17
+Summer,2000 Sydney,2000-01-01,NZL,4
+Summer,2016 Rio de Janeiro,2016-01-01,SGP,1
+Summer,2016 Rio de Janeiro,2016-01-01,MAR,1
+Winter,1984 Sarajevo,1984-01-01,MAR,0
+Winter,1988 Calgary,1988-01-01,MAR,0
+Winter,1992 Albertville,1992-01-01,MAR,0
+Summer,2000 Sydney,2000-01-01,PER,0
+Summer,2004 Athina,2004-01-01,BER,0
+Summer,2008 Beijing,2008-01-01,BER,0
+Summer,1908 London,1908-01-01,ANZ,5
+Summer,2004 Athina,2004-01-01,KAZ,8
+Summer,2012 London,2012-01-01,UKR,20
+Winter,1980 Lake Placid,1980-01-01,JPN,1
+Summer,1928 Amsterdam,1928-01-01,JPN,5
+Summer,1952 Helsinki,1952-01-01,NGR,0
+Summer,1956 Melbourne,1956-01-01,NGR,0
+Summer,2004 Athina,2004-01-01,UGA,0
+Summer,2016 Rio de Janeiro,2016-01-01,SWE,11
+Summer,2000 Sydney,2000-01-01,SCG,3
+Summer,1984 Los Angeles,1984-01-01,SYR,1
+Summer,2000 Sydney,2000-01-01,HUN,17
+Summer,2004 Athina,2004-01-01,HUN,17
+Summer,1988 Seoul,1988-01-01,TUR,2
+Summer,2000 Sydney,2000-01-01,CIV,0
+Summer,1980 Moskva,1980-01-01,SLE,0
+Winter,1960 Squaw Valley,1960-01-01,JPN,0
+Summer,1924 Paris,1924-01-01,TUR,0
+Summer,1956 Melbourne,1956-01-01,TUR,7
+Summer,1960 Roma,1960-01-01,TUR,9
+Summer,1964 Tokyo,1964-01-01,TUR,6
+Summer,1972 Munich,1972-01-01,TUR,1
+Summer,2012 London,2012-01-01,VIN,0
+Summer,2012 London,2012-01-01,TUR,5
+Summer,1976 Montreal,1976-01-01,TUR,0
+Summer,1928 Amsterdam,1928-01-01,LTU,0
+Summer,2004 Athina,2004-01-01,SAM,0
+Summer,2008 Beijing,2008-01-01,SAM,0
+Summer,1972 Munich,1972-01-01,AUS,17
+Winter,1960 Squaw Valley,1960-01-01,USA,10
+Winter,1964 Innsbruck,1964-01-01,USA,7
+Summer,1968 Mexico City,1968-01-01,SWE,4
+Winter,1964 Innsbruck,1964-01-01,CAN,3
+Summer,1984 Los Angeles,1984-01-01,TUR,3
+Summer,2016 Rio de Janeiro,2016-01-01,UKR,11
+Winter,1998 Nagano,1998-01-01,RUS,18
+Summer,2000 Sydney,2000-01-01,CYP,0
+Summer,2004 Athina,2004-01-01,CYP,0
+Summer,2008 Beijing,2008-01-01,CYP,0
+Summer,2012 London,2012-01-01,CYP,1
+Summer,2004 Athina,2004-01-01,IRI,6
+Winter,2014 Sochi,2014-01-01,KAZ,1
+Summer,1996 Atlanta,1996-01-01,BLR,15
+Summer,2000 Sydney,2000-01-01,KAZ,7
+Winter,2002 Salt Lake City,2002-01-01,GEO,0
+Summer,2000 Sydney,2000-01-01,KGZ,1
+Summer,2000 Sydney,2000-01-01,BAN,0
+Summer,2004 Athina,2004-01-01,BAN,0
+Summer,1996 Atlanta,1996-01-01,PNG,0
+Winter,1968 Grenoble,1968-01-01,JPN,0
+Summer,2004 Athina,2004-01-01,NGR,2
+Summer,1980 Moskva,1980-01-01,UGA,1
+Summer,2008 Beijing,2008-01-01,KEN,15
+Summer,1972 Munich,1972-01-01,MAR,0
+Summer,1984 Los Angeles,1984-01-01,SUD,0
+Summer,1988 Seoul,1988-01-01,TAN,0
+Summer,1984 Los Angeles,1984-01-01,FIN,12
+Summer,1964 Tokyo,1964-01-01,IND,1
+Summer,1996 Atlanta,1996-01-01,TOG,0
+Summer,1960 Roma,1960-01-01,NGR,0
+Summer,1896 Athina,1896-01-01,GRE,44
+Summer,2016 Rio de Janeiro,2016-01-01,TUN,3
+Summer,1980 Moskva,1980-01-01,AFG,0
+Summer,1996 Atlanta,1996-01-01,DEN,6
+Summer,1980 Moskva,1980-01-01,LIB,1
+Summer,2004 Athina,2004-01-01,SYR,1
+Summer,1976 Montreal,1976-01-01,KSA,0
+Summer,1992 Barcelona,1992-01-01,UAE,0
+Summer,2004 Athina,2004-01-01,YEM,0
+Summer,1996 Atlanta,1996-01-01,KUW,0
+Summer,2016 Rio de Janeiro,2016-01-01,IOA,2
+Summer,1996 Atlanta,1996-01-01,KSA,0
+Summer,2000 Sydney,2000-01-01,KSA,2
+Summer,2004 Athina,2004-01-01,KSA,0
+Summer,1984 Los Angeles,1984-01-01,OMA,0
+Summer,2016 Rio de Janeiro,2016-01-01,OMA,0
+Summer,1988 Seoul,1988-01-01,KSA,0
+Summer,1992 Barcelona,1992-01-01,BRN,0
+Summer,2008 Beijing,2008-01-01,KSA,0
+Summer,2012 London,2012-01-01,KSA,1
+Summer,1992 Barcelona,1992-01-01,OMA,0
+Summer,1992 Barcelona,1992-01-01,SYR,0
+Summer,2012 London,2012-01-01,KUW,1
+Summer,2004 Athina,2004-01-01,LIB,0
+Summer,2012 London,2012-01-01,QAT,2
+Summer,2000 Sydney,2000-01-01,QAT,1
+Summer,2016 Rio de Janeiro,2016-01-01,QAT,1
+Summer,2000 Sydney,2000-01-01,LIB,0
+Summer,2004 Athina,2004-01-01,KUW,0
+Summer,2008 Beijing,2008-01-01,KUW,0
+Summer,1972 Munich,1972-01-01,KSA,0
+Summer,1992 Barcelona,1992-01-01,KSA,0
+Summer,1988 Seoul,1988-01-01,SYR,0
+Summer,2004 Athina,2004-01-01,UAE,1
+Summer,2016 Rio de Janeiro,2016-01-01,UAE,1
+Summer,1988 Seoul,1988-01-01,OMA,0
+Summer,2004 Athina,2004-01-01,BRN,0
+Summer,2008 Beijing,2008-01-01,BRN,0
+Summer,2008 Beijing,2008-01-01,SYR,0
+Summer,2008 Beijing,2008-01-01,OMA,0
+Summer,1996 Atlanta,1996-01-01,BRN,0
+Summer,2000 Sydney,2000-01-01,OMA,0
+Summer,2004 Athina,2004-01-01,OMA,0
+Summer,2000 Sydney,2000-01-01,PLE,0
+Summer,1988 Seoul,1988-01-01,BRN,0
+Summer,1992 Barcelona,1992-01-01,YEM,0
+Summer,2012 London,2012-01-01,BRN,1
+Summer,2008 Beijing,2008-01-01,YEM,0
+Summer,2012 London,2012-01-01,YEM,0
+Summer,1984 Los Angeles,1984-01-01,YAR,0
+Summer,2012 London,2012-01-01,OMA,0
+Summer,2008 Beijing,2008-01-01,JOR,0
+Summer,1992 Barcelona,1992-01-01,JOR,0
+Summer,1996 Atlanta,1996-01-01,OMA,0
+Summer,1996 Atlanta,1996-01-01,YEM,0
+Summer,2008 Beijing,2008-01-01,UAE,0
+Summer,1988 Seoul,1988-01-01,QAT,0
+Summer,1968 Mexico City,1968-01-01,IRQ,0
+Summer,2000 Sydney,2000-01-01,YEM,0
+Summer,2000 Sydney,2000-01-01,UAE,0
+Summer,2012 London,2012-01-01,SUD,0
+Summer,1996 Atlanta,1996-01-01,JOR,0
+Summer,1960 Roma,1960-01-01,TUN,0
+Summer,2008 Beijing,2008-01-01,FIN,4
+Summer,2012 London,2012-01-01,FIN,3
+Summer,1976 Montreal,1976-01-01,BEL,6
+Summer,1980 Moskva,1980-01-01,BEL,1
+Winter,1998 Nagano,1998-01-01,TUR,0
+Winter,2002 Salt Lake City,2002-01-01,TUR,0
+Summer,1964 Tokyo,1964-01-01,MAS,0
+Summer,1912 Stockholm,1912-01-01,ITA,8
+Summer,2012 London,2012-01-01,FIJ,0
+Summer,1988 Seoul,1988-01-01,BAN,0
+Summer,1956 Melbourne,1956-01-01,PAK,1
+Summer,1996 Atlanta,1996-01-01,BAN,0
+Summer,2004 Athina,2004-01-01,BEN,0
+Summer,1920 Antwerpen,1920-01-01,FRA,42
+Summer,1964 Tokyo,1964-01-01,FIN,5
+Summer,1932 Los Angeles,1932-01-01,MEX,2
+Winter,1968 Grenoble,1968-01-01,TUR,0
+Summer,1992 Barcelona,1992-01-01,CRO,3
+Summer,2004 Athina,2004-01-01,NIG,0
+Summer,1988 Seoul,1988-01-01,BEN,0
+Winter,1960 Squaw Valley,1960-01-01,FIN,8
+Summer,2012 London,2012-01-01,VAN,0
+Summer,1992 Barcelona,1992-01-01,IOA,3
+Summer,1968 Mexico City,1968-01-01,ESP,0
+Summer,1988 Seoul,1988-01-01,COL,1
+Summer,1968 Mexico City,1968-01-01,ITA,16
+Summer,1936 Berlin,1936-01-01,BRA,0
+Summer,1936 Berlin,1936-01-01,POL,9
+Summer,1976 Montreal,1976-01-01,ITA,13
+Winter,1988 Calgary,1988-01-01,ITA,5
+Winter,1992 Albertville,1992-01-01,ITA,14
+Winter,1994 Lillehammer,1994-01-01,ITA,20
+Winter,1998 Nagano,1998-01-01,ITA,10
+Summer,1960 Roma,1960-01-01,ESP,1
+Summer,1928 Amsterdam,1928-01-01,ARG,7
+Summer,1996 Atlanta,1996-01-01,SWE,8
+Summer,1960 Roma,1960-01-01,HUN,21
+Summer,1908 London,1908-01-01,FRA,19
+Summer,1952 Helsinki,1952-01-01,AUT,2
+Winter,1924 Chamonix,1924-01-01,FRA,3
+Summer,1992 Barcelona,1992-01-01,CAN,18
+Summer,1988 Seoul,1988-01-01,CAN,10
+Summer,2008 Beijing,2008-01-01,JAM,9
+Summer,2012 London,2012-01-01,JAM,12
+Winter,1960 Squaw Valley,1960-01-01,ITA,1
+Summer,1906 Athina,1906-01-01,ITA,16
+Summer,1952 Helsinki,1952-01-01,NED,5
+Winter,1994 Lillehammer,1994-01-01,DEN,0
+Winter,2010 Vancouver,2010-01-01,DEN,0
+Winter,1998 Nagano,1998-01-01,USA,13
+Winter,2002 Salt Lake City,2002-01-01,USA,34
+Summer,1960 Roma,1960-01-01,PER,0
+Summer,2016 Rio de Janeiro,2016-01-01,MDA,0
+Winter,2002 Salt Lake City,2002-01-01,CAN,17
+Summer,1960 Roma,1960-01-01,SUI,6
+Summer,1964 Tokyo,1964-01-01,SUI,4
+Winter,2002 Salt Lake City,2002-01-01,AUT,17
+Winter,2010 Vancouver,2010-01-01,BUL,0
+Summer,1952 Helsinki,1952-01-01,SUI,14
+Winter,1980 Lake Placid,1980-01-01,GDR,23
+Summer,1972 Munich,1972-01-01,SWE,16
+Summer,1976 Montreal,1976-01-01,SWE,5
+Winter,1976 Innsbruck,1976-01-01,YUG,0
+Summer,1928 Amsterdam,1928-01-01,ROU,0
+Winter,1952 Oslo,1952-01-01,USA,11
+Winter,1956 Cortina d'Ampezzo,1956-01-01,USA,7
+Summer,1960 Roma,1960-01-01,POR,1
+Summer,1952 Helsinki,1952-01-01,BAH,0
+Summer,1956 Melbourne,1956-01-01,BAH,1
+Summer,1960 Roma,1960-01-01,BAH,0
+Summer,1968 Mexico City,1968-01-01,BAH,0
+Summer,1936 Berlin,1936-01-01,PER,0
+Summer,1976 Montreal,1976-01-01,URU,0
+Summer,1924 Paris,1924-01-01,ITA,16
+Summer,2016 Rio de Janeiro,2016-01-01,MRI,0
+Winter,2006 Torino,2006-01-01,GBR,1
+Summer,1968 Mexico City,1968-01-01,GUA,0
+Summer,1968 Mexico City,1968-01-01,CUB,4
+Summer,2012 London,2012-01-01,GUA,1
+Summer,1964 Tokyo,1964-01-01,POR,0
+Summer,1972 Munich,1972-01-01,POR,0
+Winter,1992 Albertville,1992-01-01,ARG,0
+Winter,1952 Oslo,1952-01-01,ROU,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,ROU,0
+Summer,1980 Moskva,1980-01-01,JAM,3
+Summer,1964 Tokyo,1964-01-01,CAN,4
+Summer,1972 Munich,1972-01-01,YUG,5
+Summer,1976 Montreal,1976-01-01,YUG,8
+Summer,1980 Moskva,1980-01-01,YUG,9
+Summer,2000 Sydney,2000-01-01,ROU,26
+Summer,1912 Stockholm,1912-01-01,CHI,0
+Summer,2012 London,2012-01-01,PUR,2
+Summer,1988 Seoul,1988-01-01,DOM,0
+Summer,1996 Atlanta,1996-01-01,DOM,0
+Summer,1996 Atlanta,1996-01-01,LTU,1
+Summer,2008 Beijing,2008-01-01,LTU,5
+Summer,2012 London,2012-01-01,BUL,2
+Winter,1976 Innsbruck,1976-01-01,URS,27
+Summer,2016 Rio de Janeiro,2016-01-01,BUL,3
+Summer,1992 Barcelona,1992-01-01,BUL,16
+Summer,1996 Atlanta,1996-01-01,KGZ,0
+Summer,1952 Helsinki,1952-01-01,URS,70
+Summer,2004 Athina,2004-01-01,BUL,12
+Summer,2008 Beijing,2008-01-01,BUL,5
+Winter,2006 Torino,2006-01-01,KAZ,0
+Winter,1960 Squaw Valley,1960-01-01,URS,21
+Winter,1984 Sarajevo,1984-01-01,URS,25
+Summer,2012 London,2012-01-01,ARM,3
+Summer,2012 London,2012-01-01,LAT,2
+Winter,1998 Nagano,1998-01-01,BLR,2
+Winter,1988 Calgary,1988-01-01,URS,29
+Summer,1996 Atlanta,1996-01-01,ISR,1
+Summer,2000 Sydney,2000-01-01,BLR,17
+Summer,2012 London,2012-01-01,SRB,4
+Summer,2016 Rio de Janeiro,2016-01-01,SRB,8
+Winter,1988 Calgary,1988-01-01,BUL,0
+Winter,1992 Albertville,1992-01-01,BUL,0
+Summer,2012 London,2012-01-01,BLR,12
+Summer,1928 Amsterdam,1928-01-01,ESP,1
+Summer,1980 Moskva,1980-01-01,ETH,4
+Summer,1964 Tokyo,1964-01-01,ETH,1
+Summer,1968 Mexico City,1968-01-01,ETH,2
+Summer,1968 Mexico City,1968-01-01,BRA,3
+Summer,1972 Munich,1972-01-01,PUR,0
+Summer,1960 Roma,1960-01-01,ITA,36
+Summer,1948 London,1948-01-01,BRA,1
+Winter,2014 Sochi,2014-01-01,MON,0
+Summer,1932 Los Angeles,1932-01-01,GER,24
+Summer,1988 Seoul,1988-01-01,GRE,1
+Summer,1968 Mexico City,1968-01-01,TCH,13
+Summer,1972 Munich,1972-01-01,TCH,8
+Summer,1980 Moskva,1980-01-01,GRE,3
+Summer,1984 Los Angeles,1984-01-01,GRE,2
+Summer,2012 London,2012-01-01,IVB,0
+Summer,2008 Beijing,2008-01-01,VIN,0
+Summer,2016 Rio de Janeiro,2016-01-01,VIN,0
+Summer,2000 Sydney,2000-01-01,TTO,2
+Summer,2004 Athina,2004-01-01,TTO,1
+Summer,2004 Athina,2004-01-01,CAN,12
+Summer,1996 Atlanta,1996-01-01,ISL,0
+Summer,2000 Sydney,2000-01-01,ISL,1
+Summer,2004 Athina,2004-01-01,ISL,0
+Summer,2016 Rio de Janeiro,2016-01-01,AUT,1
+Winter,1972 Sapporo,1972-01-01,GRE,0
+Winter,2002 Salt Lake City,2002-01-01,ARM,0
+Summer,1980 Moskva,1980-01-01,ROU,25
+Summer,1968 Mexico City,1968-01-01,ROU,15
+Summer,1968 Mexico City,1968-01-01,GRE,1
+Summer,1980 Moskva,1980-01-01,MOZ,0
+Summer,2016 Rio de Janeiro,2016-01-01,NIG,1
+Summer,1976 Montreal,1976-01-01,COL,0
+Summer,1980 Moskva,1980-01-01,COL,0
+Summer,2016 Rio de Janeiro,2016-01-01,CRC,0
+Summer,1928 Amsterdam,1928-01-01,CHI,1
+Summer,2012 London,2012-01-01,ESA,0
+Summer,1960 Roma,1960-01-01,NED,3
+Summer,1928 Amsterdam,1928-01-01,LUX,1
+Summer,1992 Barcelona,1992-01-01,ISV,0
+Winter,2006 Torino,2006-01-01,SWE,14
+Winter,2010 Vancouver,2010-01-01,SWE,11
+Winter,2014 Sochi,2014-01-01,SWE,15
+Summer,1976 Montreal,1976-01-01,ISL,0
+Summer,1988 Seoul,1988-01-01,BER,0
+Summer,1956 Melbourne,1956-01-01,BRA,1
+Summer,1960 Roma,1960-01-01,BRA,2
+Winter,1994 Lillehammer,1994-01-01,SWE,3
+Summer,1980 Moskva,1980-01-01,NCA,0
+Summer,2008 Beijing,2008-01-01,NIG,0
+Summer,2016 Rio de Janeiro,2016-01-01,SUD,0
+Summer,2004 Athina,2004-01-01,CAF,0
+Summer,2008 Beijing,2008-01-01,LBA,0
+Summer,2012 London,2012-01-01,MAD,0
+Summer,2016 Rio de Janeiro,2016-01-01,MAD,0
+Summer,2008 Beijing,2008-01-01,CMR,1
+Summer,2000 Sydney,2000-01-01,NIG,0
+Summer,2016 Rio de Janeiro,2016-01-01,PAK,0
+Summer,1980 Moskva,1980-01-01,AUS,9
+Summer,1960 Roma,1960-01-01,MAL,0
+Summer,1956 Melbourne,1956-01-01,MAL,0
+Summer,2004 Athina,2004-01-01,MDV,0
+Summer,1976 Montreal,1976-01-01,IND,0
+Summer,2012 London,2012-01-01,DJI,0
+Summer,1996 Atlanta,1996-01-01,DJI,0
+Summer,1960 Roma,1960-01-01,IRI,4
+Summer,2008 Beijing,2008-01-01,DJI,0
+Summer,1972 Munich,1972-01-01,ALG,0
+Summer,2016 Rio de Janeiro,2016-01-01,CHA,0
+Summer,2000 Sydney,2000-01-01,DJI,0
+Summer,2008 Beijing,2008-01-01,BIH,0
+Summer,2016 Rio de Janeiro,2016-01-01,BIH,0
+Summer,2008 Beijing,2008-01-01,GUM,0
+Summer,1996 Atlanta,1996-01-01,MDA,2
+Summer,1972 Munich,1972-01-01,INA,0
+Winter,1980 Lake Placid,1980-01-01,URS,22
+Summer,2008 Beijing,2008-01-01,CRO,5
+Summer,2012 London,2012-01-01,CRO,6
+Summer,1964 Tokyo,1964-01-01,PHI,1
+Summer,1988 Seoul,1988-01-01,SAM,0
+Summer,1992 Barcelona,1992-01-01,SAM,0
+Winter,1988 Calgary,1988-01-01,USA,6
+Summer,1968 Mexico City,1968-01-01,HUN,32
+Summer,2012 London,2012-01-01,PHI,0
+Summer,2016 Rio de Janeiro,2016-01-01,PHI,1
+Winter,1992 Albertville,1992-01-01,EUN,23
+Summer,1976 Montreal,1976-01-01,PAK,1
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,FRA,1
+Winter,1992 Albertville,1992-01-01,FRA,9
+Summer,2016 Rio de Janeiro,2016-01-01,CAY,0
+Winter,2006 Torino,2006-01-01,AUS,2
+Winter,1998 Nagano,1998-01-01,GBR,1
+Summer,2000 Sydney,2000-01-01,SVK,5
+Summer,1952 Helsinki,1952-01-01,BEL,4
+Summer,1984 Los Angeles,1984-01-01,NIG,0
+Summer,1952 Helsinki,1952-01-01,GBR,11
+Summer,1956 Melbourne,1956-01-01,GBR,21
+Summer,1936 Berlin,1936-01-01,FRA,19
+Summer,2004 Athina,2004-01-01,SUI,5
+Summer,2016 Rio de Janeiro,2016-01-01,SYR,0
+Summer,2000 Sydney,2000-01-01,GUY,0
+Winter,1984 Sarajevo,1984-01-01,AUS,0
+Summer,1960 Roma,1960-01-01,USA,71
+Summer,1968 Mexico City,1968-01-01,USA,107
+Summer,2004 Athina,2004-01-01,AUT,7
+Winter,1992 Albertville,1992-01-01,CAN,7
+Summer,1956 Melbourne,1956-01-01,USA,74
+Summer,1960 Roma,1960-01-01,AUS,22
+Summer,1964 Tokyo,1964-01-01,USA,90
+Summer,2016 Rio de Janeiro,2016-01-01,JAM,11
+Summer,2000 Sydney,2000-01-01,JAM,9
+Summer,2004 Athina,2004-01-01,JAM,5
+Summer,1932 Los Angeles,1932-01-01,IND,1
+Summer,1936 Berlin,1936-01-01,IND,1
+Winter,1972 Sapporo,1972-01-01,CAN,1
+Summer,1996 Atlanta,1996-01-01,IRL,4
+Winter,1968 Grenoble,1968-01-01,USA,5
+Winter,1948 Sankt Moritz,1948-01-01,SUI,9
+Summer,1912 Stockholm,1912-01-01,DEN,12
+Winter,1976 Innsbruck,1976-01-01,CAN,3
+Summer,2000 Sydney,2000-01-01,BAR,1
+Summer,2004 Athina,2004-01-01,BAR,0
+Summer,1992 Barcelona,1992-01-01,BAR,0
+Summer,1996 Atlanta,1996-01-01,TTO,2
+Summer,1980 Moskva,1980-01-01,TAN,2
+Summer,2016 Rio de Janeiro,2016-01-01,EST,1
+Summer,1924 Paris,1924-01-01,USA,99
+Summer,2012 London,2012-01-01,SEY,0
+Summer,2016 Rio de Janeiro,2016-01-01,SEY,0
+Summer,1920 Antwerpen,1920-01-01,ITA,25
+Summer,1964 Tokyo,1964-01-01,BEL,3
+Summer,2004 Athina,2004-01-01,CIV,0
+Summer,1992 Barcelona,1992-01-01,GUM,0
+Summer,1972 Munich,1972-01-01,JAM,1
+Summer,1976 Montreal,1976-01-01,JAM,2
+Summer,2008 Beijing,2008-01-01,BAR,0
+Summer,2012 London,2012-01-01,BAR,0
+Summer,2012 London,2012-01-01,ECU,0
+Summer,2016 Rio de Janeiro,2016-01-01,ECU,0
+Summer,1952 Helsinki,1952-01-01,MEX,1
+Summer,1964 Tokyo,1964-01-01,URU,1
+Summer,1976 Montreal,1976-01-01,PHI,0
+Summer,1992 Barcelona,1992-01-01,PHI,1
+Summer,1980 Moskva,1980-01-01,HUN,32
+Winter,1994 Lillehammer,1994-01-01,ARM,0
+Winter,1964 Innsbruck,1964-01-01,HUN,0
+Winter,1968 Grenoble,1968-01-01,HUN,0
+Winter,1972 Sapporo,1972-01-01,HUN,0
+Winter,1988 Calgary,1988-01-01,FRA,2
+Summer,1996 Atlanta,1996-01-01,GBS,0
+Summer,2004 Athina,2004-01-01,ANG,0
+Summer,2004 Athina,2004-01-01,POR,3
+Summer,2012 London,2012-01-01,ANG,0
+Summer,1988 Seoul,1988-01-01,NOR,5
+Summer,1904 St. Louis,1904-01-01,CAN,6
+Summer,2008 Beijing,2008-01-01,CHI,1
+Winter,2010 Vancouver,2010-01-01,AUS,3
+Winter,2014 Sochi,2014-01-01,AUS,3
+Summer,1972 Munich,1972-01-01,ISR,0
+Winter,1952 Oslo,1952-01-01,FIN,9
+Winter,1948 Sankt Moritz,1948-01-01,FIN,6
+Winter,1956 Cortina d'Ampezzo,1956-01-01,FIN,7
+Summer,1924 Paris,1924-01-01,CUB,0
+Summer,1924 Paris,1924-01-01,ESP,0
+Summer,1984 Los Angeles,1984-01-01,GUA,0
+Winter,2014 Sochi,2014-01-01,RUS,33
+Summer,1984 Los Angeles,1984-01-01,TUN,0
+Summer,2012 London,2012-01-01,NOR,4
+Winter,1956 Cortina d'Ampezzo,1956-01-01,SUI,6
+Winter,1992 Albertville,1992-01-01,MGL,0
+Summer,1968 Mexico City,1968-01-01,SUI,5
+Winter,1980 Lake Placid,1980-01-01,AUS,0
+Winter,2014 Sochi,2014-01-01,GER,19
+Winter,2014 Sochi,2014-01-01,AUT,17
+Summer,1936 Berlin,1936-01-01,AUT,17
+Winter,1952 Oslo,1952-01-01,GBR,1
+Summer,1948 London,1948-01-01,YUG,2
+Summer,1996 Atlanta,1996-01-01,ROU,19
+Summer,1972 Munich,1972-01-01,ESP,1
+Winter,1994 Lillehammer,1994-01-01,EST,0
+Summer,1976 Montreal,1976-01-01,CRC,0
+Summer,1992 Barcelona,1992-01-01,PAR,0
+Summer,2000 Sydney,2000-01-01,VEN,0
+Summer,2004 Athina,2004-01-01,VEN,2
+Summer,1976 Montreal,1976-01-01,PUR,1
+Summer,2000 Sydney,2000-01-01,CHI,1
+Summer,2008 Beijing,2008-01-01,HON,0
+Summer,2008 Beijing,2008-01-01,COL,2
+Summer,1992 Barcelona,1992-01-01,CRC,0
+Summer,1972 Munich,1972-01-01,ISV,0
+Summer,1980 Moskva,1980-01-01,MEX,4
+Winter,1988 Calgary,1988-01-01,MEX,0
+Winter,1992 Albertville,1992-01-01,MEX,0
+Winter,1952 Oslo,1952-01-01,ITA,2
+Winter,2006 Torino,2006-01-01,ITA,11
+Winter,1976 Innsbruck,1976-01-01,ITA,4
+Summer,1928 Amsterdam,1928-01-01,POR,1
+Summer,1952 Helsinki,1952-01-01,POR,1
+Summer,1984 Los Angeles,1984-01-01,PER,1
+Summer,1988 Seoul,1988-01-01,PER,1
+Summer,1992 Barcelona,1992-01-01,PER,1
+Summer,1988 Seoul,1988-01-01,MAS,0
+Summer,1964 Tokyo,1964-01-01,NED,10
+Summer,1920 Antwerpen,1920-01-01,LUX,1
+Summer,1924 Paris,1924-01-01,LUX,2
+Winter,2006 Torino,2006-01-01,FRA,9
+Winter,1992 Albertville,1992-01-01,PUR,0
+Winter,1994 Lillehammer,1994-01-01,PUR,0
+Winter,1998 Nagano,1998-01-01,PUR,0
+Summer,1992 Barcelona,1992-01-01,CAF,0
+Summer,2016 Rio de Janeiro,2016-01-01,PAN,0
+Summer,1972 Munich,1972-01-01,ESA,0
+Summer,2012 London,2012-01-01,CRC,0
+Summer,1984 Los Angeles,1984-01-01,THA,1
+Summer,1972 Munich,1972-01-01,MAS,0
+Summer,2008 Beijing,2008-01-01,UZB,6
+Winter,1956 Cortina d'Ampezzo,1956-01-01,GER,2
+Winter,1998 Nagano,1998-01-01,JPN,10
+Summer,1992 Barcelona,1992-01-01,SLE,0
+Summer,1996 Atlanta,1996-01-01,SLE,0
+Summer,2000 Sydney,2000-01-01,IOA,0
+Summer,2004 Athina,2004-01-01,TLS,0
+Summer,1960 Roma,1960-01-01,VEN,1
+Summer,1932 Los Angeles,1932-01-01,ESP,1
+Summer,1956 Melbourne,1956-01-01,ITA,22
+Summer,1952 Helsinki,1952-01-01,VEN,1
+Summer,1996 Atlanta,1996-01-01,COD,0
+Summer,1928 Amsterdam,1928-01-01,GRE,0
+Summer,1992 Barcelona,1992-01-01,BAN,0
+Summer,2016 Rio de Janeiro,2016-01-01,GAB,0
+Summer,1984 Los Angeles,1984-01-01,CAF,0
+Summer,1988 Seoul,1988-01-01,CAF,0
+Summer,1980 Moskva,1980-01-01,GDR,126
+Summer,2012 London,2012-01-01,AUT,0
+Winter,1960 Squaw Valley,1960-01-01,GER,8
+Winter,1964 Innsbruck,1964-01-01,GER,9
+Summer,2000 Sydney,2000-01-01,AUT,3
+Summer,1968 Mexico City,1968-01-01,POL,18
+Summer,1988 Seoul,1988-01-01,YUG,12
+Summer,1976 Montreal,1976-01-01,HUN,22
+Winter,2010 Vancouver,2010-01-01,SUI,9
+Winter,1980 Lake Placid,1980-01-01,SUI,5
+Winter,1984 Sarajevo,1984-01-01,SUI,5
+Summer,2004 Athina,2004-01-01,NAM,0
+Summer,1948 London,1948-01-01,AUT,8
+Summer,2000 Sydney,2000-01-01,INA,6
+Summer,1920 Antwerpen,1920-01-01,BRA,3
+Summer,1932 Los Angeles,1932-01-01,BRA,0
+Summer,1992 Barcelona,1992-01-01,SRI,0
+Summer,2000 Sydney,2000-01-01,BAH,3
+Summer,2004 Athina,2004-01-01,BAH,2
+Summer,2008 Beijing,2008-01-01,BAH,2
+Summer,2012 London,2012-01-01,BAH,1
+Summer,2016 Rio de Janeiro,2016-01-01,BAH,2
+Summer,1984 Los Angeles,1984-01-01,VEN,3
+Summer,1992 Barcelona,1992-01-01,SMR,0
+Summer,1996 Atlanta,1996-01-01,SMR,0
+Summer,2000 Sydney,2000-01-01,SMR,0
+Summer,2004 Athina,2004-01-01,SMR,0
+Summer,1952 Helsinki,1952-01-01,ISR,0
+Summer,1960 Roma,1960-01-01,LIB,0
+Summer,1984 Los Angeles,1984-01-01,ISR,0
+Summer,1988 Seoul,1988-01-01,ISR,0
+Summer,1992 Barcelona,1992-01-01,ISR,2
+Summer,1992 Barcelona,1992-01-01,MDV,0
+Summer,1996 Atlanta,1996-01-01,MDV,0
+Summer,2016 Rio de Janeiro,2016-01-01,ISR,2
+Summer,2008 Beijing,2008-01-01,MAS,1
+Winter,1956 Cortina d'Ampezzo,1956-01-01,IRI,0
+Summer,1988 Seoul,1988-01-01,COD,0
+Summer,1992 Barcelona,1992-01-01,COD,0
+Summer,2016 Rio de Janeiro,2016-01-01,THA,6
+Summer,1956 Stockholm,1956-01-01,DEN,1
+Summer,1996 Atlanta,1996-01-01,LAO,0
+Summer,1984 Los Angeles,1984-01-01,TAN,0
+Winter,2010 Vancouver,2010-01-01,FRA,11
+Summer,2008 Beijing,2008-01-01,GHA,0
+Summer,1968 Mexico City,1968-01-01,GUY,0
+Summer,1972 Munich,1972-01-01,BER,0
+Summer,2012 London,2012-01-01,BOT,1
+Summer,2016 Rio de Janeiro,2016-01-01,BOT,0
+Summer,2016 Rio de Janeiro,2016-01-01,ROT,0
+Summer,1976 Montreal,1976-01-01,DOM,0
+Summer,1992 Barcelona,1992-01-01,AUT,2
+Summer,1968 Mexico City,1968-01-01,GDR,25
+Summer,2012 London,2012-01-01,GHA,0
+Summer,1972 Munich,1972-01-01,KEN,9
+Summer,1964 Tokyo,1964-01-01,UGA,0
+Summer,1908 London,1908-01-01,NOR,8
+Summer,1976 Montreal,1976-01-01,NOR,2
+Summer,1972 Munich,1972-01-01,BUL,21
+Summer,2016 Rio de Janeiro,2016-01-01,KOR,21
+Summer,1984 Los Angeles,1984-01-01,KOR,19
+Summer,1988 Seoul,1988-01-01,KOR,33
+Summer,1964 Tokyo,1964-01-01,KOR,3
+Summer,1948 London,1948-01-01,KOR,2
+Summer,1956 Melbourne,1956-01-01,KOR,2
+Summer,1968 Mexico City,1968-01-01,KOR,2
+Summer,1972 Munich,1972-01-01,KOR,1
+Summer,1964 Tokyo,1964-01-01,CAM,0
+Summer,1976 Montreal,1976-01-01,PRK,2
+Summer,1992 Barcelona,1992-01-01,KOR,28
+Summer,1976 Montreal,1976-01-01,KOR,6
+Summer,1996 Atlanta,1996-01-01,KOR,27
+Summer,1960 Roma,1960-01-01,KOR,0
+Summer,2008 Beijing,2008-01-01,KOR,31
+Winter,2010 Vancouver,2010-01-01,KOR,14
+Summer,2008 Beijing,2008-01-01,PRK,6
+Summer,2012 London,2012-01-01,PRK,6
+Summer,1992 Barcelona,1992-01-01,PRK,9
+Winter,1964 Innsbruck,1964-01-01,PRK,1
+Summer,2004 Athina,2004-01-01,KOR,30
+Winter,2002 Salt Lake City,2002-01-01,KOR,4
+Winter,2006 Torino,2006-01-01,KOR,11
+Winter,2006 Torino,2006-01-01,CHN,11
+Winter,1998 Nagano,1998-01-01,CHN,8
+Winter,2002 Salt Lake City,2002-01-01,CHN,8
+Summer,1996 Atlanta,1996-01-01,CHN,50
+Summer,2000 Sydney,2000-01-01,MOZ,1
+Summer,1924 Paris,1924-01-01,GRE,1
+Summer,2004 Athina,2004-01-01,BRU,0
+Summer,1996 Atlanta,1996-01-01,SOL,0
+Winter,2002 Salt Lake City,2002-01-01,BLR,1
+Winter,2006 Torino,2006-01-01,BLR,1
+Summer,1956 Melbourne,1956-01-01,ROU,13
+Summer,1960 Roma,1960-01-01,ROU,10
+Winter,1988 Calgary,1988-01-01,GRE,0
+Winter,1992 Albertville,1992-01-01,GRE,0
+Winter,1994 Lillehammer,1994-01-01,GRE,0
+Winter,1998 Nagano,1998-01-01,GRE,0
+Summer,1984 Los Angeles,1984-01-01,YUG,18
+Summer,1968 Mexico City,1968-01-01,ECU,0
+Summer,2004 Athina,2004-01-01,CRO,5
+Winter,1960 Squaw Valley,1960-01-01,ARG,0
+Winter,1968 Grenoble,1968-01-01,AUT,11
+Winter,1972 Sapporo,1972-01-01,AUT,5
+Summer,1900 Paris,1900-01-01,AUT,6
+Summer,1906 Athina,1906-01-01,DEN,6
+Winter,1928 Sankt Moritz,1928-01-01,NOR,15
+Summer,1932 Los Angeles,1932-01-01,DEN,8
+Summer,1936 Berlin,1936-01-01,DEN,5
+Summer,1992 Barcelona,1992-01-01,DEN,6
+Summer,2016 Rio de Janeiro,2016-01-01,DEN,15
+Summer,1960 Roma,1960-01-01,DEN,6
+Summer,1900 Paris,1900-01-01,NOR,5
+Summer,1906 Athina,1906-01-01,NOR,2
+Summer,2004 Athina,2004-01-01,DEN,8
+Summer,1924 Paris,1924-01-01,DEN,11
+Winter,1932 Lake Placid,1932-01-01,USA,12
+Winter,1968 Grenoble,1968-01-01,NOR,14
+Winter,1972 Sapporo,1972-01-01,NOR,12
+Winter,1948 Sankt Moritz,1948-01-01,NOR,10
+Summer,1956 Melbourne,1956-01-01,DEN,3
+Summer,1964 Tokyo,1964-01-01,DEN,6
+Winter,2010 Vancouver,2010-01-01,NOR,23
+Summer,1976 Montreal,1976-01-01,DEN,3
+Summer,1968 Mexico City,1968-01-01,DEN,8
+Summer,2008 Beijing,2008-01-01,DEN,7
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,NOR,15
+Summer,2012 London,2012-01-01,DEN,9
+Winter,1976 Innsbruck,1976-01-01,NOR,7
+Summer,1984 Los Angeles,1984-01-01,DEN,6
+Summer,1964 Tokyo,1964-01-01,IRL,1
+Summer,1988 Seoul,1988-01-01,GUM,0
+Summer,1968 Mexico City,1968-01-01,BIZ,0
+Summer,1988 Seoul,1988-01-01,NZL,13
+Summer,1992 Barcelona,1992-01-01,NZL,10
+Summer,1996 Atlanta,1996-01-01,NZL,6
+Winter,1980 Lake Placid,1980-01-01,CAN,2
+Winter,1998 Nagano,1998-01-01,CAN,15
+Summer,1976 Montreal,1976-01-01,GUA,0
+Summer,1968 Mexico City,1968-01-01,AUS,17
+Winter,1960 Squaw Valley,1960-01-01,CAN,4
+Winter,1984 Sarajevo,1984-01-01,CAN,4
+Summer,1908 London,1908-01-01,CAN,16
+Summer,1900 Paris,1900-01-01,GBR,42
+Winter,1924 Chamonix,1924-01-01,GBR,5
+Summer,1936 Berlin,1936-01-01,LAT,2
+Winter,1948 Sankt Moritz,1948-01-01,SWE,10
+Winter,1968 Grenoble,1968-01-01,SWE,8
+Summer,1906 Athina,1906-01-01,SWE,14
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,SWE,7
+Summer,1952 Helsinki,1952-01-01,RSA,10
+Summer,2004 Athina,2004-01-01,COL,2
+Summer,2012 London,2012-01-01,KEN,11
+Winter,1984 Sarajevo,1984-01-01,GDR,24
+Winter,2006 Torino,2006-01-01,JPN,1
+Winter,2010 Vancouver,2010-01-01,JPN,5
+Summer,1972 Munich,1972-01-01,SEN,0
+Summer,1960 Roma,1960-01-01,COL,0
+Summer,1996 Atlanta,1996-01-01,CPV,0
+Summer,2016 Rio de Janeiro,2016-01-01,CPV,0
+Summer,1924 Paris,1924-01-01,URU,1
+Summer,1928 Amsterdam,1928-01-01,URU,1
+Winter,1994 Lillehammer,1994-01-01,ESP,0
+Winter,1998 Nagano,1998-01-01,ESP,0
+Summer,1948 London,1948-01-01,HUN,27
+Summer,1984 Los Angeles,1984-01-01,MRI,0
+Summer,2000 Sydney,2000-01-01,POR,2
+Summer,1948 London,1948-01-01,NED,16
+Winter,1968 Grenoble,1968-01-01,GRE,0
+Winter,2010 Vancouver,2010-01-01,ROU,0
+Summer,1964 Tokyo,1964-01-01,ROU,12
+Winter,1964 Innsbruck,1964-01-01,ROU,0
+Summer,1988 Seoul,1988-01-01,ROU,24
+Summer,2016 Rio de Janeiro,2016-01-01,POL,11
+Winter,2006 Torino,2006-01-01,LAT,1
+Winter,1928 Sankt Moritz,1928-01-01,SUI,1
+Summer,1996 Atlanta,1996-01-01,CYP,0
+Summer,1936 Berlin,1936-01-01,POR,1
+Summer,1992 Barcelona,1992-01-01,ISL,0
+Summer,1976 Montreal,1976-01-01,ISV,0
+Winter,1964 Innsbruck,1964-01-01,GBR,1
+Winter,1968 Grenoble,1968-01-01,GBR,0
+Summer,2012 London,2012-01-01,IRL,5
+Summer,1972 Munich,1972-01-01,MAD,0
+Summer,2004 Athina,2004-01-01,MAD,0
+Summer,2008 Beijing,2008-01-01,MAD,0
+Summer,1980 Moskva,1980-01-01,MAD,0
+Summer,1920 Antwerpen,1920-01-01,GRE,1
+Summer,1992 Barcelona,1992-01-01,ROU,18
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,LAT,0
+Summer,1960 Roma,1960-01-01,LUX,0
+Summer,2004 Athina,2004-01-01,CZE,9
+Summer,2000 Sydney,2000-01-01,CZE,8
+Summer,1964 Tokyo,1964-01-01,TCH,14
+Summer,1968 Mexico City,1968-01-01,CAN,5
+Summer,2004 Athina,2004-01-01,MGL,1
+Summer,2012 London,2012-01-01,MGL,5
+Summer,1928 Amsterdam,1928-01-01,AUT,4
+Summer,1964 Tokyo,1964-01-01,POL,23
+Summer,2016 Rio de Janeiro,2016-01-01,DOM,1
+Summer,2000 Sydney,2000-01-01,IND,1
+Summer,1972 Munich,1972-01-01,LUX,0
+Summer,1948 London,1948-01-01,LUX,0
+Summer,1952 Helsinki,1952-01-01,LUX,1
+Summer,1956 Melbourne,1956-01-01,KEN,0
+Winter,2010 Vancouver,2010-01-01,ITA,5
+Winter,2014 Sochi,2014-01-01,BUL,0
+Summer,1996 Atlanta,1996-01-01,BUL,15
+Summer,1906 Athina,1906-01-01,CRT,0
+Summer,2008 Beijing,2008-01-01,PHI,0
+Summer,1984 Los Angeles,1984-01-01,SGP,0
+Summer,1988 Seoul,1988-01-01,SGP,0
+Winter,1984 Sarajevo,1984-01-01,ARG,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,BUL,0
+Summer,1988 Seoul,1988-01-01,HON,0
+Summer,1996 Atlanta,1996-01-01,HON,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,ITA,0
+Winter,2014 Sochi,2014-01-01,GRE,0
+Summer,1924 Paris,1924-01-01,AUS,6
+Summer,2000 Sydney,2000-01-01,BUL,13
+Winter,1980 Lake Placid,1980-01-01,BUL,1
+Winter,1964 Innsbruck,1964-01-01,BUL,0
+Winter,1968 Grenoble,1968-01-01,BUL,0
+Summer,1936 Berlin,1936-01-01,BUL,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,BUL,0
+Summer,1952 Helsinki,1952-01-01,BUL,1
+Winter,1984 Sarajevo,1984-01-01,ITA,2
+Winter,1988 Calgary,1988-01-01,FRG,8
+Winter,1988 Calgary,1988-01-01,ROU,0
+Summer,1928 Amsterdam,1928-01-01,IRL,1
+Winter,2006 Torino,2006-01-01,CHI,0
+Summer,1968 Mexico City,1968-01-01,YUG,8
+Summer,2012 London,2012-01-01,SLO,4
+Winter,1998 Nagano,1998-01-01,AZE,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,URS,15
+Summer,2004 Athina,2004-01-01,GHA,0
+Summer,1964 Tokyo,1964-01-01,LUX,0
+Summer,1992 Barcelona,1992-01-01,INA,5
+Summer,1984 Los Angeles,1984-01-01,POR,3
+Winter,1964 Innsbruck,1964-01-01,YUG,0
+Winter,1968 Grenoble,1968-01-01,YUG,0
+Summer,1924 Paris,1924-01-01,TCH,10
+Winter,2010 Vancouver,2010-01-01,LAT,2
+Summer,1960 Roma,1960-01-01,YUG,2
+Summer,1952 Helsinki,1952-01-01,PUR,0
+Summer,1984 Los Angeles,1984-01-01,BEL,4
+Summer,1932 Los Angeles,1932-01-01,JPN,18
+Summer,1988 Seoul,1988-01-01,SUD,0
+Summer,1924 Paris,1924-01-01,LTU,0
+Summer,1968 Mexico City,1968-01-01,AHO,0
+Summer,1996 Atlanta,1996-01-01,SUI,7
+Summer,2000 Sydney,2000-01-01,SUI,9
+Summer,1964 Tokyo,1964-01-01,NZL,5
+Summer,1968 Mexico City,1968-01-01,NZL,3
+Summer,2012 London,2012-01-01,PLW,0
+Summer,1908 London,1908-01-01,BEL,8
+Summer,1992 Barcelona,1992-01-01,GEQ,0
+Winter,2006 Torino,2006-01-01,LIB,0
+Summer,2012 London,2012-01-01,HUN,18
+Summer,2016 Rio de Janeiro,2016-01-01,HUN,15
+Winter,1976 Innsbruck,1976-01-01,ROU,0
+Winter,1980 Lake Placid,1980-01-01,ROU,0
+Winter,1994 Lillehammer,1994-01-01,ROU,0
+Winter,1998 Nagano,1998-01-01,ROU,0
+Winter,2002 Salt Lake City,2002-01-01,ROU,0
+Winter,2006 Torino,2006-01-01,ROU,0
+Summer,1992 Barcelona,1992-01-01,BOL,0
+Summer,1952 Helsinki,1952-01-01,SAA,0
+Summer,1952 Helsinki,1952-01-01,IND,2
+Summer,1980 Moskva,1980-01-01,GUY,1
+Summer,1960 Roma,1960-01-01,IND,1
+Summer,1956 Melbourne,1956-01-01,YUG,3
+Summer,2012 London,2012-01-01,IND,6
+Winter,1998 Nagano,1998-01-01,KAZ,2
+Winter,2010 Vancouver,2010-01-01,AZE,0
+Summer,1956 Melbourne,1956-01-01,TCH,6
+Winter,2014 Sochi,2014-01-01,POL,6
+Summer,2004 Athina,2004-01-01,ROU,19
+Summer,1928 Amsterdam,1928-01-01,POL,7
+Summer,1928 Amsterdam,1928-01-01,YUG,5
+Summer,1996 Atlanta,1996-01-01,JAM,6
+Winter,2002 Salt Lake City,2002-01-01,ITA,13
+Summer,1988 Seoul,1988-01-01,AUT,1
+Summer,1912 Stockholm,1912-01-01,GRE,2
+Winter,1972 Sapporo,1972-01-01,FRG,5
+Winter,2002 Salt Lake City,2002-01-01,AND,0
+Winter,2006 Torino,2006-01-01,AND,0
+Summer,1908 London,1908-01-01,HUN,9
+Summer,1928 Amsterdam,1928-01-01,TCH,9
+Summer,2008 Beijing,2008-01-01,CZE,6
+Summer,2012 London,2012-01-01,CZE,10
+Summer,2016 Rio de Janeiro,2016-01-01,CZE,10
+Summer,1924 Paris,1924-01-01,EST,6
+Summer,1956 Stockholm,1956-01-01,FIN,0
+Winter,1952 Oslo,1952-01-01,POL,0
+Summer,1968 Mexico City,1968-01-01,IRI,5
+Summer,1964 Tokyo,1964-01-01,AFG,0
+Summer,1960 Roma,1960-01-01,GRE,1
+Winter,1972 Sapporo,1972-01-01,ITA,5
+Summer,2008 Beijing,2008-01-01,CHN,100
+Summer,2004 Athina,2004-01-01,LAO,0
+Winter,1952 Oslo,1952-01-01,JPN,0
+Summer,1952 Helsinki,1952-01-01,JPN,8
+Winter,1968 Grenoble,1968-01-01,MAR,0
+Summer,1964 Tokyo,1964-01-01,LIB,0
+Summer,1956 Melbourne,1956-01-01,COL,0
+Summer,1906 Athina,1906-01-01,HUN,10
+Summer,2016 Rio de Janeiro,2016-01-01,BEN,0
+Winter,1992 Albertville,1992-01-01,LAT,0
+Winter,1984 Sarajevo,1984-01-01,ROU,0
+Winter,1992 Albertville,1992-01-01,ROU,0
+Winter,1992 Albertville,1992-01-01,BRA,0
+Winter,1998 Nagano,1998-01-01,BRA,0
+Summer,1988 Seoul,1988-01-01,BEL,2
+Summer,1992 Barcelona,1992-01-01,BEL,3
+Summer,1996 Atlanta,1996-01-01,BEL,6
+Summer,2000 Sydney,2000-01-01,BEL,5
+Winter,1988 Calgary,1988-01-01,AUT,10
+Winter,1992 Albertville,1992-01-01,AUT,21
+Winter,1948 Sankt Moritz,1948-01-01,AUT,8
+Summer,1992 Barcelona,1992-01-01,ANT,0
+Summer,2016 Rio de Janeiro,2016-01-01,URU,0
+Summer,2012 London,2012-01-01,RSA,6
+Summer,1924 Paris,1924-01-01,LAT,0
+Summer,2000 Sydney,2000-01-01,MLT,0
+Summer,1992 Barcelona,1992-01-01,DOM,0
+Summer,1988 Seoul,1988-01-01,GUA,0
+Summer,1956 Melbourne,1956-01-01,CUB,0
+Summer,2008 Beijing,2008-01-01,TKM,0
+Summer,2008 Beijing,2008-01-01,LAT,3
+Winter,1992 Albertville,1992-01-01,BOL,0
+Winter,1988 Calgary,1988-01-01,BOL,0
+Summer,1996 Atlanta,1996-01-01,COL,0
+Summer,1996 Atlanta,1996-01-01,CHI,0
+Summer,1968 Mexico City,1968-01-01,COL,0
+Summer,1964 Tokyo,1964-01-01,COL,0
+Summer,1984 Los Angeles,1984-01-01,COL,1
+Winter,2010 Vancouver,2010-01-01,KAZ,1
+Summer,1988 Seoul,1988-01-01,ISL,0
+Summer,1988 Seoul,1988-01-01,MOZ,0
+Summer,1936 Berlin,1936-01-01,GRE,0
+Summer,1948 London,1948-01-01,GRE,0
+Summer,1952 Helsinki,1952-01-01,GRE,0
+Summer,2012 London,2012-01-01,CHI,0
+Winter,1968 Grenoble,1968-01-01,FRA,9
+Winter,1960 Squaw Valley,1960-01-01,FRA,3
+Winter,1964 Innsbruck,1964-01-01,FRA,7
+Summer,1996 Atlanta,1996-01-01,INA,4
+Winter,1968 Grenoble,1968-01-01,CAN,3
+Summer,1936 Berlin,1936-01-01,NZL,1
+Summer,1924 Paris,1924-01-01,YUG,2
+Summer,1960 Roma,1960-01-01,GUY,0
+Summer,1968 Mexico City,1968-01-01,TTO,0
+Summer,1984 Los Angeles,1984-01-01,TTO,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,GBR,3
+Winter,1980 Lake Placid,1980-01-01,NZL,0
+Summer,1906 Athina,1906-01-01,CAN,2
+Summer,1972 Munich,1972-01-01,NZL,3
+Summer,1932 Los Angeles,1932-01-01,CAN,16
+Summer,2004 Athina,2004-01-01,IRL,0
+Summer,2008 Beijing,2008-01-01,IRL,3
+Winter,1988 Calgary,1988-01-01,PUR,0
+Summer,2008 Beijing,2008-01-01,THA,4
+Summer,2012 London,2012-01-01,THA,3
+Summer,1920 Antwerpen,1920-01-01,TCH,2
+Winter,2014 Sochi,2014-01-01,LTU,0
+Winter,1960 Squaw Valley,1960-01-01,SUI,2
+Summer,1964 Tokyo,1964-01-01,THA,0
+Summer,1988 Seoul,1988-01-01,LUX,0
+Summer,2000 Sydney,2000-01-01,LUX,0
+Summer,2016 Rio de Janeiro,2016-01-01,LAT,0
+Winter,1976 Innsbruck,1976-01-01,AND,0
+Summer,1980 Moskva,1980-01-01,CYP,0
+Summer,2004 Athina,2004-01-01,GUA,0
+Summer,2008 Beijing,2008-01-01,GUA,0
+Summer,1980 Moskva,1980-01-01,ECU,0
+Summer,2008 Beijing,2008-01-01,ESA,0
+Winter,1988 Calgary,1988-01-01,ARG,0
+Summer,1968 Mexico City,1968-01-01,NCA,0
+Summer,2012 London,2012-01-01,DOM,2
+Summer,1996 Atlanta,1996-01-01,PER,0
+Winter,1948 Sankt Moritz,1948-01-01,ESP,0
+Winter,1952 Oslo,1952-01-01,ESP,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,ESP,0
+Winter,1960 Squaw Valley,1960-01-01,ESP,0
+Summer,2016 Rio de Janeiro,2016-01-01,AND,0
+Summer,1964 Tokyo,1964-01-01,ISR,0
+Summer,1956 Melbourne,1956-01-01,INA,0
+Summer,1928 Amsterdam,1928-01-01,TUR,0
+Winter,1980 Lake Placid,1980-01-01,CYP,0
+Winter,1984 Sarajevo,1984-01-01,CYP,0
+Winter,1988 Calgary,1988-01-01,CYP,0
+Winter,1992 Albertville,1992-01-01,CYP,0
+Summer,1992 Barcelona,1992-01-01,NED,15
+Summer,1972 Munich,1972-01-01,THA,0
+Summer,2012 London,2012-01-01,PER,0
+Summer,1960 Roma,1960-01-01,THA,0
+Winter,1980 Lake Placid,1980-01-01,GRE,0
+Winter,1984 Sarajevo,1984-01-01,GRE,0
+Summer,1992 Barcelona,1992-01-01,GRE,2
+Summer,2000 Sydney,2000-01-01,GBS,0
+Summer,1924 Paris,1924-01-01,HAI,1
+Winter,1932 Lake Placid,1932-01-01,FRA,1
+Summer,1924 Paris,1924-01-01,ROU,1
+Summer,2008 Beijing,2008-01-01,TTO,2
+Summer,1972 Munich,1972-01-01,TTO,0
+Winter,1988 Calgary,1988-01-01,GBR,0
+Winter,1992 Albertville,1992-01-01,GBR,0
+Summer,1924 Paris,1924-01-01,CAN,4
+Winter,1976 Innsbruck,1976-01-01,NZL,0
+Summer,1960 Roma,1960-01-01,IRL,0
+Summer,2008 Beijing,2008-01-01,HUN,10
+Summer,1948 London,1948-01-01,ISL,0
+Summer,2008 Beijing,2008-01-01,ISL,1
+Summer,2012 London,2012-01-01,ISL,0
+Winter,1984 Sarajevo,1984-01-01,ISL,0
+Summer,1956 Melbourne,1956-01-01,GER,20
+Summer,1988 Seoul,1988-01-01,IVB,0
+Winter,2002 Salt Lake City,2002-01-01,BRA,0
+Winter,2006 Torino,2006-01-01,BRA,0
+Winter,1964 Innsbruck,1964-01-01,AUT,12
+Summer,1956 Melbourne,1956-01-01,CAN,5
+Winter,1998 Nagano,1998-01-01,AUT,17
+Summer,1906 Athina,1906-01-01,AUT,9
+Winter,1994 Lillehammer,1994-01-01,ISL,0
+Winter,1998 Nagano,1998-01-01,ISL,0
+Winter,1952 Oslo,1952-01-01,AUS,0
+Summer,1908 London,1908-01-01,FIN,5
+Summer,2012 London,2012-01-01,ISR,0
+Summer,2000 Sydney,2000-01-01,TUN,0
+Winter,1972 Sapporo,1972-01-01,FRA,3
+Winter,1976 Innsbruck,1976-01-01,FRA,1
+Summer,1976 Montreal,1976-01-01,VEN,1
+Summer,1972 Munich,1972-01-01,AFG,0
+Summer,2004 Athina,2004-01-01,DOM,1
+Summer,2004 Athina,2004-01-01,CHI,3
+Summer,2004 Athina,2004-01-01,CRC,0
+Summer,1972 Munich,1972-01-01,BOL,0
+Summer,2008 Beijing,2008-01-01,PUR,0
+Winter,2002 Salt Lake City,2002-01-01,ARG,0
+Summer,2012 London,2012-01-01,MRI,0
+Summer,1992 Barcelona,1992-01-01,LIB,0
+Summer,1984 Los Angeles,1984-01-01,LIB,0
+Winter,1994 Lillehammer,1994-01-01,LAT,0
+Summer,1948 London,1948-01-01,RSA,6
+Summer,2012 London,2012-01-01,MDA,2
+Winter,1998 Nagano,1998-01-01,UKR,1
+Summer,2016 Rio de Janeiro,2016-01-01,CYP,0
+Winter,1972 Sapporo,1972-01-01,URS,16
+Winter,1964 Innsbruck,1964-01-01,JPN,0
+Summer,2004 Athina,2004-01-01,ISR,2
+Summer,1972 Munich,1972-01-01,PAN,0
+Summer,2000 Sydney,2000-01-01,GEO,6
+Summer,2004 Athina,2004-01-01,GEO,4
+Summer,1968 Mexico City,1968-01-01,KEN,9
+Winter,1956 Cortina d'Ampezzo,1956-01-01,JPN,1
+Summer,1968 Mexico City,1968-01-01,BOL,0
+Summer,1984 Los Angeles,1984-01-01,BOL,0
+Winter,1980 Lake Placid,1980-01-01,BOL,0
+Winter,1968 Grenoble,1968-01-01,FRG,7
+Winter,1972 Sapporo,1972-01-01,GDR,14
+Winter,1976 Innsbruck,1976-01-01,GDR,19
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,AUT,4
+Summer,2008 Beijing,2008-01-01,SUI,7
+Winter,2014 Sochi,2014-01-01,ISL,0
+Winter,1948 Sankt Moritz,1948-01-01,ISL,0
+Summer,2004 Athina,2004-01-01,ZIM,3
+Summer,1984 Los Angeles,1984-01-01,FIJ,0
+Summer,1988 Seoul,1988-01-01,FIJ,0
+Summer,1952 Helsinki,1952-01-01,NZL,3
+Summer,2004 Athina,2004-01-01,GRN,0
+Summer,1988 Seoul,1988-01-01,SUR,1
+Summer,1992 Barcelona,1992-01-01,SUR,1
+Winter,2014 Sochi,2014-01-01,NOR,26
+Summer,1956 Stockholm,1956-01-01,SWE,3
+Summer,1992 Barcelona,1992-01-01,TUR,6
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,TUR,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,AUS,0
+Summer,2000 Sydney,2000-01-01,ERI,0
+Winter,1928 Sankt Moritz,1928-01-01,JPN,0
+Summer,1948 London,1948-01-01,CAN,4
+Winter,1994 Lillehammer,1994-01-01,AUT,9
+Winter,2002 Salt Lake City,2002-01-01,LAT,0
+Winter,1952 Oslo,1952-01-01,AUT,8
+Winter,1956 Cortina d'Ampezzo,1956-01-01,AUT,11
+Winter,1994 Lillehammer,1994-01-01,CAN,13
+Summer,1996 Atlanta,1996-01-01,GEQ,0
+Summer,1952 Helsinki,1952-01-01,PHI,0
+Summer,1984 Los Angeles,1984-01-01,PHI,0
+Summer,1968 Mexico City,1968-01-01,THA,0
+Summer,1976 Montreal,1976-01-01,THA,1
+Summer,1984 Los Angeles,1984-01-01,SOL,0
+Summer,1992 Barcelona,1992-01-01,SOL,0
+Summer,1968 Mexico City,1968-01-01,CHI,0
+Winter,1952 Oslo,1952-01-01,BUL,0
+Winter,1976 Innsbruck,1976-01-01,BUL,0
+Winter,1984 Sarajevo,1984-01-01,BUL,0
+Summer,2004 Athina,2004-01-01,CMR,1
+Summer,1996 Atlanta,1996-01-01,TKM,0
+Summer,2000 Sydney,2000-01-01,TKM,0
+Summer,1952 Helsinki,1952-01-01,TCH,13
+Summer,1972 Munich,1972-01-01,GUY,0
+Summer,2016 Rio de Janeiro,2016-01-01,COM,0
+Summer,1988 Seoul,1988-01-01,BAR,0
+Summer,2012 London,2012-01-01,GUM,0
+Summer,1924 Paris,1924-01-01,RSA,3
+Summer,1928 Amsterdam,1928-01-01,RSA,3
+Summer,1956 Melbourne,1956-01-01,HUN,26
+Summer,2008 Beijing,2008-01-01,MLT,0
+Summer,2016 Rio de Janeiro,2016-01-01,LBA,0
+Winter,1980 Lake Placid,1980-01-01,FRA,1
+Winter,1984 Sarajevo,1984-01-01,FRA,3
+Summer,1988 Seoul,1988-01-01,SEN,1
+Summer,1992 Barcelona,1992-01-01,SEN,0
+Summer,2012 London,2012-01-01,HKG,1
+Summer,2008 Beijing,2008-01-01,HKG,0
+Summer,2016 Rio de Janeiro,2016-01-01,HKG,0
+Summer,1988 Seoul,1988-01-01,HKG,0
+Summer,1992 Barcelona,1992-01-01,HKG,0
+Summer,2012 London,2012-01-01,GAB,1
+Winter,2006 Torino,2006-01-01,ESP,0
+Summer,1960 Roma,1960-01-01,RSA,3
+Winter,1948 Sankt Moritz,1948-01-01,CAN,3
+Winter,1956 Cortina d'Ampezzo,1956-01-01,CAN,3
+Summer,1956 Melbourne,1956-01-01,FIN,15
+Winter,1980 Lake Placid,1980-01-01,ITA,2
+Summer,1980 Moskva,1980-01-01,AUT,4
+Summer,1984 Los Angeles,1984-01-01,AUT,3
+Summer,2016 Rio de Janeiro,2016-01-01,LCA,0
+Summer,1936 Berlin,1936-01-01,TCH,9
+Summer,2016 Rio de Janeiro,2016-01-01,MOZ,0
+Winter,1976 Innsbruck,1976-01-01,TCH,1
+Summer,2008 Beijing,2008-01-01,HAI,0
+Summer,2000 Sydney,2000-01-01,MAD,0
+Summer,2000 Sydney,2000-01-01,MRI,0
+Summer,2016 Rio de Janeiro,2016-01-01,FSM,0
+Summer,1996 Atlanta,1996-01-01,IVB,0
+Summer,1984 Los Angeles,1984-01-01,SAM,0
+Summer,2012 London,2012-01-01,MYA,0
+Summer,2000 Sydney,2000-01-01,EST,3
+Summer,2004 Athina,2004-01-01,SEY,0
+Summer,1960 Roma,1960-01-01,AUT,2
+Summer,1976 Montreal,1976-01-01,AUT,1
+Summer,2004 Athina,2004-01-01,SCG,2
+Summer,1988 Seoul,1988-01-01,PNG,0
+Summer,1988 Seoul,1988-01-01,ESA,0
+Summer,1956 Melbourne,1956-01-01,ARG,2
+Summer,2000 Sydney,2000-01-01,ISR,1
+Summer,2008 Beijing,2008-01-01,ISR,1
+Summer,1984 Los Angeles,1984-01-01,HON,0
+Summer,1992 Barcelona,1992-01-01,GUA,0
+Summer,1988 Seoul,1988-01-01,MGL,1
+Summer,1972 Munich,1972-01-01,GRE,2
+Summer,1988 Seoul,1988-01-01,CYP,0
+Summer,1992 Barcelona,1992-01-01,CYP,0
+Summer,1996 Atlanta,1996-01-01,ARM,2
+Summer,2000 Sydney,2000-01-01,ARM,1
+Summer,1956 Melbourne,1956-01-01,MYA,0
+Summer,1988 Seoul,1988-01-01,CIV,0
+Summer,2000 Sydney,2000-01-01,KEN,7
+Summer,1972 Munich,1972-01-01,ISL,0
+Winter,1984 Sarajevo,1984-01-01,LIB,0
+Summer,1964 Tokyo,1964-01-01,TUN,2
+Summer,1968 Mexico City,1968-01-01,TUN,2
+Summer,2004 Athina,2004-01-01,TUN,0
+Winter,2006 Torino,2006-01-01,TUR,0
+Winter,2010 Vancouver,2010-01-01,TUR,0
+Summer,1972 Munich,1972-01-01,MYA,0
+Summer,1972 Munich,1972-01-01,CIV,0
+Summer,1976 Montreal,1976-01-01,CIV,0
+Summer,1984 Los Angeles,1984-01-01,MAW,0
+Summer,1988 Seoul,1988-01-01,MAW,0
+Summer,2016 Rio de Janeiro,2016-01-01,TOG,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,GBR,0
+Summer,1980 Moskva,1980-01-01,PER,0
+Winter,1976 Innsbruck,1976-01-01,TUR,0
+Summer,1968 Mexico City,1968-01-01,AFG,0
+Summer,1932 Los Angeles,1932-01-01,ARG,4
+Winter,2002 Salt Lake City,2002-01-01,JPN,2
+Summer,1956 Stockholm,1956-01-01,POR,0
+Summer,2004 Athina,2004-01-01,AFG,0
+Summer,2008 Beijing,2008-01-01,AFG,1
+Summer,2012 London,2012-01-01,AFG,1
+Winter,2006 Torino,2006-01-01,ARM,0
+Winter,2010 Vancouver,2010-01-01,MAR,0
+Summer,2012 London,2012-01-01,SEN,0
+Winter,2014 Sochi,2014-01-01,CHN,9
+Summer,2016 Rio de Janeiro,2016-01-01,MTN,0
+Summer,2008 Beijing,2008-01-01,SEN,0
+Summer,1976 Montreal,1976-01-01,SEN,0
+Summer,1984 Los Angeles,1984-01-01,CHN,32
+Summer,2016 Rio de Janeiro,2016-01-01,YEM,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,CAN,1
+Summer,1984 Los Angeles,1984-01-01,SEN,0
+Winter,1968 Grenoble,1968-01-01,NED,9
+Winter,1972 Sapporo,1972-01-01,NED,9
+Summer,2000 Sydney,2000-01-01,MGL,0
+Summer,2004 Athina,2004-01-01,SVK,6
+Summer,1964 Tokyo,1964-01-01,ZAM,0
+Winter,2010 Vancouver,2010-01-01,SVK,3
+Winter,2002 Salt Lake City,2002-01-01,SVK,0
+Winter,1992 Albertville,1992-01-01,YUG,0
+Winter,1994 Lillehammer,1994-01-01,BIH,0
+Summer,2004 Athina,2004-01-01,SLO,4
+Summer,2016 Rio de Janeiro,2016-01-01,CRO,10
+Summer,1992 Barcelona,1992-01-01,PNG,0
+Summer,1972 Munich,1972-01-01,IND,1
+Summer,2004 Athina,2004-01-01,COD,0
+Winter,2006 Torino,2006-01-01,SVK,1
+Winter,1994 Lillehammer,1994-01-01,SVK,0
+Summer,1996 Atlanta,1996-01-01,SEY,0
+Winter,1924 Chamonix,1924-01-01,ITA,0
+Winter,1968 Grenoble,1968-01-01,POL,0
+Winter,1972 Sapporo,1972-01-01,POL,1
+Winter,1976 Innsbruck,1976-01-01,POL,0
+Winter,1976 Innsbruck,1976-01-01,AUT,6
+Winter,1976 Innsbruck,1976-01-01,SUI,5
+Summer,2012 London,2012-01-01,LIB,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,TCH,0
+Summer,1936 Berlin,1936-01-01,AUS,1
+Winter,1928 Sankt Moritz,1928-01-01,FIN,4
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,USA,4
+Summer,1906 Athina,1906-01-01,USA,23
+Summer,1932 Los Angeles,1932-01-01,HUN,16
+Winter,1928 Sankt Moritz,1928-01-01,USA,6
+Summer,1980 Moskva,1980-01-01,SEN,0
+Summer,2004 Athina,2004-01-01,SEN,0
+Summer,1992 Barcelona,1992-01-01,MGL,2
+Summer,1928 Amsterdam,1928-01-01,HUN,10
+Summer,2008 Beijing,2008-01-01,MGL,4
+Summer,1960 Roma,1960-01-01,RHO,0
+Winter,1984 Sarajevo,1984-01-01,KOR,0
+Winter,1988 Calgary,1988-01-01,KOR,0
+Summer,2000 Sydney,2000-01-01,KOR,28
+Summer,2012 London,2012-01-01,KOR,28
+Summer,1968 Mexico City,1968-01-01,BEL,2
+Summer,1972 Munich,1972-01-01,BEL,2
+Summer,1960 Roma,1960-01-01,PUR,0
+Summer,1968 Mexico City,1968-01-01,MLI,0
+Summer,2008 Beijing,2008-01-01,MLI,0
+Summer,1992 Barcelona,1992-01-01,LTU,2
+Winter,1932 Lake Placid,1932-01-01,CAN,7
+Summer,1956 Melbourne,1956-01-01,IRI,5
+Summer,2008 Beijing,2008-01-01,GAB,0
+Summer,1988 Seoul,1988-01-01,GUI,0
+Summer,1992 Barcelona,1992-01-01,GUI,0
+Summer,2000 Sydney,2000-01-01,GUI,0
+Summer,2008 Beijing,2008-01-01,ECU,1
+Summer,1976 Montreal,1976-01-01,MAR,0
+Summer,2004 Athina,2004-01-01,MAS,0
+Summer,1956 Melbourne,1956-01-01,ETH,0
+Summer,1996 Atlanta,1996-01-01,TPE,1
+Summer,1996 Atlanta,1996-01-01,STP,0
+Summer,2004 Athina,2004-01-01,NEP,0
+Winter,1932 Lake Placid,1932-01-01,GER,2
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,GER,6
+Summer,1964 Tokyo,1964-01-01,TTO,3
+Summer,2004 Athina,2004-01-01,ANT,0
+Summer,2008 Beijing,2008-01-01,ANT,0
+Summer,2012 London,2012-01-01,ANT,0
+Summer,2016 Rio de Janeiro,2016-01-01,ANT,0
+Winter,1994 Lillehammer,1994-01-01,UKR,2
+Winter,1984 Sarajevo,1984-01-01,YUG,1
+Winter,1998 Nagano,1998-01-01,SVK,0
+Winter,2014 Sochi,2014-01-01,SVK,1
+Summer,1996 Atlanta,1996-01-01,CGO,0
+Summer,2000 Sydney,2000-01-01,CGO,0
+Summer,2004 Athina,2004-01-01,CGO,0
+Summer,2008 Beijing,2008-01-01,CGO,0
+Summer,2012 London,2012-01-01,CGO,0
+Summer,1952 Helsinki,1952-01-01,YUG,3
+Winter,1948 Sankt Moritz,1948-01-01,USA,8
+Summer,1988 Seoul,1988-01-01,CAY,0
+Winter,2010 Vancouver,2010-01-01,CZE,6
+Winter,2014 Sochi,2014-01-01,CZE,8
+Summer,1996 Atlanta,1996-01-01,CZE,11
+Summer,2016 Rio de Janeiro,2016-01-01,AFG,0
+Summer,1972 Munich,1972-01-01,MGL,1
+Summer,1976 Montreal,1976-01-01,MGL,1
+Summer,2004 Athina,2004-01-01,POL,10
+Summer,1936 Berlin,1936-01-01,NED,17
+Summer,1956 Stockholm,1956-01-01,URS,0
+Summer,1984 Los Angeles,1984-01-01,COD,0
+Summer,1936 Berlin,1936-01-01,YUG,1
+Summer,2016 Rio de Janeiro,2016-01-01,MKD,0
+Summer,1968 Mexico City,1968-01-01,SYR,0
+Winter,2010 Vancouver,2010-01-01,MDA,0
+Summer,1964 Tokyo,1964-01-01,YUG,5
+Winter,2002 Salt Lake City,2002-01-01,CZE,3
+Winter,2006 Torino,2006-01-01,CZE,4
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,HUN,1
+Summer,2016 Rio de Janeiro,2016-01-01,SVK,4
+Summer,1996 Atlanta,1996-01-01,SVK,3
+Winter,1988 Calgary,1988-01-01,TCH,3
+Summer,1932 Los Angeles,1932-01-01,TCH,6
+Summer,1948 London,1948-01-01,TCH,11
+Summer,2000 Sydney,2000-01-01,POL,14
+Summer,1964 Tokyo,1964-01-01,MGL,0
+Summer,1988 Seoul,1988-01-01,ISV,1
+Summer,2012 London,2012-01-01,BOL,0
+Summer,1956 Melbourne,1956-01-01,PER,0
+Summer,1912 Stockholm,1912-01-01,BOH,0
+Winter,2002 Salt Lake City,2002-01-01,GRE,0
+Summer,1968 Mexico City,1968-01-01,IRL,0
+Summer,1972 Munich,1972-01-01,IRL,0
+Winter,1932 Lake Placid,1932-01-01,NOR,10
+Summer,1996 Atlanta,1996-01-01,VIN,0
+Summer,2000 Sydney,2000-01-01,VIN,0
+Winter,1928 Sankt Moritz,1928-01-01,FRA,1
+Winter,1998 Nagano,1998-01-01,HUN,0
+Winter,2002 Salt Lake City,2002-01-01,HUN,0
+Summer,1996 Atlanta,1996-01-01,BOT,0
+Summer,1984 Los Angeles,1984-01-01,BOT,0
+Summer,2008 Beijing,2008-01-01,BOT,0
+Winter,1948 Sankt Moritz,1948-01-01,TCH,1
+Winter,1952 Oslo,1952-01-01,TCH,0
+Summer,1988 Seoul,1988-01-01,ZIM,0
+Winter,2014 Sochi,2014-01-01,TGA,0
+Summer,2000 Sydney,2000-01-01,TOG,0
+Winter,2014 Sochi,2014-01-01,ARG,0
+Winter,1968 Grenoble,1968-01-01,IRI,0
+Winter,1972 Sapporo,1972-01-01,IRI,0
+Summer,1980 Moskva,1980-01-01,ZAM,0
+Summer,2008 Beijing,2008-01-01,ZIM,4
+Summer,1988 Seoul,1988-01-01,POL,16
+Summer,1980 Moskva,1980-01-01,DEN,5
+Summer,1900 Paris,1900-01-01,ITA,5
+Summer,2016 Rio de Janeiro,2016-01-01,GUI,0
+Summer,1968 Mexico City,1968-01-01,GUI,0
+Summer,2004 Athina,2004-01-01,SLE,0
+Summer,1908 London,1908-01-01,GRE,4
+Summer,1988 Seoul,1988-01-01,DEN,4
+Winter,1988 Calgary,1988-01-01,GUM,0
+Summer,1920 Antwerpen,1920-01-01,IND,0
+Winter,1994 Lillehammer,1994-01-01,KAZ,3
+Summer,2012 London,2012-01-01,MON,0
+Summer,1972 Munich,1972-01-01,LIE,0
+Winter,1964 Innsbruck,1964-01-01,MGL,0
+Summer,1936 Berlin,1936-01-01,CHN,0
+Winter,1980 Lake Placid,1980-01-01,CHN,0
+Winter,1984 Sarajevo,1984-01-01,CHN,0
+Summer,1972 Munich,1972-01-01,VEN,0
+Summer,1996 Atlanta,1996-01-01,LCA,0
+Summer,1976 Montreal,1976-01-01,ISR,0
+Summer,1968 Mexico City,1968-01-01,ISR,0
+Summer,1968 Mexico City,1968-01-01,HON,0
+Summer,2000 Sydney,2000-01-01,ECU,0
+Winter,2010 Vancouver,2010-01-01,CHI,0
+Winter,2014 Sochi,2014-01-01,CHI,0
+Summer,2004 Athina,2004-01-01,HON,0
+Summer,1996 Atlanta,1996-01-01,POL,17
+Summer,1956 Melbourne,1956-01-01,POL,9
+Summer,1900 Paris,1900-01-01,BEL,18
+Summer,2004 Athina,2004-01-01,KEN,7
+Summer,1948 London,1948-01-01,PUR,1
+Summer,1992 Barcelona,1992-01-01,CAY,0
+Summer,1996 Atlanta,1996-01-01,CAY,0
+Summer,2016 Rio de Janeiro,2016-01-01,FIJ,1
+Summer,2012 London,2012-01-01,SYR,0
+Summer,2016 Rio de Janeiro,2016-01-01,LIB,0
+Winter,1968 Grenoble,1968-01-01,ROU,1
+Summer,2000 Sydney,2000-01-01,SEY,0
+Winter,1980 Lake Placid,1980-01-01,GBR,1
+Winter,1984 Sarajevo,1984-01-01,GBR,1
+Summer,1964 Tokyo,1964-01-01,ZIM,0
+Summer,1956 Stockholm,1956-01-01,ROU,0
+Summer,1996 Atlanta,1996-01-01,AND,0
+Winter,1994 Lillehammer,1994-01-01,AUS,1
+Winter,1998 Nagano,1998-01-01,AUS,1
+Winter,1928 Sankt Moritz,1928-01-01,HUN,0
+Summer,1948 London,1948-01-01,BER,0
+Summer,1952 Helsinki,1952-01-01,BER,0
+Summer,1906 Athina,1906-01-01,FRA,41
+Summer,1996 Atlanta,1996-01-01,URU,0
+Summer,2000 Sydney,2000-01-01,URU,1
+Summer,2004 Athina,2004-01-01,PAR,1
+Winter,1998 Nagano,1998-01-01,LTU,0
+Winter,2002 Salt Lake City,2002-01-01,LTU,0
+Summer,2000 Sydney,2000-01-01,GEQ,0
+Summer,1952 Helsinki,1952-01-01,GUA,0
+Summer,2012 London,2012-01-01,MNE,1
+Summer,2016 Rio de Janeiro,2016-01-01,MNE,0
+Summer,1956 Stockholm,1956-01-01,AUS,0
+Summer,1984 Los Angeles,1984-01-01,IVB,0
+Summer,1906 Athina,1906-01-01,AUS,3
+Summer,2004 Athina,2004-01-01,RSA,6
+Summer,1968 Mexico City,1968-01-01,COD,0
+Summer,1996 Atlanta,1996-01-01,ANT,0
+Summer,2000 Sydney,2000-01-01,ANT,0
+Summer,1972 Munich,1972-01-01,CHI,0
+Summer,1964 Tokyo,1964-01-01,CRC,0
+Summer,1984 Los Angeles,1984-01-01,GUY,0
+Winter,1968 Grenoble,1968-01-01,LIB,0
+Summer,1920 Antwerpen,1920-01-01,MON,0
+Summer,1928 Amsterdam,1928-01-01,MON,0
+Summer,1968 Mexico City,1968-01-01,MON,0
+Summer,1972 Munich,1972-01-01,MON,0
+Summer,1976 Montreal,1976-01-01,MON,0
+Winter,2002 Salt Lake City,2002-01-01,CHI,0
+Summer,1948 London,1948-01-01,POR,2
+Summer,2008 Beijing,2008-01-01,PER,0
+Summer,1924 Paris,1924-01-01,IRL,2
+Summer,1972 Munich,1972-01-01,BAH,0
+Summer,1928 Amsterdam,1928-01-01,CUB,0
+Winter,2010 Vancouver,2010-01-01,IRL,0
+Summer,2016 Rio de Janeiro,2016-01-01,GUA,0
+Summer,2008 Beijing,2008-01-01,ISV,0
+Summer,2008 Beijing,2008-01-01,GUI,0
+Summer,1956 Stockholm,1956-01-01,IRL,0
+Summer,2012 London,2012-01-01,GUI,0
+Summer,2008 Beijing,2008-01-01,SVK,6
+Summer,2012 London,2012-01-01,SVK,4
+Winter,1972 Sapporo,1972-01-01,GBR,0
+Winter,1960 Squaw Valley,1960-01-01,HUN,0
+Summer,1956 Melbourne,1956-01-01,LUX,0
+Summer,1984 Los Angeles,1984-01-01,GRN,0
+Summer,2008 Beijing,2008-01-01,GRN,0
+Summer,1988 Seoul,1988-01-01,ANG,0
+Winter,1932 Lake Placid,1932-01-01,TCH,0
+Summer,1932 Los Angeles,1932-01-01,RSA,5
+Winter,1964 Innsbruck,1964-01-01,TCH,1
+Winter,1968 Grenoble,1968-01-01,TCH,4
+Winter,1972 Sapporo,1972-01-01,TCH,3
+Summer,1932 Los Angeles,1932-01-01,POL,9
+Summer,2016 Rio de Janeiro,2016-01-01,PNG,0
+Summer,1932 Los Angeles,1932-01-01,AUS,5
+Winter,2014 Sochi,2014-01-01,NZL,0
+Summer,2012 London,2012-01-01,GUY,0
+Summer,1920 Antwerpen,1920-01-01,CHI,0
+Summer,2004 Athina,2004-01-01,BOT,0
+Summer,2004 Athina,2004-01-01,TKM,0
+Summer,2000 Sydney,2000-01-01,BOT,0
+Summer,1988 Seoul,1988-01-01,NEP,0
+Summer,1980 Moskva,1980-01-01,NEP,0
+Summer,2016 Rio de Janeiro,2016-01-01,ZIM,0
+Summer,2016 Rio de Janeiro,2016-01-01,GAM,0
+Summer,1996 Atlanta,1996-01-01,SKN,0
+Summer,2000 Sydney,2000-01-01,SKN,0
+Summer,1972 Munich,1972-01-01,CGO,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,BEL,0
+Summer,2016 Rio de Janeiro,2016-01-01,SLO,4
+Winter,1994 Lillehammer,1994-01-01,MGL,0
+Summer,1972 Munich,1972-01-01,BAR,0
+Summer,1996 Atlanta,1996-01-01,SCG,4
+Winter,1998 Nagano,1998-01-01,BUL,1
+Winter,2002 Salt Lake City,2002-01-01,BUL,3
+Summer,1996 Atlanta,1996-01-01,PAN,0
+Summer,2000 Sydney,2000-01-01,PAN,0
+Summer,1988 Seoul,1988-01-01,LIE,0
+Summer,2000 Sydney,2000-01-01,COM,0
+Summer,1960 Roma,1960-01-01,MON,0
+Summer,1988 Seoul,1988-01-01,MON,0
+Summer,1964 Tokyo,1964-01-01,MON,0
+Summer,1896 Athina,1896-01-01,GBR,9
+Winter,1976 Innsbruck,1976-01-01,SMR,0
+Winter,1998 Nagano,1998-01-01,MGL,0
+Winter,2002 Salt Lake City,2002-01-01,MGL,0
+Summer,1996 Atlanta,1996-01-01,AUT,3
+Winter,1928 Sankt Moritz,1928-01-01,GER,1
+Winter,2006 Torino,2006-01-01,SLO,0
+Winter,2010 Vancouver,2010-01-01,SLO,3
+Winter,2014 Sochi,2014-01-01,SLO,8
+Summer,1900 Paris,1900-01-01,HUN,5
+Summer,1960 Roma,1960-01-01,TCH,8
+Winter,1948 Sankt Moritz,1948-01-01,BEL,2
+Summer,1896 Athina,1896-01-01,SUI,3
+Summer,1996 Atlanta,1996-01-01,PAR,0
+Winter,2010 Vancouver,2010-01-01,AUT,16
+Summer,1928 Amsterdam,1928-01-01,LAT,0
+Summer,1932 Los Angeles,1932-01-01,LAT,1
+Summer,1988 Seoul,1988-01-01,SOL,0
+Winter,1928 Sankt Moritz,1928-01-01,BEL,1
+Summer,1964 Tokyo,1964-01-01,MYA,0
+Winter,1968 Grenoble,1968-01-01,MGL,0
+Summer,1996 Atlanta,1996-01-01,MGL,1
+Summer,2008 Beijing,2008-01-01,UGA,0
+Summer,1984 Los Angeles,1984-01-01,BAR,0
+Summer,2008 Beijing,2008-01-01,TAN,0
+Summer,2000 Sydney,2000-01-01,TAN,0
+Summer,2004 Athina,2004-01-01,TAN,0
+Winter,2006 Torino,2006-01-01,BUL,1
+Summer,2012 London,2012-01-01,TKM,0
+Summer,1968 Mexico City,1968-01-01,MGL,4
+Winter,1976 Innsbruck,1976-01-01,NED,6
+Summer,1996 Atlanta,1996-01-01,BER,0
+Winter,2002 Salt Lake City,2002-01-01,AUS,2
+Summer,1912 Stockholm,1912-01-01,CAN,8
+Summer,1920 Antwerpen,1920-01-01,CAN,9
+Summer,2008 Beijing,2008-01-01,LCA,0
+Summer,2012 London,2012-01-01,LCA,0
+Summer,1920 Antwerpen,1920-01-01,AUS,3
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,YUG,0
+Summer,1988 Seoul,1988-01-01,BOL,0
+Summer,2000 Sydney,2000-01-01,COL,1
+Summer,1948 London,1948-01-01,LIB,0
+Summer,1908 London,1908-01-01,BOH,2
+Winter,1998 Nagano,1998-01-01,BIH,0
+Winter,2002 Salt Lake City,2002-01-01,BIH,0
+Winter,1968 Grenoble,1968-01-01,LIE,0
+Winter,1948 Sankt Moritz,1948-01-01,LIE,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,LIE,0
+Winter,1976 Innsbruck,1976-01-01,LIE,2
+Winter,1988 Calgary,1988-01-01,LIE,1
+Winter,2002 Salt Lake City,2002-01-01,NED,8
+Summer,1908 London,1908-01-01,NED,2
+Winter,2006 Torino,2006-01-01,NZL,0
+Summer,1948 London,1948-01-01,JAM,3
+Summer,2016 Rio de Janeiro,2016-01-01,BAR,0
+Winter,1980 Lake Placid,1980-01-01,TCH,1
+Winter,1984 Sarajevo,1984-01-01,TCH,6
+Summer,2016 Rio de Janeiro,2016-01-01,COK,0
+Summer,2008 Beijing,2008-01-01,GEO,6
+Summer,1996 Atlanta,1996-01-01,MRI,0
+Summer,2000 Sydney,2000-01-01,ISV,0
+Summer,1920 Antwerpen,1920-01-01,NED,11
+Summer,2008 Beijing,2008-01-01,ALB,0
+Summer,2012 London,2012-01-01,ALB,0
+Winter,1994 Lillehammer,1994-01-01,ARG,0
+Summer,1972 Munich,1972-01-01,TUN,1
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,TCH,0
+Winter,1984 Sarajevo,1984-01-01,BOL,0
+Summer,1984 Los Angeles,1984-01-01,AHO,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,YUG,0
+Winter,1994 Lillehammer,1994-01-01,GBR,2
+Summer,1920 Antwerpen,1920-01-01,RSA,10
+Winter,1988 Calgary,1988-01-01,CAN,5
+Winter,2002 Salt Lake City,2002-01-01,ISR,0
+Summer,1988 Seoul,1988-01-01,BIZ,0
+Summer,1992 Barcelona,1992-01-01,HON,0
+Winter,2014 Sochi,2014-01-01,IRL,0
+Winter,1998 Nagano,1998-01-01,NZL,0
+Summer,1996 Atlanta,1996-01-01,ISV,0
+Summer,1956 Melbourne,1956-01-01,POR,0
+Summer,2000 Sydney,2000-01-01,SLE,0
+Summer,2000 Sydney,2000-01-01,LAT,3
+Summer,1936 Berlin,1936-01-01,BER,0
+Summer,1968 Mexico City,1968-01-01,BER,0
+Summer,1976 Montreal,1976-01-01,BER,1
+Summer,1984 Los Angeles,1984-01-01,CGO,0
+Summer,1988 Seoul,1988-01-01,CGO,0
+Summer,1992 Barcelona,1992-01-01,TUN,0
+Winter,1952 Oslo,1952-01-01,ARG,0
+Summer,1936 Berlin,1936-01-01,MLT,0
+Winter,2010 Vancouver,2010-01-01,HUN,0
+Winter,1980 Lake Placid,1980-01-01,YUG,0
+Winter,1988 Calgary,1988-01-01,YUG,3
+Winter,1960 Squaw Valley,1960-01-01,ISL,0
+Winter,1964 Innsbruck,1964-01-01,ISL,0
+Winter,1968 Grenoble,1968-01-01,ISL,0
+Summer,2012 London,2012-01-01,HON,0
+Summer,1996 Atlanta,1996-01-01,NAM,2
+Summer,1996 Atlanta,1996-01-01,ESA,0
+Summer,1996 Atlanta,1996-01-01,GUM,0
+Summer,1984 Los Angeles,1984-01-01,SLE,0
+Summer,1984 Los Angeles,1984-01-01,ANT,0
+Summer,1960 Roma,1960-01-01,WIF,2
+Summer,1936 Berlin,1936-01-01,RSA,1
+Summer,1956 Melbourne,1956-01-01,FIJ,0
+Winter,2006 Torino,2006-01-01,ALG,0
+Winter,1972 Sapporo,1972-01-01,YUG,0
+Winter,2014 Sochi,2014-01-01,HUN,0
+Winter,1952 Oslo,1952-01-01,HUN,1
+Winter,1992 Albertville,1992-01-01,HUN,0
+Winter,1994 Lillehammer,1994-01-01,HUN,0
+Winter,1992 Albertville,1992-01-01,SLO,0
+Winter,1924 Chamonix,1924-01-01,AUT,3
+Winter,2014 Sochi,2014-01-01,NED,24
+Summer,1992 Barcelona,1992-01-01,LAT,3
+Summer,1996 Atlanta,1996-01-01,LAT,1
+Summer,2004 Athina,2004-01-01,BEL,3
+Winter,1980 Lake Placid,1980-01-01,AUT,7
+Winter,1964 Innsbruck,1964-01-01,FIN,10
+Summer,1984 Los Angeles,1984-01-01,PAR,0
+Summer,1992 Barcelona,1992-01-01,IRL,2
+Summer,2012 London,2012-01-01,SAM,0
+Winter,1928 Sankt Moritz,1928-01-01,ROU,0
+Summer,1924 Paris,1924-01-01,POR,1
+Summer,2000 Sydney,2000-01-01,AND,0
+Summer,2004 Athina,2004-01-01,AND,0
+Summer,2008 Beijing,2008-01-01,AND,0
+Summer,2012 London,2012-01-01,AND,0
+Summer,1956 Melbourne,1956-01-01,VEN,0
+Summer,2012 London,2012-01-01,GRN,1
+Winter,1988 Calgary,1988-01-01,POR,0
+Winter,1928 Sankt Moritz,1928-01-01,ITA,0
+Summer,2000 Sydney,2000-01-01,MON,0
+Summer,1984 Los Angeles,1984-01-01,ISV,0
+Summer,1972 Munich,1972-01-01,DOM,0
+Summer,1932 Los Angeles,1932-01-01,PER,0
+Winter,1980 Lake Placid,1980-01-01,NED,4
+Summer,1988 Seoul,1988-01-01,SMR,0
+Summer,2004 Athina,2004-01-01,HAI,0
+Winter,1948 Sankt Moritz,1948-01-01,YUG,0
+Winter,1928 Sankt Moritz,1928-01-01,YUG,0
+Summer,1992 Barcelona,1992-01-01,AND,0
+Winter,1988 Calgary,1988-01-01,MON,0
+Winter,1992 Albertville,1992-01-01,MON,0
+Winter,1994 Lillehammer,1994-01-01,MON,0
+Winter,1998 Nagano,1998-01-01,MON,0
+Winter,1948 Sankt Moritz,1948-01-01,HUN,1
+Summer,1964 Tokyo,1964-01-01,CUB,1
+Summer,1900 Paris,1900-01-01,SUI,9
+Summer,1906 Athina,1906-01-01,NED,3
+Winter,1960 Squaw Valley,1960-01-01,AUT,6
+Winter,1964 Innsbruck,1964-01-01,LIB,0
+Summer,1984 Los Angeles,1984-01-01,MAD,0
+Summer,2016 Rio de Janeiro,2016-01-01,MLT,0
+Summer,1972 Munich,1972-01-01,MLT,0
+Summer,2016 Rio de Janeiro,2016-01-01,NEP,0
+Summer,2000 Sydney,2000-01-01,SWZ,0
+Summer,1972 Munich,1972-01-01,BUR,0
+Winter,1998 Nagano,1998-01-01,DEN,1
+Winter,2002 Salt Lake City,2002-01-01,DEN,0
+Summer,1968 Mexico City,1968-01-01,LIE,0
+Winter,2010 Vancouver,2010-01-01,POL,6
+Winter,1960 Squaw Valley,1960-01-01,POL,2
+Winter,1964 Innsbruck,1964-01-01,POL,0
+Winter,2006 Torino,2006-01-01,AUT,23
+Winter,1952 Oslo,1952-01-01,GER,7
+Winter,1988 Calgary,1988-01-01,AUS,0
+Summer,1996 Atlanta,1996-01-01,CAF,0
+Summer,1992 Barcelona,1992-01-01,SLO,2
+Winter,1928 Sankt Moritz,1928-01-01,TCH,1
+Summer,1956 Melbourne,1956-01-01,NBO,0
+Summer,1952 Helsinki,1952-01-01,SGP,0
+Winter,2014 Sochi,2014-01-01,BRA,0
+Summer,2004 Athina,2004-01-01,GAB,0
+Summer,1992 Barcelona,1992-01-01,CGO,0
+Summer,2012 London,2012-01-01,BDI,0
+Winter,1992 Albertville,1992-01-01,DEN,0
+Winter,1948 Sankt Moritz,1948-01-01,ROU,0
+Summer,1988 Seoul,1988-01-01,LBR,0
+Winter,1928 Sankt Moritz,1928-01-01,GBR,1
+Winter,1984 Sarajevo,1984-01-01,TUR,0
+Winter,1988 Calgary,1988-01-01,TUR,0
+Winter,1992 Albertville,1992-01-01,TUR,0
+Winter,1952 Oslo,1952-01-01,YUG,0
+Summer,1992 Barcelona,1992-01-01,ALB,0
+Summer,1928 Amsterdam,1928-01-01,ZIM,0
+Summer,2000 Sydney,2000-01-01,ARU,0
+Summer,2004 Athina,2004-01-01,ARU,0
+Summer,1996 Atlanta,1996-01-01,ALB,0
+Summer,2000 Sydney,2000-01-01,MDA,2
+Summer,2004 Athina,2004-01-01,MDA,0
+Summer,1996 Atlanta,1996-01-01,SRI,0
+Summer,1996 Atlanta,1996-01-01,ANG,0
+Summer,1904 St. Louis,1904-01-01,ITA,0
+Summer,1952 Helsinki,1952-01-01,ISL,0
+Summer,2008 Beijing,2008-01-01,SRB,3
+Winter,2002 Salt Lake City,2002-01-01,ISL,0
+Winter,2006 Torino,2006-01-01,ISL,0
+Winter,2010 Vancouver,2010-01-01,ISL,0
+Winter,1992 Albertville,1992-01-01,ISL,0
+Summer,1996 Atlanta,1996-01-01,ZIM,0
+Summer,2000 Sydney,2000-01-01,ZIM,0
+Summer,1932 Los Angeles,1932-01-01,NZL,1
+Winter,2014 Sochi,2014-01-01,TPE,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,NED,0
+Summer,1896 Athina,1896-01-01,USA,19
+Summer,1992 Barcelona,1992-01-01,JAM,4
+Winter,1968 Grenoble,1968-01-01,NZL,0
+Winter,1972 Sapporo,1972-01-01,BEL,0
+Winter,1976 Innsbruck,1976-01-01,BEL,0
+Winter,1992 Albertville,1992-01-01,BEL,0
+Winter,1994 Lillehammer,1994-01-01,BEL,0
+Summer,2000 Sydney,2000-01-01,CRC,2
+Summer,2004 Athina,2004-01-01,PER,0
+Summer,2000 Sydney,2000-01-01,GUA,0
+Summer,2012 London,2012-01-01,MKD,0
+Summer,1972 Munich,1972-01-01,SUR,0
+Summer,1956 Melbourne,1956-01-01,URU,1
+Summer,1900 Paris,1900-01-01,NED,7
+Winter,2010 Vancouver,2010-01-01,NED,8
+Summer,1912 Stockholm,1912-01-01,NED,3
+Summer,1900 Paris,1900-01-01,SWE,2
+Winter,1932 Lake Placid,1932-01-01,FIN,3
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,FIN,6
+Winter,1988 Calgary,1988-01-01,FIN,7
+Winter,1992 Albertville,1992-01-01,FIN,7
+Summer,1992 Barcelona,1992-01-01,LIE,0
+Summer,1996 Atlanta,1996-01-01,LIE,0
+Summer,1968 Mexico City,1968-01-01,ISV,0
+Summer,1912 Stockholm,1912-01-01,ANZ,7
+Summer,1928 Amsterdam,1928-01-01,AUS,4
+Winter,1980 Lake Placid,1980-01-01,POL,0
+Summer,1996 Atlanta,1996-01-01,GUA,0
+Winter,1998 Nagano,1998-01-01,VEN,0
+Winter,2002 Salt Lake City,2002-01-01,VEN,0
+Winter,1994 Lillehammer,1994-01-01,POL,0
+Winter,1968 Grenoble,1968-01-01,SUI,6
+Summer,1932 Los Angeles,1932-01-01,AUT,5
+Summer,2008 Beijing,2008-01-01,SLE,0
+Summer,2008 Beijing,2008-01-01,LUX,0
+Summer,1896 Athina,1896-01-01,GER,14
+Winter,1928 Sankt Moritz,1928-01-01,AUT,4
+Summer,2008 Beijing,2008-01-01,PAN,1
+Summer,1984 Los Angeles,1984-01-01,CAY,0
+Summer,1984 Los Angeles,1984-01-01,TOG,0
+Summer,1912 Stockholm,1912-01-01,RSA,6
+Winter,2006 Torino,2006-01-01,POL,2
+Summer,1988 Seoul,1988-01-01,AHO,1
+Summer,1988 Seoul,1988-01-01,PAR,0
+Summer,1996 Atlanta,1996-01-01,NEP,0
+Summer,1992 Barcelona,1992-01-01,FIJ,0
+Summer,1980 Moskva,1980-01-01,IRL,2
+Summer,2000 Sydney,2000-01-01,NEP,0
+Winter,1960 Squaw Valley,1960-01-01,CHI,0
+Winter,1964 Innsbruck,1964-01-01,CHI,0
+Summer,2000 Sydney,2000-01-01,PNG,0
+Summer,2004 Athina,2004-01-01,PNG,0
+Summer,2008 Beijing,2008-01-01,PNG,0
+Winter,1998 Nagano,1998-01-01,KEN,0
+Winter,2002 Salt Lake City,2002-01-01,KEN,0
+Winter,2006 Torino,2006-01-01,KEN,0
+Winter,1998 Nagano,1998-01-01,SLO,0
+Winter,2002 Salt Lake City,2002-01-01,SLO,1
+Summer,1956 Stockholm,1956-01-01,TUR,0
+Summer,1960 Roma,1960-01-01,INA,0
+Summer,1992 Barcelona,1992-01-01,TTO,0
+Winter,2014 Sochi,2014-01-01,MGL,0
+Summer,1996 Atlanta,1996-01-01,FIJ,0
+Summer,1988 Seoul,1988-01-01,VEN,0
+Summer,2012 London,2012-01-01,GEO,7
+Summer,1984 Los Angeles,1984-01-01,SRI,0
+Summer,1988 Seoul,1988-01-01,SRI,0
+Winter,1984 Sarajevo,1984-01-01,SMR,0
+Summer,1984 Los Angeles,1984-01-01,SMR,0
+Summer,1976 Montreal,1976-01-01,LUX,0
+Summer,2004 Athina,2004-01-01,FSM,0
+Summer,1956 Melbourne,1956-01-01,GRE,1
+Summer,1928 Amsterdam,1928-01-01,MLT,0
+Summer,1996 Atlanta,1996-01-01,MLT,0
+Summer,2012 London,2012-01-01,IOA,0
+Summer,2008 Beijing,2008-01-01,STP,0
+Summer,2016 Rio de Janeiro,2016-01-01,STP,0
+Summer,2008 Beijing,2008-01-01,CAF,0
+Summer,1984 Los Angeles,1984-01-01,SEY,0
+Winter,1924 Chamonix,1924-01-01,NOR,17
+Winter,1968 Grenoble,1968-01-01,GDR,5
+Summer,2004 Athina,2004-01-01,THA,8
+Summer,1992 Barcelona,1992-01-01,THA,1
+Winter,1984 Sarajevo,1984-01-01,NED,0
+Summer,1996 Atlanta,1996-01-01,TJK,0
+Summer,1984 Los Angeles,1984-01-01,GEQ,0
+Summer,1988 Seoul,1988-01-01,GEQ,0
+Summer,1960 Roma,1960-01-01,MLT,0
+Summer,1956 Stockholm,1956-01-01,USA,0
+Summer,2012 London,2012-01-01,MLT,0
+Summer,1980 Moskva,1980-01-01,ISL,0
+Winter,2006 Torino,2006-01-01,KGZ,0
+Winter,2006 Torino,2006-01-01,EST,3
+Summer,1956 Melbourne,1956-01-01,AUT,2
+Winter,1998 Nagano,1998-01-01,NED,11
+Winter,2006 Torino,2006-01-01,NED,9
+Winter,1992 Albertville,1992-01-01,ESP,1
+Summer,1996 Atlanta,1996-01-01,MKD,0
+Summer,2000 Sydney,2000-01-01,MKD,1
+Winter,1932 Lake Placid,1932-01-01,AUT,2
+Summer,2012 London,2012-01-01,CAF,0
+Winter,2006 Torino,2006-01-01,RSA,0
+Winter,2006 Torino,2006-01-01,MON,0
+Summer,1976 Montreal,1976-01-01,SUR,0
+Summer,1956 Stockholm,1956-01-01,FRA,0
+Summer,1992 Barcelona,1992-01-01,GAB,0
+Summer,2016 Rio de Janeiro,2016-01-01,CGO,0
+Summer,1988 Seoul,1988-01-01,GAB,0
+Summer,2016 Rio de Janeiro,2016-01-01,CAF,0
+Winter,1992 Albertville,1992-01-01,ALG,0
+Summer,2004 Athina,2004-01-01,TOG,0
+Summer,2008 Beijing,2008-01-01,TOG,1
+Summer,1996 Atlanta,1996-01-01,GAB,0
+Summer,1980 Moskva,1980-01-01,LAO,0
+Summer,2016 Rio de Janeiro,2016-01-01,SEN,0
+Summer,2000 Sydney,2000-01-01,GAB,0
+Summer,1964 Tokyo,1964-01-01,AHO,0
+Summer,2000 Sydney,2000-01-01,SGP,0
+Summer,2004 Athina,2004-01-01,SGP,0
+Winter,1964 Innsbruck,1964-01-01,BEL,0
+Summer,1964 Tokyo,1964-01-01,VEN,0
+Summer,1968 Mexico City,1968-01-01,VEN,1
+Summer,2016 Rio de Janeiro,2016-01-01,PER,0
+Summer,2008 Beijing,2008-01-01,SLO,5
+Winter,1948 Sankt Moritz,1948-01-01,TUR,0
+Winter,2014 Sochi,2014-01-01,AZE,0
+Summer,1904 St. Louis,1904-01-01,GER,16
+Summer,1924 Paris,1924-01-01,BRA,0
+Summer,2008 Beijing,2008-01-01,MDA,1
+Summer,1980 Moskva,1980-01-01,LUX,0
+Summer,2012 London,2012-01-01,NCA,0
+Winter,2010 Vancouver,2010-01-01,NZL,0
+Summer,2016 Rio de Janeiro,2016-01-01,NRU,0
+Summer,2000 Sydney,2000-01-01,IRL,1
+Winter,1924 Chamonix,1924-01-01,FIN,11
+Winter,1972 Sapporo,1972-01-01,ROU,0
+Winter,1994 Lillehammer,1994-01-01,UZB,1
+Summer,1996 Atlanta,1996-01-01,CRC,1
+Summer,2008 Beijing,2008-01-01,CRC,0
+Summer,2008 Beijing,2008-01-01,MNE,0
+Winter,2006 Torino,2006-01-01,MDA,0
+Summer,1964 Tokyo,1964-01-01,JAM,0
+Summer,1952 Helsinki,1952-01-01,AHO,0
+Winter,2014 Sochi,2014-01-01,CRO,1
+Summer,1996 Atlanta,1996-01-01,PHI,1
+Summer,2000 Sydney,2000-01-01,PHI,0
+Summer,2004 Athina,2004-01-01,PHI,0
+Winter,1968 Grenoble,1968-01-01,CHI,0
+Summer,2008 Beijing,2008-01-01,URU,0
+Summer,1996 Atlanta,1996-01-01,GRN,0
+Winter,1964 Innsbruck,1964-01-01,AUS,0
+Winter,1948 Sankt Moritz,1948-01-01,NED,0
+Winter,1952 Oslo,1952-01-01,NED,3
+Winter,1956 Cortina d'Ampezzo,1956-01-01,NED,0
+Winter,1960 Squaw Valley,1960-01-01,NED,2
+Summer,1992 Barcelona,1992-01-01,BER,0
+Summer,2000 Sydney,2000-01-01,BER,0
+Winter,1948 Sankt Moritz,1948-01-01,POL,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,POL,1
+Summer,1968 Mexico City,1968-01-01,JAM,1
+Summer,2012 London,2012-01-01,COK,0
+Summer,1992 Barcelona,1992-01-01,ASA,0
+Summer,1996 Atlanta,1996-01-01,ASA,0
+Winter,2002 Salt Lake City,2002-01-01,JAM,0
+Summer,1988 Seoul,1988-01-01,ANT,0
+Winter,2010 Vancouver,2010-01-01,CRO,3
+Winter,1988 Calgary,1988-01-01,GUA,0
+Summer,1984 Los Angeles,1984-01-01,PNG,0
+Summer,2016 Rio de Janeiro,2016-01-01,GBS,0
+Winter,1960 Squaw Valley,1960-01-01,TCH,1
+Summer,2008 Beijing,2008-01-01,SMR,0
+Summer,1960 Roma,1960-01-01,LIE,0
+Summer,1964 Tokyo,1964-01-01,LIE,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,LIE,0
+Summer,1948 London,1948-01-01,LIE,0
+Summer,1984 Los Angeles,1984-01-01,LIE,0
+Winter,1992 Albertville,1992-01-01,LIE,0
+Winter,1994 Lillehammer,1994-01-01,LIE,0
+Winter,1998 Nagano,1998-01-01,LIE,0
+Winter,2002 Salt Lake City,2002-01-01,LIE,0
+Winter,2006 Torino,2006-01-01,LIE,0
+Winter,2010 Vancouver,2010-01-01,LIE,0
+Summer,1976 Montreal,1976-01-01,LIE,0
+Summer,1956 Stockholm,1956-01-01,SUI,1
+Summer,2004 Athina,2004-01-01,MRI,0
+Winter,1998 Nagano,1998-01-01,MDA,0
+Winter,2002 Salt Lake City,2002-01-01,MDA,0
+Summer,2016 Rio de Janeiro,2016-01-01,LAO,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,ROU,0
+Winter,1972 Sapporo,1972-01-01,LIE,0
+Summer,1968 Mexico City,1968-01-01,VNM,0
+Winter,1924 Chamonix,1924-01-01,POL,0
+Winter,1964 Innsbruck,1964-01-01,IND,0
+Winter,1968 Grenoble,1968-01-01,IND,0
+Winter,2014 Sochi,2014-01-01,MNE,0
+Summer,2004 Athina,2004-01-01,FIJ,0
+Summer,2008 Beijing,2008-01-01,FIJ,0
+Summer,1964 Tokyo,1964-01-01,SRI,0
+Winter,1928 Sankt Moritz,1928-01-01,LTU,0
+Winter,2014 Sochi,2014-01-01,SRB,0
+Winter,1924 Chamonix,1924-01-01,NEP,1
+Summer,2012 London,2012-01-01,BER,0
+Summer,1972 Munich,1972-01-01,GUA,0
+Summer,1992 Barcelona,1992-01-01,BIH,0
+Summer,1984 Los Angeles,1984-01-01,BER,0
+Winter,1976 Innsbruck,1976-01-01,AUS,0
+Winter,1928 Sankt Moritz,1928-01-01,EST,0
+Summer,2004 Athina,2004-01-01,GUY,0
+Summer,2008 Beijing,2008-01-01,GUY,0
+Summer,1968 Mexico City,1968-01-01,BAR,0
+Summer,1976 Montreal,1976-01-01,IRL,0
+Summer,1988 Seoul,1988-01-01,IRL,0
+Summer,1992 Barcelona,1992-01-01,TAN,0
+Summer,2000 Sydney,2000-01-01,PUR,0
+Summer,1984 Los Angeles,1984-01-01,RWA,0
+Summer,1992 Barcelona,1992-01-01,ZAM,0
+Summer,2008 Beijing,2008-01-01,ZAM,0
+Summer,1988 Seoul,1988-01-01,ZAM,0
+Summer,2000 Sydney,2000-01-01,ZAM,0
+Winter,2014 Sochi,2014-01-01,ISR,0
+Summer,1956 Melbourne,1956-01-01,IRL,5
+Summer,2016 Rio de Janeiro,2016-01-01,RWA,0
+Summer,1980 Moskva,1980-01-01,ANG,0
+Summer,2016 Rio de Janeiro,2016-01-01,TLS,0
+Summer,2000 Sydney,2000-01-01,DOM,0
+Summer,1992 Barcelona,1992-01-01,ECU,0
+Summer,2012 London,2012-01-01,BAN,0
+Summer,1988 Seoul,1988-01-01,CHN,28
+Summer,2008 Beijing,2008-01-01,SGP,1
+Winter,2010 Vancouver,2010-01-01,CHN,11
+Summer,1996 Atlanta,1996-01-01,ECU,1
+Winter,1998 Nagano,1998-01-01,ARG,0
+Summer,2004 Athina,2004-01-01,ECU,0
+Summer,1996 Atlanta,1996-01-01,BOL,0
+Summer,2008 Beijing,2008-01-01,BOL,0
+Summer,2016 Rio de Janeiro,2016-01-01,ALB,0
+Summer,1976 Montreal,1976-01-01,BAH,0
+Summer,1896 Athina,1896-01-01,FRA,11
+Summer,2012 London,2012-01-01,LUX,0
+Winter,2002 Salt Lake City,2002-01-01,MON,0
+Summer,2000 Sydney,2000-01-01,BOL,0
+Summer,2008 Beijing,2008-01-01,MOZ,0
+Summer,2012 London,2012-01-01,MOZ,0
+Summer,1996 Atlanta,1996-01-01,MLI,0
+Summer,2008 Beijing,2008-01-01,MTN,0
+Summer,1968 Mexico City,1968-01-01,SEN,0
+Summer,1972 Munich,1972-01-01,MLI,0
+Summer,2000 Sydney,2000-01-01,MLI,0
+Summer,2012 London,2012-01-01,MLI,0
+Summer,1988 Seoul,1988-01-01,MLI,0
+Summer,1964 Tokyo,1964-01-01,MLI,0
+Summer,1980 Moskva,1980-01-01,ZIM,1
+Winter,2014 Sochi,2014-01-01,MDA,0
+Winter,1924 Chamonix,1924-01-01,CAN,1
+Summer,1900 Paris,1900-01-01,ARG,0
+Summer,1960 Roma,1960-01-01,PAN,0
+Summer,1964 Tokyo,1964-01-01,PAN,0
+Winter,1992 Albertville,1992-01-01,AUS,0
+Winter,2014 Sochi,2014-01-01,ISV,0
+Summer,1984 Los Angeles,1984-01-01,ESA,0
+Summer,1900 Paris,1900-01-01,ESP,1
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,ESP,0
+Summer,1920 Antwerpen,1920-01-01,POR,0
+Winter,1976 Innsbruck,1976-01-01,CHI,0
+Summer,2000 Sydney,2000-01-01,PAR,0
+Summer,1956 Stockholm,1956-01-01,ARG,0
+Summer,1996 Atlanta,1996-01-01,VIE,0
+Winter,1932 Lake Placid,1932-01-01,SUI,1
+Summer,2004 Athina,2004-01-01,GBS,0
+Summer,1992 Barcelona,1992-01-01,ANG,0
+Summer,1956 Stockholm,1956-01-01,ITA,3
+Summer,2004 Athina,2004-01-01,GEQ,0
+Winter,1984 Sarajevo,1984-01-01,CRC,0
+Winter,2010 Vancouver,2010-01-01,PER,0
+Winter,2014 Sochi,2014-01-01,PER,0
+Winter,1988 Calgary,1988-01-01,SMR,0
+Winter,2006 Torino,2006-01-01,SMR,0
+Winter,2010 Vancouver,2010-01-01,SMR,0
+Summer,1976 Montreal,1976-01-01,PER,0
+Summer,1992 Barcelona,1992-01-01,GUY,0
+Winter,1968 Grenoble,1968-01-01,DEN,0
+Winter,1964 Innsbruck,1964-01-01,DEN,0
+Summer,2016 Rio de Janeiro,2016-01-01,LUX,0
+Summer,1952 Helsinki,1952-01-01,IRL,1
+Winter,1988 Calgary,1988-01-01,AHO,0
+Winter,1992 Albertville,1992-01-01,AHO,0
+Winter,2002 Salt Lake City,2002-01-01,MEX,0
+Winter,2014 Sochi,2014-01-01,ESP,0
+Summer,1972 Munich,1972-01-01,NCA,0
+Summer,2012 London,2012-01-01,PAN,0
+Summer,1968 Mexico City,1968-01-01,DOM,0
+Summer,1948 London,1948-01-01,NZL,0
+Summer,1992 Barcelona,1992-01-01,MLT,0
+Summer,1904 St. Louis,1904-01-01,CUB,4
+Summer,1980 Moskva,1980-01-01,SMR,0
+Summer,1960 Roma,1960-01-01,SMR,0
+Summer,1972 Munich,1972-01-01,SMR,0
+Summer,1976 Montreal,1976-01-01,SMR,0
+Winter,1928 Sankt Moritz,1928-01-01,MEX,0
+Summer,1984 Los Angeles,1984-01-01,IRL,1
+Winter,1932 Lake Placid,1932-01-01,ITA,0
+Winter,1952 Oslo,1952-01-01,BEL,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,BEL,0
+Summer,2000 Sydney,2000-01-01,HON,0
+Winter,2010 Vancouver,2010-01-01,ESP,0
+Summer,2016 Rio de Janeiro,2016-01-01,HAI,0
+Summer,2016 Rio de Janeiro,2016-01-01,BOL,0
+Summer,1964 Tokyo,1964-01-01,HKG,0
+Summer,1980 Moskva,1980-01-01,DOM,0
+Summer,1928 Amsterdam,1928-01-01,HAI,1
+Summer,1932 Los Angeles,1932-01-01,HAI,0
+Summer,2016 Rio de Janeiro,2016-01-01,FIN,1
+Summer,1984 Los Angeles,1984-01-01,GAM,0
+Summer,2004 Athina,2004-01-01,LAT,4
+Summer,1984 Los Angeles,1984-01-01,NCA,0
+Winter,1948 Sankt Moritz,1948-01-01,ARG,0
+Summer,2000 Sydney,2000-01-01,PRK,4
+Winter,1960 Squaw Valley,1960-01-01,NZL,0
+Summer,1956 Melbourne,1956-01-01,SGP,0
+Summer,1996 Atlanta,1996-01-01,HKG,1
+Winter,1998 Nagano,1998-01-01,ISR,0
+Winter,2006 Torino,2006-01-01,ISR,0
+Summer,1988 Seoul,1988-01-01,ECU,0
+Summer,1972 Munich,1972-01-01,CRC,0
+Winter,2014 Sochi,2014-01-01,LIB,0
+Summer,2004 Athina,2004-01-01,HKG,1
+Summer,1976 Montreal,1976-01-01,HKG,0
+Summer,1960 Roma,1960-01-01,TPE,1
+Summer,2016 Rio de Janeiro,2016-01-01,TPE,3
+Summer,1968 Mexico City,1968-01-01,TPE,1
+Summer,2000 Sydney,2000-01-01,HKG,0
+Summer,1972 Munich,1972-01-01,HKG,0
+Summer,1972 Munich,1972-01-01,SGP,0
+Summer,2012 London,2012-01-01,CAM,0
+Summer,2000 Sydney,2000-01-01,TPE,5
+Summer,2008 Beijing,2008-01-01,TPE,4
+Summer,1968 Mexico City,1968-01-01,IND,1
+Summer,2008 Beijing,2008-01-01,MAW,0
+Summer,2008 Beijing,2008-01-01,INA,5
+Summer,1988 Seoul,1988-01-01,TPE,0
+Summer,1992 Barcelona,1992-01-01,TPE,1
+Summer,2012 London,2012-01-01,TPE,2
+Summer,1948 London,1948-01-01,CHN,0
+Summer,2004 Athina,2004-01-01,TPE,5
+Summer,1964 Tokyo,1964-01-01,TPE,0
+Summer,1984 Los Angeles,1984-01-01,TPE,1
+Winter,1984 Sarajevo,1984-01-01,TPE,0
+Winter,1998 Nagano,1998-01-01,TPE,0
+Winter,1992 Albertville,1992-01-01,TPE,0
+Winter,1994 Lillehammer,1994-01-01,TPE,0
+Winter,1972 Sapporo,1972-01-01,KOR,0
+Summer,1972 Munich,1972-01-01,TPE,0
+Winter,1992 Albertville,1992-01-01,PRK,1
+Summer,1980 Moskva,1980-01-01,PRK,5
+Summer,1988 Seoul,1988-01-01,THA,1
+Summer,1976 Montreal,1976-01-01,HAI,0
+Summer,1972 Munich,1972-01-01,HAI,0
+Summer,1984 Los Angeles,1984-01-01,DJI,0
+Summer,1996 Atlanta,1996-01-01,THA,2
+Summer,1952 Helsinki,1952-01-01,VNM,0
+Summer,1984 Los Angeles,1984-01-01,BIZ,0
+Summer,1992 Barcelona,1992-01-01,BIZ,0
+Summer,1948 London,1948-01-01,GUY,0
+Summer,1952 Helsinki,1952-01-01,PAN,0
+Summer,1976 Montreal,1976-01-01,SGP,0
+Summer,1988 Seoul,1988-01-01,TTO,0
+Winter,2002 Salt Lake City,2002-01-01,TPE,0
+Winter,1988 Calgary,1988-01-01,TPE,0
+Winter,1992 Albertville,1992-01-01,CHN,3
+Winter,1994 Lillehammer,1994-01-01,CHN,3
+Summer,1956 Melbourne,1956-01-01,TPE,0
+Winter,1972 Sapporo,1972-01-01,TPE,0
+Winter,1976 Innsbruck,1976-01-01,TPE,0
+Summer,2012 London,2012-01-01,SGP,2
+Summer,1984 Los Angeles,1984-01-01,HKG,0
+Summer,2016 Rio de Janeiro,2016-01-01,GRN,1
+Winter,1992 Albertville,1992-01-01,CRC,0
+Summer,2000 Sydney,2000-01-01,MYA,0
+Winter,1998 Nagano,1998-01-01,UZB,0
+Winter,1998 Nagano,1998-01-01,ARM,0
+Summer,1952 Helsinki,1952-01-01,HKG,0
+Summer,1956 Melbourne,1956-01-01,HKG,0
+Summer,1960 Roma,1960-01-01,HKG,0
+Summer,1972 Munich,1972-01-01,CAM,0
+Summer,1984 Los Angeles,1984-01-01,BHU,0
+Summer,1992 Barcelona,1992-01-01,URU,0
+Winter,1984 Sarajevo,1984-01-01,JPN,1
+Summer,2004 Athina,2004-01-01,ZAM,0
+Summer,1980 Moskva,1980-01-01,BOT,0
+Summer,1952 Helsinki,1952-01-01,LIB,2
+Summer,1968 Mexico City,1968-01-01,TAN,0
+Summer,1972 Munich,1972-01-01,ZAM,0
+Summer,2000 Sydney,2000-01-01,MAW,0
+Summer,2004 Athina,2004-01-01,MAW,0
+Summer,1992 Barcelona,1992-01-01,ZIM,0
+Summer,2008 Beijing,2008-01-01,LAO,0
+Summer,1984 Los Angeles,1984-01-01,ZAM,1
+Summer,1972 Munich,1972-01-01,MAW,0
+Summer,2016 Rio de Janeiro,2016-01-01,ZAM,0
+Summer,1984 Los Angeles,1984-01-01,ZIM,0
+Summer,2016 Rio de Janeiro,2016-01-01,MAW,0
+Summer,1984 Los Angeles,1984-01-01,MOZ,0
+Summer,2000 Sydney,2000-01-01,GUM,0
+Summer,2012 London,2012-01-01,BHU,0
+Summer,2000 Sydney,2000-01-01,BHU,0
+Summer,2004 Athina,2004-01-01,BHU,0
+Summer,2016 Rio de Janeiro,2016-01-01,PRK,7
+Summer,1996 Atlanta,1996-01-01,PRK,5
+Summer,2004 Athina,2004-01-01,PRK,5
+Summer,1952 Helsinki,1952-01-01,KOR,2
+Winter,1972 Sapporo,1972-01-01,PRK,0
+Winter,2014 Sochi,2014-01-01,KOR,8
+Winter,1964 Innsbruck,1964-01-01,KOR,0
+Winter,1960 Squaw Valley,1960-01-01,KOR,0
+Winter,1948 Sankt Moritz,1948-01-01,KOR,0
+Summer,1996 Atlanta,1996-01-01,ZAM,1
+Summer,1988 Seoul,1988-01-01,MRI,0
+Summer,2012 London,2012-01-01,ZAM,0
+Summer,1996 Atlanta,1996-01-01,LIB,0
+Summer,2016 Rio de Janeiro,2016-01-01,CAM,0
+Summer,1960 Roma,1960-01-01,MYA,0
+Summer,1976 Montreal,1976-01-01,ANT,0
+Summer,1956 Stockholm,1956-01-01,NOR,0
+Summer,2012 London,2012-01-01,VIE,0
+Summer,1968 Mexico City,1968-01-01,SGP,0
+Summer,1980 Moskva,1980-01-01,VIE,0
+Winter,1992 Albertville,1992-01-01,IND,0
+Winter,2002 Salt Lake City,2002-01-01,KGZ,0
+Summer,1936 Berlin,1936-01-01,LUX,0
+Winter,1984 Sarajevo,1984-01-01,AUT,1
+Summer,2000 Sydney,2000-01-01,THA,3
+Summer,1920 Antwerpen,1920-01-01,YUG,0
+Winter,1972 Sapporo,1972-01-01,PHI,0
+Summer,2000 Sydney,2000-01-01,SEN,0
+Winter,1992 Albertville,1992-01-01,CRO,0
+Summer,1992 Barcelona,1992-01-01,MRI,0
+Winter,2010 Vancouver,2010-01-01,BRA,0
+Summer,1976 Montreal,1976-01-01,BAR,0
+Summer,1984 Los Angeles,1984-01-01,BAH,0
+Summer,1996 Atlanta,1996-01-01,BAH,1
+Summer,1992 Barcelona,1992-01-01,LUX,0
+Summer,2016 Rio de Janeiro,2016-01-01,ISV,0
+Winter,1960 Squaw Valley,1960-01-01,GBR,0
+Summer,1932 Los Angeles,1932-01-01,GRE,0
+Summer,2000 Sydney,2000-01-01,HAI,0
+Summer,1928 Amsterdam,1928-01-01,NZL,1
+Winter,1972 Sapporo,1972-01-01,AUS,0
+Summer,2000 Sydney,2000-01-01,IVB,0
+Summer,1906 Athina,1906-01-01,BEL,7
+Summer,1976 Montreal,1976-01-01,PNG,0
+Winter,1968 Grenoble,1968-01-01,AUS,0
+Summer,2004 Athina,2004-01-01,GUM,0
+Winter,1992 Albertville,1992-01-01,NZL,1
+Winter,1994 Lillehammer,1994-01-01,NZL,0
+Winter,1948 Sankt Moritz,1948-01-01,DEN,0
+Winter,1952 Oslo,1952-01-01,DEN,0
+Summer,1968 Mexico City,1968-01-01,SLE,0
+Winter,2010 Vancouver,2010-01-01,MON,0
+Summer,2004 Athina,2004-01-01,ALB,0
+Summer,2004 Athina,2004-01-01,URU,0
+Winter,1932 Lake Placid,1932-01-01,GBR,0
+Summer,2012 London,2012-01-01,GAM,0
+Summer,1964 Tokyo,1964-01-01,BAH,1
+Summer,1932 Los Angeles,1932-01-01,IRL,2
+Summer,1988 Seoul,1988-01-01,GRN,0
+Summer,2004 Athina,2004-01-01,SKN,0
+Summer,2008 Beijing,2008-01-01,SKN,0
+Summer,1906 Athina,1906-01-01,EGY,0
+Summer,2000 Sydney,2000-01-01,CAF,0
+Winter,2006 Torino,2006-01-01,IRL,0
+Summer,1936 Berlin,1936-01-01,BOL,0
+Summer,1960 Roma,1960-01-01,SGP,1
+Summer,1960 Roma,1960-01-01,SRI,0
+Summer,1992 Barcelona,1992-01-01,VIN,0
+Summer,1988 Seoul,1988-01-01,BAH,0
+Summer,2000 Sydney,2000-01-01,LBR,0
+Summer,1964 Tokyo,1964-01-01,BER,0
+Summer,1960 Roma,1960-01-01,ZIM,0
+Summer,1968 Mexico City,1968-01-01,HKG,0
+Summer,1996 Atlanta,1996-01-01,LBR,0
+Summer,2004 Athina,2004-01-01,SRI,0
+Summer,2012 London,2012-01-01,SRI,0
+Summer,2004 Athina,2004-01-01,PAN,0
+Summer,1904 St. Louis,1904-01-01,FRA,2
+Summer,1912 Stockholm,1912-01-01,POR,0
+Summer,1900 Paris,1900-01-01,HAI,1
+Winter,2006 Torino,2006-01-01,BIH,0
+Winter,2002 Salt Lake City,2002-01-01,NZL,0
+Summer,2016 Rio de Janeiro,2016-01-01,MLI,0
+Summer,1992 Barcelona,1992-01-01,MLI,0
+Winter,1984 Sarajevo,1984-01-01,BEL,0
+Summer,2004 Athina,2004-01-01,MOZ,0
+Summer,2012 London,2012-01-01,ZIM,0
+Summer,2004 Athina,2004-01-01,IVB,0
+Winter,1994 Lillehammer,1994-01-01,SMR,0
+Summer,2016 Rio de Janeiro,2016-01-01,MHL,0
+Summer,2008 Beijing,2008-01-01,MHL,0
+Summer,1932 Los Angeles,1932-01-01,ROU,0
+Winter,2014 Sochi,2014-01-01,IVB,0
+Summer,2016 Rio de Janeiro,2016-01-01,MON,0
+Summer,1984 Los Angeles,1984-01-01,SUR,0
+Summer,2008 Beijing,2008-01-01,CPV,0
+Summer,1956 Melbourne,1956-01-01,PUR,0
+Summer,2000 Sydney,2000-01-01,NCA,0
+Summer,1932 Los Angeles,1932-01-01,CUB,0
+Summer,1996 Atlanta,1996-01-01,BAR,0
+Winter,1932 Lake Placid,1932-01-01,POL,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,POL,0
+Summer,2012 London,2012-01-01,STP,0
+Summer,2004 Athina,2004-01-01,STP,0
+Summer,1968 Mexico City,1968-01-01,PAR,0
+Summer,2008 Beijing,2008-01-01,GBS,0
+Summer,2012 London,2012-01-01,GBS,0
+Summer,2004 Athina,2004-01-01,SUR,0
+Summer,1964 Tokyo,1964-01-01,NIG,0
+Summer,1968 Mexico City,1968-01-01,NIG,0
+Summer,1972 Munich,1972-01-01,NIG,1
+Winter,1988 Calgary,1988-01-01,NZL,0
+Summer,1988 Seoul,1988-01-01,AFG,0
+Summer,1932 Los Angeles,1932-01-01,NOR,0
+Summer,1992 Barcelona,1992-01-01,NAM,2
+Summer,1968 Mexico City,1968-01-01,KUW,0
+Summer,1904 St. Louis,1904-01-01,GBR,2
+Winter,1988 Calgary,1988-01-01,MGL,0
+Summer,1988 Seoul,1988-01-01,GAM,0
+Winter,2006 Torino,2006-01-01,MKD,0
+Winter,2010 Vancouver,2010-01-01,MKD,0
+Winter,2014 Sochi,2014-01-01,MKD,0
+Summer,2000 Sydney,2000-01-01,BEN,0
+Summer,1896 Athina,1896-01-01,HUN,6
+Summer,2008 Beijing,2008-01-01,FSM,0
+Summer,2012 London,2012-01-01,FSM,0
+Summer,1984 Los Angeles,1984-01-01,LBR,0
+Winter,2010 Vancouver,2010-01-01,GRE,0
+Summer,2008 Beijing,2008-01-01,BEN,0
+Winter,1972 Sapporo,1972-01-01,MGL,0
+Summer,1992 Barcelona,1992-01-01,AHO,0
+Summer,1996 Atlanta,1996-01-01,AHO,0
+Summer,2000 Sydney,2000-01-01,AHO,0
+Winter,2006 Torino,2006-01-01,HUN,0
+Summer,1960 Roma,1960-01-01,BER,0
+Summer,1988 Seoul,1988-01-01,VAN,0
+Summer,2008 Beijing,2008-01-01,AHO,0
+Summer,2012 London,2012-01-01,KIR,0
+Summer,1920 Antwerpen,1920-01-01,NZL,1
+Summer,1992 Barcelona,1992-01-01,BAH,1
+Summer,1984 Los Angeles,1984-01-01,BAN,0
+Summer,1988 Seoul,1988-01-01,VIE,0
+Summer,1992 Barcelona,1992-01-01,VIE,0
+Winter,1964 Innsbruck,1964-01-01,NED,2
+Summer,1900 Paris,1900-01-01,PER,0
+Winter,2002 Salt Lake City,2002-01-01,BEL,0
+Winter,2006 Torino,2006-01-01,BEL,0
+Summer,1932 Los Angeles,1932-01-01,SUI,1
+Summer,1932 Los Angeles,1932-01-01,POR,0
+Summer,1992 Barcelona,1992-01-01,VEN,0
+Summer,2004 Athina,2004-01-01,BOL,0
+Summer,1936 Berlin,1936-01-01,CRC,0
+Winter,1932 Lake Placid,1932-01-01,BEL,0
+Summer,1932 Los Angeles,1932-01-01,COL,0
+Winter,1928 Sankt Moritz,1928-01-01,ARG,0
+Summer,1932 Los Angeles,1932-01-01,ESA,0
+Summer,1956 Stockholm,1956-01-01,BRA,0
+Summer,1904 St. Louis,1904-01-01,HUN,4
+Summer,1900 Paris,1900-01-01,RUS,0
+Summer,2004 Athina,2004-01-01,LUX,0
+Winter,1924 Chamonix,1924-01-01,BEL,1
+Summer,1948 London,1948-01-01,SRI,1
+Summer,1980 Moskva,1980-01-01,GUA,0
+Summer,2004 Athina,2004-01-01,VIN,0
+Winter,1976 Innsbruck,1976-01-01,ARG,0
+Winter,1928 Sankt Moritz,1928-01-01,NED,0
+Summer,1976 Montreal,1976-01-01,ECU,0
+Summer,1936 Berlin,1936-01-01,COL,0
+Winter,1928 Sankt Moritz,1928-01-01,CAN,1
+Winter,1948 Sankt Moritz,1948-01-01,BUL,0
+Summer,1972 Munich,1972-01-01,ECU,0
+Summer,1996 Atlanta,1996-01-01,BIH,0
+Summer,2008 Beijing,2008-01-01,BHU,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,TUR,0
+Winter,1960 Squaw Valley,1960-01-01,TUR,0
+Winter,1964 Innsbruck,1964-01-01,TUR,0
+Winter,2010 Vancouver,2010-01-01,COL,0
+Summer,1968 Mexico City,1968-01-01,INA,0
+Summer,2012 London,2012-01-01,HAI,0
+Summer,2004 Athina,2004-01-01,NRU,0
+Summer,2008 Beijing,2008-01-01,NRU,0
+Summer,2012 London,2012-01-01,NRU,0
+Summer,1996 Atlanta,1996-01-01,NRU,0
+Winter,1988 Calgary,1988-01-01,IND,0
+Winter,1924 Chamonix,1924-01-01,HUN,0
+Summer,1980 Moskva,1980-01-01,SRI,0
+Summer,2012 London,2012-01-01,NEP,0
+Winter,2014 Sochi,2014-01-01,DMA,0
+Summer,1996 Atlanta,1996-01-01,SEN,0
+Summer,1964 Tokyo,1964-01-01,SEN,0
+Summer,1984 Los Angeles,1984-01-01,GUI,0
+Summer,1996 Atlanta,1996-01-01,GUI,0
+Summer,1984 Los Angeles,1984-01-01,MTN,0
+Winter,2014 Sochi,2014-01-01,POR,0
+Summer,1964 Tokyo,1964-01-01,GUY,0
+Summer,1992 Barcelona,1992-01-01,MON,0
+Summer,1996 Atlanta,1996-01-01,MON,0
+Summer,2004 Athina,2004-01-01,MON,0
+Summer,2008 Beijing,2008-01-01,MON,0
+Summer,2004 Athina,2004-01-01,GUI,0
+Summer,1988 Seoul,1988-01-01,PAN,0
+Summer,1968 Mexico City,1968-01-01,CIV,0
+Winter,1994 Lillehammer,1994-01-01,BLR,2
+Summer,2000 Sydney,2000-01-01,MTN,0
+Summer,2000 Sydney,2000-01-01,ESA,0
+Summer,2004 Athina,2004-01-01,ESA,0
+Summer,1904 St. Louis,1904-01-01,GRE,2
+Winter,2006 Torino,2006-01-01,GRE,0
+Winter,1960 Squaw Valley,1960-01-01,BUL,0
+Winter,1998 Nagano,1998-01-01,MKD,0
+Winter,2002 Salt Lake City,2002-01-01,MKD,0
+Summer,2016 Rio de Janeiro,2016-01-01,PLW,0
+Summer,1980 Moskva,1980-01-01,MLI,0
+Summer,1984 Los Angeles,1984-01-01,MLI,0
+Summer,1992 Barcelona,1992-01-01,ARU,0
+Summer,1996 Atlanta,1996-01-01,ARU,0
+Summer,2004 Athina,2004-01-01,RWA,0
+Summer,2008 Beijing,2008-01-01,RWA,0
+Summer,1992 Barcelona,1992-01-01,BOT,0
+Winter,2014 Sochi,2014-01-01,JAM,0
+Summer,2004 Athina,2004-01-01,COM,0
+Summer,1984 Los Angeles,1984-01-01,CHA,0
+Summer,2004 Athina,2004-01-01,SWZ,0
+Summer,2008 Beijing,2008-01-01,SWZ,0
+Summer,1992 Barcelona,1992-01-01,SWZ,0
+Summer,1984 Los Angeles,1984-01-01,SWZ,0
+Summer,1988 Seoul,1988-01-01,SWZ,0
+Summer,2000 Sydney,2000-01-01,CPV,0
+Summer,2000 Sydney,2000-01-01,TJK,0
+Summer,1988 Seoul,1988-01-01,SLE,0
+Summer,1976 Montreal,1976-01-01,AND,0
+Summer,1956 Stockholm,1956-01-01,ESP,0
+Winter,1948 Sankt Moritz,1948-01-01,CHI,0
+Winter,1984 Sarajevo,1984-01-01,MGL,0
+Winter,1998 Nagano,1998-01-01,IRL,0
+Winter,2002 Salt Lake City,2002-01-01,IRL,0
+Summer,1912 Stockholm,1912-01-01,SUI,1
+Summer,1988 Seoul,1988-01-01,BHU,0
+Winter,1980 Lake Placid,1980-01-01,MGL,0
+Summer,1960 Roma,1960-01-01,AFG,0
+Summer,1932 Los Angeles,1932-01-01,URU,1
+Summer,1996 Atlanta,1996-01-01,GUY,0
+Summer,1996 Atlanta,1996-01-01,LUX,0
+Winter,1994 Lillehammer,1994-01-01,SLO,3
+Summer,2016 Rio de Janeiro,2016-01-01,VIE,2
+Summer,2008 Beijing,2008-01-01,VIE,1
+Summer,2004 Athina,2004-01-01,VIE,0
+Winter,1998 Nagano,1998-01-01,SCG,0
+Winter,2002 Salt Lake City,2002-01-01,SCG,0
+Summer,1968 Mexico City,1968-01-01,UGA,2
+Summer,1996 Atlanta,1996-01-01,GAM,0
+Winter,1988 Calgary,1988-01-01,DEN,0
+Winter,1992 Albertville,1992-01-01,LTU,0
+Winter,1994 Lillehammer,1994-01-01,LTU,0
+Winter,2006 Torino,2006-01-01,LTU,0
+Winter,2002 Salt Lake City,2002-01-01,CRO,4
+Winter,2002 Salt Lake City,2002-01-01,TJK,0
+Winter,2006 Torino,2006-01-01,TJK,0
+Winter,2010 Vancouver,2010-01-01,TJK,0
+Summer,1976 Montreal,1976-01-01,CHI,0
+Summer,1908 London,1908-01-01,RSA,2
+Summer,2016 Rio de Janeiro,2016-01-01,BER,0
+Winter,2006 Torino,2006-01-01,DEN,0
+Summer,1984 Los Angeles,1984-01-01,URU,0
+Summer,2016 Rio de Janeiro,2016-01-01,DMA,0
+Summer,2004 Athina,2004-01-01,ISV,0
+Summer,1988 Seoul,1988-01-01,RWA,0
+Summer,1908 London,1908-01-01,RUS,3
+Winter,1960 Squaw Valley,1960-01-01,RSA,0
+Summer,1912 Stockholm,1912-01-01,UNK,0
+Summer,1932 Los Angeles,1932-01-01,VEN,0
+Summer,1906 Athina,1906-01-01,BOH,2
+Summer,1956 Melbourne,1956-01-01,ISL,1
+Summer,1960 Roma,1960-01-01,ISL,0
+Winter,2010 Vancouver,2010-01-01,EST,1
+Winter,1968 Grenoble,1968-01-01,FIN,5
+Summer,2012 London,2012-01-01,LBA,0
+Summer,1956 Stockholm,1956-01-01,EGY,0
+Summer,2012 London,2012-01-01,MTN,0
+Summer,1992 Barcelona,1992-01-01,SUD,0
+Summer,1972 Munich,1972-01-01,SYR,0
+Winter,1984 Sarajevo,1984-01-01,EGY,0
+Summer,1956 Stockholm,1956-01-01,CAN,1
+Summer,1964 Tokyo,1964-01-01,CGO,0
+Winter,2014 Sochi,2014-01-01,DEN,0
+Summer,2008 Beijing,2008-01-01,PLW,0
+Winter,1984 Sarajevo,1984-01-01,HUN,0
+Winter,1988 Calgary,1988-01-01,HUN,0
+Summer,2012 London,2012-01-01,GEQ,0
+Summer,2016 Rio de Janeiro,2016-01-01,GEQ,0
+Winter,1968 Grenoble,1968-01-01,KOR,0
+Summer,1900 Paris,1900-01-01,BOH,3
+Winter,1992 Albertville,1992-01-01,SMR,0
+Winter,2006 Torino,2006-01-01,MGL,0
+Winter,2010 Vancouver,2010-01-01,MGL,0
+Summer,1904 St. Louis,1904-01-01,NOR,2
+Winter,1932 Lake Placid,1932-01-01,SWE,3
+Winter,2014 Sochi,2014-01-01,EST,0
+Winter,1952 Oslo,1952-01-01,CHI,0
+Summer,2008 Beijing,2008-01-01,TUV,0
+Summer,1900 Paris,1900-01-01,MEX,1
+Winter,1988 Calgary,1988-01-01,AND,0
+Winter,1992 Albertville,1992-01-01,AND,0
+Winter,1994 Lillehammer,1994-01-01,AND,0
+Winter,1998 Nagano,1998-01-01,AND,0
+Summer,1964 Tokyo,1964-01-01,GRE,0
+Summer,1956 Melbourne,1956-01-01,JAM,0
+Summer,1964 Tokyo,1964-01-01,CHI,0
+Summer,1952 Helsinki,1952-01-01,SRI,0
+Summer,1956 Melbourne,1956-01-01,SRI,0
+Summer,1956 Melbourne,1956-01-01,UGA,0
+Summer,1956 Melbourne,1956-01-01,BER,0
+Winter,1972 Sapporo,1972-01-01,NZL,0
+Winter,1952 Oslo,1952-01-01,ISL,0
+Winter,1968 Grenoble,1968-01-01,ARG,0
+Summer,2012 London,2012-01-01,ASA,0
+Summer,1988 Seoul,1988-01-01,ASA,0
+Summer,1976 Montreal,1976-01-01,LIB,0
+Summer,1928 Amsterdam,1928-01-01,EST,5
+Summer,1992 Barcelona,1992-01-01,MOZ,0
+Summer,1988 Seoul,1988-01-01,TGA,0
+Summer,1996 Atlanta,1996-01-01,IRI,3
+Winter,1952 Oslo,1952-01-01,NZL,0
+Summer,2012 London,2012-01-01,SOM,0
+Summer,1952 Helsinki,1952-01-01,JAM,5
+Summer,1988 Seoul,1988-01-01,ARU,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,BOL,0
+Summer,1988 Seoul,1988-01-01,CHA,0
+Summer,1984 Los Angeles,1984-01-01,HAI,0
+Summer,2000 Sydney,2000-01-01,BIH,0
+Summer,2004 Athina,2004-01-01,BIH,0
+Summer,2012 London,2012-01-01,BIH,0
+Winter,1960 Squaw Valley,1960-01-01,LIE,0
+Summer,1976 Montreal,1976-01-01,AHO,0
+Summer,1992 Barcelona,1992-01-01,GRN,0
+Summer,1980 Moskva,1980-01-01,NZL,0
+Winter,1984 Sarajevo,1984-01-01,ESP,0
+Winter,2002 Salt Lake City,2002-01-01,ESP,0
+Winter,1980 Lake Placid,1980-01-01,ESP,0
+Winter,1972 Sapporo,1972-01-01,ESP,1
+Winter,1976 Innsbruck,1976-01-01,ESP,0
+Winter,1984 Sarajevo,1984-01-01,CHI,0
+Summer,2016 Rio de Janeiro,2016-01-01,TGA,0
+Winter,1924 Chamonix,1924-01-01,AUS,1
+Summer,1992 Barcelona,1992-01-01,VAN,0
+Summer,2016 Rio de Janeiro,2016-01-01,SOL,0
+Summer,1896 Athina,1896-01-01,AUS,3
+Summer,1968 Mexico City,1968-01-01,LUX,0
+Summer,1908 London,1908-01-01,AUT,1
+Summer,2004 Athina,2004-01-01,PLW,0
+Summer,2008 Beijing,2008-01-01,BIZ,0
+Summer,1976 Montreal,1976-01-01,HON,0
+Summer,1900 Paris,1900-01-01,CUB,2
+Winter,1980 Lake Placid,1980-01-01,AND,0
+Summer,2012 London,2012-01-01,TGA,0
+Summer,2008 Beijing,2008-01-01,CAY,0
+Summer,2012 London,2012-01-01,CAY,0
+Winter,1994 Lillehammer,1994-01-01,CYP,0
+Summer,1904 St. Louis,1904-01-01,NFL,0
+Summer,1968 Mexico City,1968-01-01,SMR,0
+Winter,1984 Sarajevo,1984-01-01,IVB,0
+Winter,1992 Albertville,1992-01-01,SWZ,0
+Winter,2002 Salt Lake City,2002-01-01,AZE,0
+Winter,2006 Torino,2006-01-01,AZE,0
+Summer,2004 Athina,2004-01-01,CAY,0
+Summer,1956 Stockholm,1956-01-01,BUL,0
+Summer,1936 Berlin,1936-01-01,LIE,0
+Winter,1980 Lake Placid,1980-01-01,LIE,4
+Winter,1984 Sarajevo,1984-01-01,LIE,2
+Summer,1924 Paris,1924-01-01,JPN,1
+Winter,2002 Salt Lake City,2002-01-01,LIB,0
+Summer,2004 Athina,2004-01-01,CPV,0
+Summer,1924 Paris,1924-01-01,IND,0
+Summer,2012 London,2012-01-01,DMA,0
+Summer,2004 Athina,2004-01-01,BDI,0
+Summer,2000 Sydney,2000-01-01,GAM,0
+Summer,1904 St. Louis,1904-01-01,AUS,4
+Summer,2016 Rio de Janeiro,2016-01-01,BDI,1
+Winter,2014 Sochi,2014-01-01,ARM,0
+Summer,1956 Stockholm,1956-01-01,CAM,0
+Summer,1996 Atlanta,1996-01-01,BIZ,0
+Winter,2010 Vancouver,2010-01-01,SRB,0
+Winter,1964 Innsbruck,1964-01-01,ESP,0
+Summer,2012 London,2012-01-01,MHL,0
+Summer,1988 Seoul,1988-01-01,BOT,0
+Summer,1980 Moskva,1980-01-01,AND,0
+Summer,1984 Los Angeles,1984-01-01,AND,0
+Summer,1996 Atlanta,1996-01-01,BDI,1
+Summer,1996 Atlanta,1996-01-01,SAM,0
+Winter,1998 Nagano,1998-01-01,CRO,0
+Winter,1964 Innsbruck,1964-01-01,LIE,0
+Winter,2010 Vancouver,2010-01-01,ARG,0
+Winter,2014 Sochi,2014-01-01,UZB,0
+Winter,1948 Sankt Moritz,1948-01-01,LIB,0
+Winter,1952 Oslo,1952-01-01,LIB,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,LIB,0
+Winter,1960 Squaw Valley,1960-01-01,LIB,0
+Summer,2000 Sydney,2000-01-01,LIE,0
+Summer,2004 Athina,2004-01-01,LIE,0
+Summer,2008 Beijing,2008-01-01,LIE,0
+Summer,2000 Sydney,2000-01-01,NAM,0
+Summer,2004 Athina,2004-01-01,LCA,0
+Summer,2012 London,2012-01-01,TAN,0
+Summer,1996 Atlanta,1996-01-01,AFG,0
+Winter,1994 Lillehammer,1994-01-01,MDA,0
+Winter,2010 Vancouver,2010-01-01,UZB,0
+Winter,2002 Salt Lake City,2002-01-01,SMR,0
+Winter,1988 Calgary,1988-01-01,LUX,0
+Winter,1992 Albertville,1992-01-01,LUX,2
+Winter,1994 Lillehammer,1994-01-01,LUX,0
+Summer,2000 Sydney,2000-01-01,RWA,0
+Summer,1964 Tokyo,1964-01-01,ISL,0
+Summer,1968 Mexico City,1968-01-01,ISL,0
+Summer,2016 Rio de Janeiro,2016-01-01,KOS,1
+Summer,2004 Athina,2004-01-01,AHO,0
+Summer,2000 Sydney,2000-01-01,STP,0
+Winter,1992 Albertville,1992-01-01,SEN,0
+Winter,2014 Sochi,2014-01-01,TLS,0
+Summer,1948 London,1948-01-01,TTO,1
+Summer,1928 Amsterdam,1928-01-01,PHI,1
+Summer,1928 Amsterdam,1928-01-01,PAN,0
+Summer,1988 Seoul,1988-01-01,AND,0
+Summer,1900 Paris,1900-01-01,CAN,2
+Winter,1984 Sarajevo,1984-01-01,NZL,0
+Summer,1968 Mexico City,1968-01-01,MLT,0
+Winter,1998 Nagano,1998-01-01,CHI,0
+Summer,1906 Athina,1906-01-01,SUI,8
+Summer,1976 Montreal,1976-01-01,BOL,0
+Summer,1972 Munich,1972-01-01,PAR,0
+Winter,1984 Sarajevo,1984-01-01,SEN,0
+Winter,1994 Lillehammer,1994-01-01,SEN,0
+Summer,2012 London,2012-01-01,SMR,0
+Summer,1972 Munich,1972-01-01,SRI,0
+Summer,1984 Los Angeles,1984-01-01,NEP,0
+Summer,1964 Tokyo,1964-01-01,NEP,0
+Summer,2016 Rio de Janeiro,2016-01-01,ISL,0
+Winter,2010 Vancouver,2010-01-01,AND,0
+Winter,2014 Sochi,2014-01-01,AND,0
+Summer,1936 Berlin,1936-01-01,ISL,0
+Winter,2010 Vancouver,2010-01-01,BEL,0
+Summer,2004 Athina,2004-01-01,ERI,1
+Summer,2008 Beijing,2008-01-01,LIB,0
+Summer,1984 Los Angeles,1984-01-01,TGA,0
+Summer,2008 Beijing,2008-01-01,SOL,0
+Winter,2014 Sochi,2014-01-01,LIE,0
+Summer,2012 London,2012-01-01,ISV,0
+Summer,2012 London,2012-01-01,SWZ,0
+Summer,1912 Stockholm,1912-01-01,ISL,0
+Summer,1956 Stockholm,1956-01-01,AUT,0
+Summer,1972 Munich,1972-01-01,PRK,5
+Winter,1956 Cortina d'Ampezzo,1956-01-01,CHI,0
+Winter,1984 Sarajevo,1984-01-01,PRK,0
+Winter,1988 Calgary,1988-01-01,PRK,0
+Winter,2006 Torino,2006-01-01,PRK,0
+Winter,1998 Nagano,1998-01-01,PRK,0
+Winter,2006 Torino,2006-01-01,HKG,0
+Winter,2010 Vancouver,2010-01-01,HKG,0
+Winter,1972 Sapporo,1972-01-01,FIN,5
+Summer,1976 Montreal,1976-01-01,INA,0
+Winter,1984 Sarajevo,1984-01-01,FIN,13
+Summer,2004 Athina,2004-01-01,COK,0
+Summer,2008 Beijing,2008-01-01,IVB,0
+Summer,2016 Rio de Janeiro,2016-01-01,IVB,0
+Summer,1904 St. Louis,1904-01-01,RSA,0
+Winter,1988 Calgary,1988-01-01,JAM,0
+Winter,1992 Albertville,1992-01-01,JAM,0
+Winter,1998 Nagano,1998-01-01,JAM,0
+Winter,1994 Lillehammer,1994-01-01,TTO,0
+Winter,1998 Nagano,1998-01-01,TTO,0
+Summer,1952 Helsinki,1952-01-01,LIE,0
+Summer,2016 Rio de Janeiro,2016-01-01,SSD,0
+Summer,2012 London,2012-01-01,LIE,0
+Summer,2016 Rio de Janeiro,2016-01-01,LIE,0
+Summer,1920 Antwerpen,1920-01-01,JPN,2
+Summer,2000 Sydney,2000-01-01,BDI,0
+Summer,2004 Athina,2004-01-01,TGA,0
+Summer,1996 Atlanta,1996-01-01,TGA,1
+Summer,1924 Paris,1924-01-01,NZL,1
+Winter,1998 Nagano,1998-01-01,RSA,0
+Winter,2002 Salt Lake City,2002-01-01,RSA,0
+Summer,2008 Beijing,2008-01-01,COK,0
+Winter,1928 Sankt Moritz,1928-01-01,LUX,0
+Winter,1992 Albertville,1992-01-01,EST,0
+Summer,2008 Beijing,2008-01-01,CAM,0
+Summer,2000 Sydney,2000-01-01,CAM,0
+Summer,2004 Athina,2004-01-01,CAM,0
+Summer,1996 Atlanta,1996-01-01,CAM,0
+Winter,1980 Lake Placid,1980-01-01,LIB,0
+Summer,2012 London,2012-01-01,ARU,0
+Summer,1900 Paris,1900-01-01,COL,1
+Summer,2000 Sydney,2000-01-01,LCA,0
+Summer,1920 Antwerpen,1920-01-01,EST,3
+Summer,1896 Athina,1896-01-01,AUT,5
+Summer,1996 Atlanta,1996-01-01,TAN,0
+Summer,1992 Barcelona,1992-01-01,BUR,0
+Summer,2000 Sydney,2000-01-01,SOL,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,EST,0
+Summer,2016 Rio de Janeiro,2016-01-01,TAN,0
+Summer,1956 Stockholm,1956-01-01,GBR,3
+Winter,1988 Calgary,1988-01-01,ISL,0
+Summer,1992 Barcelona,1992-01-01,IVB,0
+Summer,1968 Mexico City,1968-01-01,MYA,0
+Summer,1980 Moskva,1980-01-01,LES,0
+Summer,1972 Munich,1972-01-01,VNM,0
+Summer,1964 Tokyo,1964-01-01,VNM,0
+Winter,2006 Torino,2006-01-01,VEN,0
+Summer,1992 Barcelona,1992-01-01,HAI,0
+Winter,1980 Lake Placid,1980-01-01,KOR,0
+Winter,1998 Nagano,1998-01-01,URU,0
+Summer,1972 Munich,1972-01-01,LBR,0
+Summer,1996 Atlanta,1996-01-01,MYA,0
+Summer,2016 Rio de Janeiro,2016-01-01,MYA,0
+Winter,1932 Lake Placid,1932-01-01,ROU,0
+Summer,2000 Sydney,2000-01-01,GRN,0
+Summer,1956 Melbourne,1956-01-01,GUY,0
+Summer,2008 Beijing,2008-01-01,DMA,0
+Summer,2008 Beijing,2008-01-01,MDV,0
+Summer,1992 Barcelona,1992-01-01,ESA,0
+Summer,2004 Athina,2004-01-01,MKD,0
+Summer,2008 Beijing,2008-01-01,SOM,0
+Summer,1964 Tokyo,1964-01-01,CHA,0
+Summer,1968 Mexico City,1968-01-01,CHA,0
+Summer,1992 Barcelona,1992-01-01,NIG,0
+Summer,2016 Rio de Janeiro,2016-01-01,GUM,0
+Summer,1964 Tokyo,1964-01-01,BOL,0
+Summer,2012 London,2012-01-01,LAO,0
+Winter,2014 Sochi,2014-01-01,IND,0
+Summer,1996 Atlanta,1996-01-01,RWA,0
+Summer,2016 Rio de Janeiro,2016-01-01,MDV,0
+Summer,2000 Sydney,2000-01-01,SAM,0
+Summer,2008 Beijing,2008-01-01,GAM,0
+Summer,1996 Atlanta,1996-01-01,VAN,0
+Summer,1932 Los Angeles,1932-01-01,LUX,0
+Summer,1948 London,1948-01-01,MLT,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,ISL,0
+Summer,2016 Rio de Janeiro,2016-01-01,SLE,0
+Summer,1992 Barcelona,1992-01-01,GAM,0
+Summer,2016 Rio de Janeiro,2016-01-01,BIZ,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,KOR,0
+Summer,1924 Paris,1924-01-01,ECU,0
+Summer,2008 Beijing,2008-01-01,SRI,0
+Summer,1980 Moskva,1980-01-01,JOR,0
+Summer,1896 Athina,1896-01-01,DEN,6
+Winter,1988 Calgary,1988-01-01,CHN,0
+Winter,1980 Lake Placid,1980-01-01,ISL,0
+Winter,1976 Innsbruck,1976-01-01,ISL,0
+Summer,1956 Melbourne,1956-01-01,LBR,0
+Summer,1960 Roma,1960-01-01,LBR,0
+Summer,1964 Tokyo,1964-01-01,LBR,0
+Summer,2000 Sydney,2000-01-01,BIZ,0
+Summer,1996 Atlanta,1996-01-01,MOZ,1
+Summer,1908 London,1908-01-01,ISL,0
+Summer,2004 Athina,2004-01-01,DMA,0
+Summer,1992 Barcelona,1992-01-01,BHU,0
+Summer,1996 Atlanta,1996-01-01,BHU,0
+Summer,2016 Rio de Janeiro,2016-01-01,ASA,0
+Summer,1996 Atlanta,1996-01-01,BUR,0
+Summer,1988 Seoul,1988-01-01,BUR,0
+Winter,1924 Chamonix,1924-01-01,YUG,0
+Winter,2002 Salt Lake City,2002-01-01,IRI,0
+Winter,1976 Innsbruck,1976-01-01,IRI,0
+Winter,2010 Vancouver,2010-01-01,IRI,0
+Summer,1968 Mexico City,1968-01-01,ZAM,0
+Summer,2000 Sydney,2000-01-01,COD,0
+Summer,2004 Athina,2004-01-01,MTN,0
+Summer,2016 Rio de Janeiro,2016-01-01,COD,0
+Summer,2004 Athina,2004-01-01,VAN,0
+Summer,2008 Beijing,2008-01-01,VAN,0
+Summer,1912 Stockholm,1912-01-01,JPN,0
+Summer,2000 Sydney,2000-01-01,VAN,0
+Summer,1932 Los Angeles,1932-01-01,EST,0
+Winter,1976 Innsbruck,1976-01-01,GRE,0
+Summer,1932 Los Angeles,1932-01-01,BUL,0
+Summer,2012 London,2012-01-01,PNG,0
+Winter,2014 Sochi,2014-01-01,PAK,0
+Winter,2010 Vancouver,2010-01-01,BIH,0
+Winter,2014 Sochi,2014-01-01,BIH,0
+Summer,2016 Rio de Janeiro,2016-01-01,BHU,0
+Summer,1968 Mexico City,1968-01-01,SRI,0
+Winter,1964 Innsbruck,1964-01-01,GRE,0
+Summer,2008 Beijing,2008-01-01,KIR,0
+Summer,2016 Rio de Janeiro,2016-01-01,KIR,0
+Summer,1988 Seoul,1988-01-01,COK,0
+Summer,1956 Stockholm,1956-01-01,JPN,0
+Summer,2012 London,2012-01-01,COD,0
+Summer,2000 Sydney,2000-01-01,LES,0
+Summer,1904 St. Louis,1904-01-01,SUI,3
+Summer,2008 Beijing,2008-01-01,COD,0
+Summer,1992 Barcelona,1992-01-01,CMR,0
+Summer,2004 Athina,2004-01-01,SOL,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,AUS,0
+Winter,2010 Vancouver,2010-01-01,JAM,0
+Winter,1998 Nagano,1998-01-01,IND,0
+Winter,2002 Salt Lake City,2002-01-01,IND,0
+Winter,2010 Vancouver,2010-01-01,IND,0
+Winter,2014 Sochi,2014-01-01,IOA,0
+Summer,2000 Sydney,2000-01-01,LAO,0
+Winter,1972 Sapporo,1972-01-01,LIB,0
+Winter,2010 Vancouver,2010-01-01,ARM,0
+Winter,2002 Salt Lake City,2002-01-01,NEP,0
+Summer,1968 Mexico City,1968-01-01,LBA,0
+Summer,1992 Barcelona,1992-01-01,LAO,0
+Summer,1988 Seoul,1988-01-01,LES,0
+Summer,1972 Munich,1972-01-01,NEP,0
+Winter,2010 Vancouver,2010-01-01,ALG,0
+Summer,1988 Seoul,1988-01-01,MYA,0
+Summer,1992 Barcelona,1992-01-01,MYA,0
+Winter,2002 Salt Lake City,2002-01-01,CYP,0
+Winter,2006 Torino,2006-01-01,CYP,0
+Summer,1952 Helsinki,1952-01-01,TTO,2
+Winter,1994 Lillehammer,1994-01-01,ASA,0
+Summer,1996 Atlanta,1996-01-01,NIG,0
+Winter,1980 Lake Placid,1980-01-01,CRC,0
+Winter,1988 Calgary,1988-01-01,CRC,0
+Winter,2002 Salt Lake City,2002-01-01,CRC,0
+Winter,2006 Torino,2006-01-01,CRC,0
+Summer,1976 Montreal,1976-01-01,CAY,0
+Summer,1900 Paris,1900-01-01,BRA,0
+Winter,2010 Vancouver,2010-01-01,PRK,0
+Summer,1996 Atlanta,1996-01-01,LES,0
+Summer,2012 London,2012-01-01,BUR,0
+Summer,2016 Rio de Janeiro,2016-01-01,BUR,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,LUX,0
+Summer,1992 Barcelona,1992-01-01,TGA,0
+Summer,1976 Montreal,1976-01-01,CMR,0
+Summer,2016 Rio de Janeiro,2016-01-01,SUR,0
+Winter,2010 Vancouver,2010-01-01,MNE,0
+Summer,1972 Munich,1972-01-01,ALB,0
+Summer,2000 Sydney,2000-01-01,TGA,0
+Winter,2010 Vancouver,2010-01-01,RSA,0
+Summer,2016 Rio de Janeiro,2016-01-01,LBR,0
+Summer,1956 Stockholm,1956-01-01,GER,6
+Summer,1956 Melbourne,1956-01-01,ISR,0
+Winter,2006 Torino,2006-01-01,SCG,0
+Summer,2012 London,2012-01-01,SOL,0
+Summer,1952 Helsinki,1952-01-01,THA,0
+Summer,1948 London,1948-01-01,PAN,2
+Summer,1968 Mexico City,1968-01-01,ALG,0
+Summer,2016 Rio de Janeiro,2016-01-01,NCA,0
+Summer,1960 Roma,1960-01-01,HAI,0
+Winter,1984 Sarajevo,1984-01-01,MON,0
+Summer,2004 Athina,2004-01-01,ASA,0
+Winter,2014 Sochi,2014-01-01,MAR,0
+Winter,1980 Lake Placid,1980-01-01,BEL,0
+Summer,1900 Paris,1900-01-01,AUS,6
+Summer,2012 London,2012-01-01,TUV,0
+Summer,1984 Los Angeles,1984-01-01,MYA,0
+Summer,1964 Tokyo,1964-01-01,ALG,0
+Winter,1972 Sapporo,1972-01-01,ARG,0
+Summer,1956 Melbourne,1956-01-01,VNM,0
+Summer,2008 Beijing,2008-01-01,LES,0
+Summer,2004 Athina,2004-01-01,LES,0
+Winter,1976 Innsbruck,1976-01-01,KOR,0
+Summer,2012 London,2012-01-01,LES,0
+Summer,2016 Rio de Janeiro,2016-01-01,LES,0
+Summer,2008 Beijing,2008-01-01,MYA,0
+Summer,1928 Amsterdam,1928-01-01,BUL,0
+Winter,1952 Oslo,1952-01-01,GRE,0
+Summer,1904 St. Louis,1904-01-01,AUT,4
+Summer,1948 London,1948-01-01,VEN,0
+Summer,1968 Mexico City,1968-01-01,FIJ,0
+Summer,2012 London,2012-01-01,BRU,0
+Summer,1900 Paris,1900-01-01,NZL,1
+Winter,1988 Calgary,1988-01-01,CHI,0
+Winter,1992 Albertville,1992-01-01,CHI,0
+Winter,1994 Lillehammer,1994-01-01,CHI,0
+Summer,1932 Los Angeles,1932-01-01,CHN,0
+Winter,1984 Sarajevo,1984-01-01,AND,0
+Summer,2008 Beijing,2008-01-01,TGA,0
+Summer,1956 Stockholm,1956-01-01,BEL,0
+Summer,2012 London,2012-01-01,CPV,0
+Summer,1992 Barcelona,1992-01-01,UGA,0
+Winter,2014 Sochi,2014-01-01,HKG,0
+Summer,2000 Sydney,2000-01-01,ALB,0
+Summer,2000 Sydney,2000-01-01,VIE,1
+Winter,2006 Torino,2006-01-01,TPE,0
+Winter,2010 Vancouver,2010-01-01,TPE,0
+Summer,1972 Munich,1972-01-01,SWZ,0
+Winter,1992 Albertville,1992-01-01,IRL,0
+Summer,2016 Rio de Janeiro,2016-01-01,VAN,0
+Winter,1988 Calgary,1988-01-01,LIB,0
+Summer,1952 Helsinki,1952-01-01,MYA,0
+Summer,1996 Atlanta,1996-01-01,SWZ,0
+Winter,2002 Salt Lake City,2002-01-01,UZB,0
+Summer,1900 Paris,1900-01-01,IRI,0
+Summer,1976 Montreal,1976-01-01,NEP,0
+Winter,2014 Sochi,2014-01-01,PAR,0
+Winter,1998 Nagano,1998-01-01,POR,0
+Summer,2012 London,2012-01-01,BIZ,0
+Winter,2014 Sochi,2014-01-01,PHI,0
+Summer,2016 Rio de Janeiro,2016-01-01,ARU,0
+Summer,1932 Los Angeles,1932-01-01,GUA,0
+Summer,2016 Rio de Janeiro,2016-01-01,SWZ,0
+Summer,1948 London,1948-01-01,MYA,0
+Winter,1948 Sankt Moritz,1948-01-01,GRE,0
+Winter,2006 Torino,2006-01-01,LUX,0
+Summer,1968 Mexico City,1968-01-01,CAF,0
+Summer,1972 Munich,1972-01-01,GAB,0
+Summer,2008 Beijing,2008-01-01,GEQ,0
+Summer,2000 Sydney,2000-01-01,CAY,0
+Winter,2014 Sochi,2014-01-01,ALB,0
+Winter,1994 Lillehammer,1994-01-01,POR,0
+Winter,2002 Salt Lake City,2002-01-01,CMR,0
+Summer,1980 Moskva,1980-01-01,PUR,0
+Summer,1900 Paris,1900-01-01,GRE,0
+Winter,1994 Lillehammer,1994-01-01,RSA,0
+Winter,2014 Sochi,2014-01-01,SMR,0
+Summer,1912 Stockholm,1912-01-01,SRB,0
+Summer,2000 Sydney,2000-01-01,FSM,0
+Winter,2006 Torino,2006-01-01,IRI,0
+Summer,2000 Sydney,2000-01-01,ASA,0
+Summer,1984 Los Angeles,1984-01-01,GAB,0
+Summer,1912 Stockholm,1912-01-01,TUR,0
+Summer,1960 Roma,1960-01-01,FIJ,0
+Summer,2016 Rio de Janeiro,2016-01-01,SOM,0
+Summer,1992 Barcelona,1992-01-01,LES,0
+Summer,1956 Stockholm,1956-01-01,VEN,0
+Summer,1984 Los Angeles,1984-01-01,LES,0
+Summer,1968 Mexico City,1968-01-01,SUR,0
+Summer,1952 Helsinki,1952-01-01,GUY,0
+Summer,1976 Montreal,1976-01-01,FIJ,0
+Summer,1972 Munich,1972-01-01,LES,0
+Summer,1996 Atlanta,1996-01-01,MAW,0
+Summer,1992 Barcelona,1992-01-01,RWA,0
+Winter,1994 Lillehammer,1994-01-01,BRA,0
+Summer,1992 Barcelona,1992-01-01,MAW,0
+Winter,2010 Vancouver,2010-01-01,BER,0
+Winter,2014 Sochi,2014-01-01,BER,0
+Summer,2004 Athina,2004-01-01,KIR,0
+Summer,2000 Sydney,2000-01-01,CHA,0
+Summer,2004 Athina,2004-01-01,CHA,0
+Winter,2002 Salt Lake City,2002-01-01,THA,0
+Winter,2006 Torino,2006-01-01,THA,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,HUN,1
+Summer,2000 Sydney,2000-01-01,FIJ,0
+Summer,2004 Athina,2004-01-01,MYA,0
+Summer,2012 London,2012-01-01,TLS,0
+Summer,1932 Los Angeles,1932-01-01,YUG,0
+Summer,2008 Beijing,2008-01-01,CHA,0
+Summer,2012 London,2012-01-01,CHA,0
+Winter,1936 Garmisch-Partenkirchen,1936-01-01,GRE,0
+Summer,1924 Paris,1924-01-01,PHI,0
+Summer,2008 Beijing,2008-01-01,MKD,0
+Summer,2008 Beijing,2008-01-01,SUR,0
+Summer,2012 London,2012-01-01,SUR,0
+Summer,1924 Paris,1924-01-01,RUS,0
+Summer,2008 Beijing,2008-01-01,BUR,0
+Summer,2008 Beijing,2008-01-01,BDI,0
+Summer,2004 Athina,2004-01-01,GAM,0
+Summer,1964 Tokyo,1964-01-01,CMR,0
+Winter,2010 Vancouver,2010-01-01,GHA,0
+Winter,2010 Vancouver,2010-01-01,LTU,0
+Summer,1992 Barcelona,1992-01-01,COK,0
+Summer,1996 Atlanta,1996-01-01,COK,0
+Winter,1988 Calgary,1988-01-01,PHI,0
+Winter,1932 Lake Placid,1932-01-01,HUN,1
+Summer,2004 Athina,2004-01-01,BUR,0
+Summer,2000 Sydney,2000-01-01,BUR,0
+Winter,1992 Albertville,1992-01-01,HON,0
+Winter,1972 Sapporo,1972-01-01,BUL,0
+Summer,1956 Stockholm,1956-01-01,NED,0
+Winter,1956 Cortina d'Ampezzo,1956-01-01,GRE,0
+Winter,2014 Sochi,2014-01-01,CYP,0
+Winter,2010 Vancouver,2010-01-01,CYP,0
+Summer,1906 Athina,1906-01-01,TUR,0
+Winter,2014 Sochi,2014-01-01,VEN,0
+Winter,1988 Calgary,1988-01-01,BEL,0
+Winter,1994 Lillehammer,1994-01-01,CRO,0
+Winter,1992 Albertville,1992-01-01,BER,0
+Winter,1994 Lillehammer,1994-01-01,BER,0
+Winter,2014 Sochi,2014-01-01,MLT,0
+Summer,2000 Sydney,2000-01-01,NRU,0
+Summer,2016 Rio de Janeiro,2016-01-01,SMR,0
+Winter,2014 Sochi,2014-01-01,LUX,0
+Summer,1960 Roma,1960-01-01,VNM,0
+Summer,1972 Munich,1972-01-01,BIZ,0
+Summer,1976 Montreal,1976-01-01,BIZ,0
+Summer,1900 Paris,1900-01-01,ROU,0
+Winter,1924 Chamonix,1924-01-01,LAT,0
+Summer,1900 Paris,1900-01-01,IND,2
+Winter,2014 Sochi,2014-01-01,TJK,0
+Summer,1964 Tokyo,1964-01-01,MAD,0
+Summer,1992 Barcelona,1992-01-01,MAD,0
+Winter,1976 Innsbruck,1976-01-01,LIB,0
+Summer,1996 Atlanta,1996-01-01,MAD,0
+Summer,1968 Mexico City,1968-01-01,MAD,0
+Winter,2006 Torino,2006-01-01,MAD,0
+Winter,1976 Innsbruck,1976-01-01,HUN,0
+Winter,1980 Lake Placid,1980-01-01,HUN,1
+Winter,2002 Salt Lake City,2002-01-01,HKG,0
+Winter,2010 Vancouver,2010-01-01,ISR,0
+Winter,2010 Vancouver,2010-01-01,KGZ,0
+Summer,1896 Athina,1896-01-01,ITA,0
+Summer,1920 Antwerpen,1920-01-01,ARG,0
+Winter,1988 Calgary,1988-01-01,FIJ,0
+Winter,1994 Lillehammer,1994-01-01,FIJ,0
+Summer,1992 Barcelona,1992-01-01,NEP,0
+Summer,2008 Beijing,2008-01-01,ARU,0
+Winter,1994 Lillehammer,1994-01-01,KGZ,0
+Winter,1928 Sankt Moritz,1928-01-01,LAT,0
+Summer,1932 Los Angeles,1932-01-01,TUR,0
+Summer,1988 Seoul,1988-01-01,LAO,0
+Summer,1980 Moskva,1980-01-01,MYA,0
+Winter,1998 Nagano,1998-01-01,LUX,0
+Summer,1932 Los Angeles,1932-01-01,MON,0
+Winter,2006 Torino,2006-01-01,SEN,0
+Winter,2010 Vancouver,2010-01-01,SEN,0
+Summer,2012 London,2012-01-01,SLE,0
+Winter,1998 Nagano,1998-01-01,IRI,0
+Winter,1924 Chamonix,1924-01-01,IND,1
+Winter,2006 Torino,2006-01-01,NEP,0
+Winter,2010 Vancouver,2010-01-01,NEP,0
+Winter,2014 Sochi,2014-01-01,NEP,0
+Winter,1994 Lillehammer,1994-01-01,ISR,0
+Summer,1948 London,1948-01-01,SYR,0
+Winter,2006 Torino,2006-01-01,POR,0
+Winter,2010 Vancouver,2010-01-01,POR,0
+Winter,1952 Oslo,1952-01-01,POR,0
+Summer,2012 London,2012-01-01,MAW,0
+Winter,1998 Nagano,1998-01-01,BER,0
+Winter,2002 Salt Lake City,2002-01-01,BER,0
+Winter,2006 Torino,2006-01-01,BER,0
+Summer,1896 Athina,1896-01-01,SWE,0
+Summer,1956 Stockholm,1956-01-01,HUN,0
+Summer,1972 Munich,1972-01-01,FIJ,0
+Winter,2014 Sochi,2014-01-01,ZIM,0
+Winter,1960 Squaw Valley,1960-01-01,DEN,0
+Winter,1994 Lillehammer,1994-01-01,JAM,0
+Winter,2014 Sochi,2014-01-01,THA,0
+Summer,1952 Helsinki,1952-01-01,INA,0
+Summer,2000 Sydney,2000-01-01,COK,0
+Winter,2006 Torino,2006-01-01,ETH,0
+Winter,2010 Vancouver,2010-01-01,ETH,0
+Winter,1992 Albertville,1992-01-01,PHI,0
+Summer,1900 Paris,1900-01-01,LUX,1
+Summer,2004 Athina,2004-01-01,LBR,0
+Winter,2002 Salt Lake City,2002-01-01,FIJ,0
+Winter,2014 Sochi,2014-01-01,KGZ,0
+Summer,2016 Rio de Janeiro,2016-01-01,TUV,0
+Winter,2006 Torino,2006-01-01,ALB,0
+Winter,2010 Vancouver,2010-01-01,ALB,0
+Summer,1964 Tokyo,1964-01-01,DOM,0
+Summer,1908 London,1908-01-01,ARG,0
+Winter,2010 Vancouver,2010-01-01,CAY,0
+Winter,2014 Sochi,2014-01-01,CAY,0
+Winter,1998 Nagano,1998-01-01,KGZ,0
+Winter,1984 Sarajevo,1984-01-01,PUR,0
+Summer,1948 London,1948-01-01,SGP,0
+Winter,1998 Nagano,1998-01-01,CYP,0
+Winter,1998 Nagano,1998-01-01,BEL,1
+Winter,1984 Sarajevo,1984-01-01,MEX,0
+Winter,1994 Lillehammer,1994-01-01,MEX,0
+Winter,2010 Vancouver,2010-01-01,MEX,0
+Winter,2014 Sochi,2014-01-01,MEX,0
+Summer,1908 London,1908-01-01,SUI,0
+Summer,1912 Stockholm,1912-01-01,POL,0
+Summer,1952 Helsinki,1952-01-01,CHN,0
+Summer,2008 Beijing,2008-01-01,TLS,0
+Winter,1994 Lillehammer,1994-01-01,TUR,0

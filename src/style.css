@@ -136,3 +136,9 @@ nav {
 #view{
   width: 60%
 }
+
+#figure{
+  height: 100%;
+  top: 10px;
+  background-color: #ffffff
+}
