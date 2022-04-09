@@ -7,6 +7,7 @@ import * as vl from "vega-lite-api";
 import './style.css';
 import Demographics from './demographics.js';
 import SportsAndEvents from './sports_and_events.js';
+import Ranking from './ranking.js';
 
 
 // using d3 for convenience
@@ -63,6 +64,14 @@ function handleStepEnter(response) {
         // rendered_chart = null;
     }
 
+    // let selectors = document.getElementsByClassName('selector');
+    //
+    // for (let i = 0; i < selectors.length; i++) {
+    //     if (chart_key === 'chart_5')
+    //         selectors[i].style.display = "none";
+    //     else
+    //         selectors[i].style.display = "block";
+    // }
 
     // figure.select("p").text(response.index + 1);
 }
@@ -183,6 +192,8 @@ function renderSelectedChart(){
             update_func(filtered_data(raw_data));
         else if (['chart_3', 'chart_4'].indexOf(rendered_chart) > -1 && tree_data_ready)
             update_func(filtered_data_season_only(user_tree_data));
+        else if (['chart_5'].indexOf(rendered_chart) > -1 && barchart_data_ready)
+            update_func(filtered_data(user_barchart_data));
     }
 }
 
@@ -190,11 +201,13 @@ function renderSelectedChart(){
 init();
 let dem = new Demographics();
 let sports = new SportsAndEvents();
+let ranking = new Ranking();
 
 const chart_map = {
     chart_1: dem.render_demographics,
     chart_2: dem.render_gender,
-    chart_3: sports.render_sports_and_events
+    chart_3: sports.render_sports_and_events,
+    chart_5: ranking.render_ranking
 }
 
 let data_ready = false;
@@ -202,10 +215,23 @@ let raw_data = null;
 let rendered_chart = null;
 let user_tree_data = null;
 let tree_data_ready = false;
+let user_barchart_data = null;
+let barchart_data_ready = false;
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/user_tree_data.csv").then(function(data) {
     user_tree_data = data;
     tree_data_ready = true;
+});
+
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/racing_barchart_data.csv").then(function(data) {
+     user_barchart_data = data.map(
+          (d) => ({
+            ...d,
+            value: +d.value,
+            date: new Date(d.year)
+          })
+        );
+    barchart_data_ready = true;
 });
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athletes_agg.csv").then(function(data) {

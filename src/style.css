@@ -86,6 +86,20 @@ nav {
   animation: octocat-wave 560ms ease-in-out;
 }
 
+.description {
+  font-size: 0.8em;
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.step {
+  font-size: 0.9em;
+}
+
+.step p{
+  font-size: 0.9em;
+}
+
 @keyframes octocat-wave {
   0%,
   100% {
@@ -114,7 +128,7 @@ nav {
 }
 
 #intro {
-  margin-bottom: 320px;
+  margin-bottom: 50px;
 }
 
 #outro {
