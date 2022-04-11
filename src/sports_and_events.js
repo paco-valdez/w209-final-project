@@ -1,7 +1,7 @@
 import * as d3 from "d3";
 
 export default class SportsAndEvents {
-    render_sports_and_events(userData) {
+    render_sports_and_events(userData, scroller) {
         let e = document.getElementById("firstGame");
         let first_game = e.options[e.selectedIndex].value;
         e = document.getElementById("secondGame");
@@ -150,11 +150,11 @@ export default class SportsAndEvents {
         let newDiv = document.createElement("div");
         newDiv.appendChild(svg_title.node());
         newDiv.setAttribute('id', 'path-titles')
-        document.getElementById('view').appendChild(newDiv);
+        document.getElementById('view-3').appendChild(newDiv);
         newDiv = document.createElement("div");
         newDiv.setAttribute('id', 'paths')
         newDiv.appendChild(svg.node());
-        document.getElementById('view').appendChild(newDiv);
+        document.getElementById('view-3').appendChild(newDiv);
 
         const svg_title_removed = d3.create("svg").attr("viewBox", [0, 0, width, 20]);
 
@@ -183,7 +183,7 @@ export default class SportsAndEvents {
         newDiv = document.createElement("div");
         newDiv.setAttribute('id', 'path-titles-removed')
         newDiv.appendChild(svg_title_removed.node());
-        document.getElementById('view').appendChild(newDiv);
+        document.getElementById('view-3').appendChild(newDiv);
 
         groupedChartData = d3.rollup(
             removedEventsData,
@@ -262,6 +262,6 @@ export default class SportsAndEvents {
         newDiv = document.createElement("div");
         newDiv.setAttribute('id', 'paths-removed')
         newDiv.appendChild(svg.node());
-        document.getElementById('view').appendChild(newDiv);
+        document.getElementById('view-3').appendChild(newDiv);
         }
 }

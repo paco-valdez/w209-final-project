@@ -1,7 +1,7 @@
 import * as d3 from "d3";
 
 export default class Ranking {
-    async render_ranking (userData){
+    async render_ranking (userData, scroller){
         let duration = 1000;
         let n = 10;
         let margin = ({top: 16, right: 6, bottom: 6, left: 0})
@@ -177,7 +177,7 @@ export default class Ranking {
         const updateLabels = labels(svg);
         //const updateTicker = ticker(svg);
 
-        document.getElementById('view').appendChild(svg.node());
+        document.getElementById('view-5').appendChild(svg.node());
 
         for (const keyframe of keyframes) {
         const transition = svg.transition().duration(duration).ease(d3.easeLinear);

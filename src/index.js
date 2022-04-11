@@ -19,6 +19,7 @@ const step = article.selectAll(".step");
 
 // initialize the scrollama
 const scroller = scrollama();
+window.scroller = scroller;
 
 // generic window resize listener event
 function handleResize() {
@@ -43,15 +44,23 @@ function handleStepEnter(response) {
     // response = { element, direction, index }
 
     // add color to current step only
-    step.classed("is-active", function (d, i) {
-        return i === response.index;
-    });
+    //step.classed("is-active", function (d, i) {
+    //    return i === response.index;
+    //});
 
     // update graphic based on step
-    let chart_key = "chart_" + (response.index + 1);
+    let chart_key = "text-" + (response.index + 1);
     console.log(chart_key);
-    let update_func = chart_map[chart_key];
-    if (update_func !== undefined && data_ready && rendered_chart !== chart_key){
+
+    for (let i = 1; i < 6; i++) {
+        let i_key = "text-" + (i + 1);
+        if (chart_key === i_key)
+            d3.select(i_key).style.display = "block";
+        else
+            d3.select(i_key).style.display = "none";
+    }
+    // let update_func = chart_map[chart_key];
+    /*if (update_func !== undefined && data_ready && rendered_chart !== chart_key){
         console.log("Updating: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
         rendered_chart = chart_key;
         renderSelectedChart();
@@ -63,6 +72,7 @@ function handleStepEnter(response) {
         console.log("Nothing: update_func: " + (update_func !== undefined) + " data_ready:" + data_ready + " chart_key:" + chart_key);
         // rendered_chart = null;
     }
+    */
 
     // let selectors = document.getElementsByClassName('selector');
     //
@@ -167,7 +177,7 @@ function onUpdateSeason(){
         (d) => d.slice(0, 4) > first_game.slice(0, 4)
     )
     populateSelect("secondGame", gamesUserSecond);
-    renderSelectedChart();
+    renderSelectedChart(window.scroller);
 }
 
 function onUpdateFirstGame(){
@@ -181,19 +191,22 @@ function onUpdateFirstGame(){
         (d) => d.slice(0, 4) > first_game.slice(0, 4)
     )
     populateSelect("secondGame", gamesUserSecond);
-    renderSelectedChart();
+    renderSelectedChart(window.scroller);
 }
 
-function renderSelectedChart(){
-    let update_func = chart_map[rendered_chart];
-    document.getElementById('view').innerHTML = '';
-    if (update_func !== undefined){
-        if (['chart_1', 'chart_2'].indexOf(rendered_chart) > -1)
-            update_func(filtered_data(raw_data));
-        else if (['chart_3', 'chart_4'].indexOf(rendered_chart) > -1 && tree_data_ready)
-            update_func(filtered_data_season_only(user_tree_data));
-        else if (['chart_5'].indexOf(rendered_chart) > -1 && barchart_data_ready)
-            update_func(filtered_data(user_barchart_data));
+function renderSelectedChart(scroller){
+    for (let i=1 ; i<6; i++) {
+        let chart_key = "chart_" + i;
+        let update_func = chart_map[chart_key];
+        document.getElementById('view-' + i).innerHTML = '';
+        if (update_func !== undefined) {
+            if (['chart_1', 'chart_2'].indexOf(chart_key) > -1)
+                update_func(filtered_data(raw_data, scroller));
+            else if (['chart_3', 'chart_4'].indexOf(chart_key) > -1 && tree_data_ready)
+                update_func(filtered_data_season_only(user_tree_data, scroller));
+            else if (['chart_5'].indexOf(chart_key) > -1 && barchart_data_ready)
+                update_func(filtered_data(user_barchart_data, scroller));
+        }
     }
 }
 
@@ -221,9 +234,10 @@ let barchart_data_ready = false;
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/user_tree_data.csv").then(function(data) {
     user_tree_data = data;
     tree_data_ready = true;
+    //sports.render_sports_and_events(filtered_data_season_only(user_tree_data));
 });
 
-d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/racing_barchart_data.csv").then(function(data) {
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/racing_barchart_data_3.csv").then(function(data) {
      user_barchart_data = data.map(
           (d) => ({
             ...d,
@@ -232,6 +246,7 @@ d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/r
           })
         );
     barchart_data_ready = true;
+    //ranking.render_ranking(filtered_data(user_barchart_data));
 });
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/athletes_agg.csv").then(function(data) {
@@ -242,7 +257,9 @@ d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/a
     data_ready = true;
 
     raw_data = data.map(obj=> ({ ...obj, Year_City: obj.Year + ' ' + obj.City}));
-    // dem.render_demographics(filtered_data(raw_data));
+    //dem.render_demographics(filtered_data(raw_data));
+    //dem.render_gender(filtered_data(raw_data));
+
     rendered_chart = 'chart_1';
 
     let e = document.getElementById("season");
@@ -255,8 +272,9 @@ d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/a
     });
     e = document.getElementById("secondGame");
     e.addEventListener("change", function() {
-        renderSelectedChart();
+        renderSelectedChart(window.scroller);
     });
     onUpdateSeason();
 });
+
 

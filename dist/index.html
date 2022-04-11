@@ -7,75 +7,6 @@
     <title>120 Years of Olympics Data</title>
     <meta name="description" content="120 Years of Olympics Data" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <style>
-        #scrolly {
-            position: relative;
-            display: -webkit-box;
-            display: -ms-flexbox;
-            display: flex;
-            background-color: #f3f3f3;
-            padding: 1rem;
-        }
-
-        #scrolly>* {
-            -webkit-box-flex: 1;
-            -ms-flex: 1;
-            flex: 1;
-        }
-
-        article {
-            position: relative;
-            padding: 0 1rem;
-            max-width: 20rem;
-        }
-
-        figure {
-            position: -webkit-sticky;
-            position: sticky;
-            width: 100%;
-            margin: 0;
-            -webkit-transform: translate3d(0, 0, 0);
-            -moz-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-            background-color: #bdbdbd;
-            z-index: 0;
-        }
-
-        figure p {
-            text-align: center;
-            padding: 1rem;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            -moz-transform: translate(-50%, -50%);
-            -webkit-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
-            font-size: 8rem;
-            font-weight: 900;
-            color: #fff;
-        }
-
-        .step {
-            margin: 0 auto 2rem auto;
-            background-color: #3b3b3b;
-            color: #fff;
-        }
-
-        .step:last-child {
-            margin-bottom: 0;
-        }
-
-        .step.is-active {
-            background-color: goldenrod;
-            color: #3b3b3b;
-        }
-
-        .step p {
-            text-align: center;
-            padding: 1rem;
-            font-size: 1.5rem;
-        }
-    </style>
 </head>
 
 <body>
@@ -107,41 +38,21 @@
                 Leena Bhai, Tiffany Cheng, Brian Moon, Paco Valdez
             </p>
             <div class="description">
-            <p>Ever wondered how the Olympics have changed from 1896 to 2016?
-                In the visualizations below, explore how different aspects of the Olympics have changed in those 120 years.</p>
-            <p><strong>The user can select the Olympic season and then select two different games to find out where those two games differed from one another.</strong></p>
-            <p>Here are a few questions that can be answered by interacting with our visualizations:</p>
-            <ul>
-            <li>Has female athlete participation increased over time?</li>
-            <li>When were Art Competitions added to the Summer Olympics and when were they removed?</li>
-            <li>Are there new countries that are participating in sports that they have never participated in before for every Olympic Games?</li>
-            <li>Has the medal ranking changed drastically over time for both Summer and Winter Olympics?</li>
-            </ul>
-            <p>The intended audience is fans of the Olympic Games and sports fans.</p>
-            <p>The data used to create these visualizations can be found on Kaggle <a href="https://www.kaggle.com/code/heesoo37/olympic-history-data-a-thorough-analysis/data">here</a>.</p>
+            <br/><p>The Olympic Games have gone through many changes since the first games were held in 1896 in Athens, Greece. Since then, both the number of participating countries and the number of competitive events have grown significantly. With these changes, the number of athletes has also increased and there have been changes to the medal table.</p>
+            <br/><p>The goal of this visualization is to identify how the Olympics have changed when comparing two Olympic Games, split up by season. There are four different angles through which we approach this goal: athlete demographics, sports and events, countries, and medals. We hope we can broaden your knowledge of the history of the Olympics and reveal aspects that are less commonly known.</p>
+            <br/><p><strong>Please feel free to use the three dropdowns to change between season and game. First, choose between the Summer or Winter season, then select any two Olympic games to determine how those games differed from one another. </strong></p>
+            <br/><p>The visualizations below explore how different aspects of the Olympics have changed in 120 years. Here are a few questions that can be answered by interacting with our visualizations:
+            Has female athlete participation increased over time?
+            When were Art Competitions added to the Summer Olympics, and when were they removed?
+            Are there new countries participating in sports that they have never participated in before for every Olympic Games?
+            How does the ranking of the countries change between two games?</p>
+            <br/><p>The intended audience is fans of the Olympic Games and sports fans.</p>
+            <br/><p>The data used to create these visualizations can be found on Kaggle <a href="https://www.kaggle.com/code/heesoo37/olympic-history-data-a-thorough-analysis/data" rel="noopener noreferrer" target="_blank">here</a>.</p>
             </div>
         </section>
 
         <section id="scrolly">
-            <article>
-                <div id="demographics" class="step" data-step="1">
-                    <p>STEP 1</p>
-                </div>
-                <div id="gender" class="step" data-step="2">
-                    <p>STEP 1.5</p>
-                </div>
-                <div id="sports-events" class="step" data-step="3">
-                    <h2 id="sports-and-events">Sports and Events</h2>
-                    <p>Sports and events that were added are in blue and sports and events that were removed are in orange. Sports are found in the middle column and events are found on the right-most column. An example of a sport is &quot;Tug-Of-War&quot; and an example of an event is &quot;Tug-Of-War Men&#39;s Tug-Of-War.&quot;</p>
-                    <p>Interesting fact: Although one might not consider &quot;Art Competitions&quot; as a sport, they were indeed a sport during the 1908 to 1948 Summer Games. Some events within this sport involved literature, music, painting, architecture, and sculpturing.</p>
-                </div>
-                <div id="newcomers" class="step" data-step="4">
-                    <p>STEP 3</p>
-                </div>
-                <div id="rankings" class="step" data-step="5">
-                    <p>STEP 4</p>
-                </div>
-            </article>
+
 
             <figure id="figure">
 
@@ -160,8 +71,53 @@
                     <label for="secondGame">Second Game:</label>
                     <select id="secondGame"></select>
                 </div>
-                <div id="view" class="selector"></div>
+                <div id="view-text" class="selector">
+                    <div id="text-1" style="display: none">
+                        <p>First, we examine the athletes that competed by comparing athlete count and female-to-male athlete participation.</p>
+                        <h3>Athlete Participation</h3>
+                        <p>Interesting fact: The first modern Olympics were held in 1896 in Greece, and the participation of the athletes have been increasing ever since.</p>
+                    </div>
+                    <div id="text-2" style="display: none">
+                        <h3>Athlete Gender Distribution</h3>
+                        <p>Interesting fact: The 1900 Paris Olympics were the first Games that witnessed women participation in the events. However, it was only in the 2012 London Olympics where every participating nation had women athletes in their delegation.</p>
+                    </div>
+                    <div id="text-3" style="display: none">
+                        <p>Next, we turn to look at where some of those athletes competed by identifying sports and events that were added and removed.</p>
+                        <h3>Sports and Events</h3>
+                        <p>Sports and events that were added are in blue and sports and events that were removed are in orange. Sports are found in the middle column and events are found on the right-most column. An example of a sport is &quot;Tug-Of-War&quot; and an example of an event is &quot;Tug-Of-War Men&#39;s Tug-Of-War.&quot;</p>
+                        <p>Interesting fact: Although one might not consider &quot;Art Competitions&quot; as a sport, they were indeed a sport during the 1908 to 1948 Summer Games. Some events within this sport involved literature, music, painting, architecture, and sculpturing.</p>
+                    </div>
+                    <div id="text-4" style="display: none">
+
+                    </div>
+                    <div id="text-5" style="display: none">
+                        <p>Finally, we put it all together to see how each country’s athletes performed in their sports and events by comparing the top 10 countries based on medal count.</p>
+                        <h3>Medal Count Ranking</h3>
+                        <p>The bar chart shows the ranking of the top 10 medal receivers and shows the total medals received by a country.</p>
+                        <p>Interesting fact: The USA has been the top medal receiver in both Summer and Winter Olympics, followed by Canada in Winter Olympics and the Soviet Union in Summer Olympics.</p>
+                    </div>
+                </div>
             </figure>
+
+
+            <article>
+                <div id="demographics" class="step" data-step="1">
+                    <div id="view-1" class="selector view"></div>
+                </div>
+                <div id="gender" class="step" data-step="2">
+                    <div id="view-2" class="selector view"></div>
+                </div>
+                <div id="sports-events" class="step" data-step="3">
+                    <div id="view-3" class="selector view"></div>
+                </div>
+                <div id="newcomers" class="step" data-step="4">
+                    <div id="view-4" class="selector view"></div>
+                </div>
+                <div id="rankings" class="step" data-step="5">
+                    <div id="view-5" class="selector view"></div>
+                </div>
+            </article>
+
         </section>
 
         <section id="outro"></section>
