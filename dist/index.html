@@ -22,7 +22,7 @@
                 fill="currentColor" class="octo-body"></path>
         </svg></a>
     <main>
-        <nav>
+        <nav class="nav_element">
             <p>120 Years of Olympics Data</p>
             <div class="nav__examples">
                 <p>Sections:</p>
@@ -71,10 +71,10 @@
                     <label for="secondGame">Second Game:</label>
                     <select id="secondGame"></select>
                 </div>
-                <div id="view-text" class="selector">
-                    <div id="text-1" style="display: none">
-                        <p>First, we examine the athletes that competed by comparing athlete count and female-to-male athlete participation.</p>
+                <div id="view-text" class="selector view-text">
+                    <div id="text-1" style="display: block">
                         <h3>Athlete Participation</h3>
+                        <p>First, we examine the athletes that competed by comparing athlete count and female-to-male athlete participation.</p>
                         <p>Interesting fact: The first modern Olympics were held in 1896 in Greece, and the participation of the athletes have been increasing ever since.</p>
                     </div>
                     <div id="text-2" style="display: none">
@@ -82,17 +82,18 @@
                         <p>Interesting fact: The 1900 Paris Olympics were the first Games that witnessed women participation in the events. However, it was only in the 2012 London Olympics where every participating nation had women athletes in their delegation.</p>
                     </div>
                     <div id="text-3" style="display: none">
-                        <p>Next, we turn to look at where some of those athletes competed by identifying sports and events that were added and removed.</p>
                         <h3>Sports and Events</h3>
+                        <p>Next, we turn to look at where some of those athletes competed by identifying sports and events that were added and removed.</p>
                         <p>Sports and events that were added are in blue and sports and events that were removed are in orange. Sports are found in the middle column and events are found on the right-most column. An example of a sport is &quot;Tug-Of-War&quot; and an example of an event is &quot;Tug-Of-War Men&#39;s Tug-Of-War.&quot;</p>
                         <p>Interesting fact: Although one might not consider &quot;Art Competitions&quot; as a sport, they were indeed a sport during the 1908 to 1948 Summer Games. Some events within this sport involved literature, music, painting, architecture, and sculpturing.</p>
                     </div>
                     <div id="text-4" style="display: none">
-
+                        <h3>New Participating Countries</h3>
+                        <p>Next, we look to see whether there were new countries that joined the Olympic Games by identifying countries that participated in the second game, but not in the first.</p>
                     </div>
                     <div id="text-5" style="display: none">
-                        <p>Finally, we put it all together to see how each country’s athletes performed in their sports and events by comparing the top 10 countries based on medal count.</p>
                         <h3>Medal Count Ranking</h3>
+                        <p>Finally, we put it all together to see how each country’s athletes performed in their sports and events by comparing the top 10 countries based on medal count.</p>
                         <p>The bar chart shows the ranking of the top 10 medal receivers and shows the total medals received by a country.</p>
                         <p>Interesting fact: The USA has been the top medal receiver in both Summer and Winter Olympics, followed by Canada in Winter Olympics and the Soviet Union in Summer Olympics.</p>
                     </div>

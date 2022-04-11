@@ -16,16 +16,6 @@ body {
   font-size: 24px;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-a {
-  margin: 0;
-  font-weight: 400;
-}
-
 a,
 a:visited,
 a:hover {
@@ -49,6 +39,8 @@ nav {
   padding-right: 5rem;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  margin: 0;
+  font-weight: 400;
 }
 
 .nav__examples {
@@ -192,17 +184,7 @@ figure {
 }
 
 figure p {
-    text-align: center;
-    padding: 1rem;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -moz-transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    font-size: 8rem;
-    font-weight: 900;
-    color: #fff;
+    text-align: justify;
 }
 
 .step {
@@ -224,4 +206,11 @@ figure p {
     text-align: center;
     padding: 1rem;
     font-size: 1.5rem;
+}
+
+.view-text{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-weight: 300;
+    font-size: smaller;
 }

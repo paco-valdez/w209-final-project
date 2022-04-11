@@ -53,11 +53,11 @@ function handleStepEnter(response) {
     console.log(chart_key);
 
     for (let i = 1; i < 6; i++) {
-        let i_key = "text-" + (i + 1);
+        let i_key = "text-" + i;
         if (chart_key === i_key)
-            d3.select(i_key).style.display = "block";
+            document.getElementById(i_key).style.display = "block";
         else
-            d3.select(i_key).style.display = "none";
+            document.getElementById(i_key).style.display = "none";
     }
     // let update_func = chart_map[chart_key];
     /*if (update_func !== undefined && data_ready && rendered_chart !== chart_key){

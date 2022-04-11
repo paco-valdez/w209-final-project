@@ -37,13 +37,13 @@ export default class SportsAndEvents {
         );
         let root = d3.hierarchy(groupedChartData);
         let verticalSeparationBetweenNodes = 250;
-        let horizontalSeparationBetweenNodes = 3;
+        let horizontalSeparationBetweenNodes = 6;
         let nodeWidth = 10;
         let nodeHeight = 0;
         let width = 750;
         let dx = 20;
         let dy = width / 6.0;
-        let margin2 = ({ top: 10, right: 60, bottom: 10, left: 60 });
+        let margin2 = ({ top: 10, right: 140, bottom: 10, left: 140 });
         let layTree = d3
           .tree()
           .size([width, dx])
@@ -65,7 +65,7 @@ export default class SportsAndEvents {
         let svg = d3
         .create("svg")
         .attr("viewBox", [-margin2.left, -margin2.top, width, dx])
-        .style("font", "10px sans-serif")
+        .style("font", "30px sans-serif")
         .style("user-select", "none");
 
         let left = root;
@@ -112,7 +112,7 @@ export default class SportsAndEvents {
         .call((g) =>
           g
             .append("text")
-            .attr("dy", "0.31em")
+            .attr("dy", "0.61em")
             .attr("x", (d) => (d.children ? -6 : 6))
             .attr("text-anchor", (d) => (d.children ? "end" : "start"))
             .text((d) => d.data[0])
@@ -202,7 +202,7 @@ export default class SportsAndEvents {
         svg = d3
             .create("svg")
             .attr("viewBox", [-margin2.left, -margin2.top, width, dx])
-            .style("font", "10px sans-serif")
+            .style("font", "30px sans-serif")
             .style("user-select", "none");
 
         left = root;
@@ -249,7 +249,7 @@ export default class SportsAndEvents {
             .call((g) =>
               g
                 .append("text")
-                .attr("dy", "0.31em")
+                .attr("dy", "0.61em")
                 .attr("x", (d) => (d.children ? -6 : 6))
                 .attr("text-anchor", (d) => (d.children ? "end" : "start"))
                 .text((d) => d.data[0])
