@@ -8,6 +8,7 @@ import './style.css';
 import Demographics from './demographics.js';
 import SportsAndEvents from './sports_and_events.js';
 import Ranking from './ranking.js';
+import Newcomers from "./newcomers";
 
 
 // using d3 for convenience
@@ -142,6 +143,20 @@ function filtered_data(data){
     ;
 }
 
+function filtered_data_pair_only(data){
+    let e = document.getElementById("season");
+    let season = e.options[e.selectedIndex].value;
+    e = document.getElementById("firstGame");
+    let first_game = e.options[e.selectedIndex].value;
+    e = document.getElementById("secondGame");
+    let second_game = e.options[e.selectedIndex].value;
+    return data
+        .filter(athlete => athlete.season === season)
+        .filter(athlete => athlete.first_game === first_game.slice(0, 4))
+        .filter(athlete => athlete.second_game === second_game.slice(0, 4))
+    ;
+}
+
 function filtered_data_season_only(data) {
     let e = document.getElementById("season");
     let season = e.options[e.selectedIndex].value;
@@ -204,6 +219,8 @@ function renderSelectedChart(scroller){
                 update_func(filtered_data(raw_data, scroller));
             else if (['chart_3', 'chart_4'].indexOf(chart_key) > -1 && tree_data_ready)
                 update_func(filtered_data_season_only(user_tree_data, scroller));
+            else if (['chart_4'].indexOf(chart_key) > -1 && newcomers_data_ready)
+                update_func(filtered_data_pair_only(newcomers_data, scroller));
             else if (['chart_5'].indexOf(chart_key) > -1 && barchart_data_ready)
                 update_func(filtered_data(user_barchart_data, scroller));
         }
@@ -215,11 +232,13 @@ init();
 let dem = new Demographics();
 let sports = new SportsAndEvents();
 let ranking = new Ranking();
+let newcomers = new Newcomers();
 
 const chart_map = {
     chart_1: dem.render_demographics,
     chart_2: dem.render_gender,
     chart_3: sports.render_sports_and_events,
+    chart_4: newcomers.render_newcomers,
     chart_5: ranking.render_ranking
 }
 
@@ -230,6 +249,16 @@ let user_tree_data = null;
 let tree_data_ready = false;
 let user_barchart_data = null;
 let barchart_data_ready = false;
+let newcomers_data = null;
+let newcomers_data_ready = false;
+
+d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/top_newcomers_by_year_1.csv").then(function(data) {
+    newcomers_data = data;
+    newcomers_data_ready = true;
+    console.log('newcomers_data')
+    console.log(newcomers_data)
+    //sports.render_sports_and_events(filtered_data_season_only(user_tree_data));
+});
 
 d3.csv("https://raw.githubusercontent.com/pacofvf/w209-final-project/main/data/user_tree_data.csv").then(function(data) {
     user_tree_data = data;

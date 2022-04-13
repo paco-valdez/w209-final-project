@@ -1,132 +1,108 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>120 Years of Olympics Data</title>
-    <meta name="description" content="120 Years of Olympics Data" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>120 Years of Olympics Data</title>
 </head>
 
 <body>
-    <a href="https://github.com/pacofvf/w209-final-project" target="_blank" class="github-corner"
-        aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250"
-            style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
-            <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
-            <path
-                d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
-                fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path>
-            <path
-                d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z"
-                fill="currentColor" class="octo-body"></path>
-        </svg></a>
-    <main>
-        <nav class="nav_element">
-            <p>120 Years of Olympics Data</p>
-            <div class="nav__examples">
-                <p>Sections:</p>
-                <a href="#demographics">Demographics</a>
-                <a href="#sports-events">Sports and Events</a>
-                <a href="#newcomers">Newcomers by Sport</a>
-                <a href="#rankings">Medal Count Ranking</a>
-            </div>
-        </nav>
-        <section id="intro">
-            <h1 class="intro__hed">120 Years of Olympics Data</h1>
-            <p class="intro__dek">
-                Leena Bhai, Tiffany Cheng, Brian Moon, Paco Valdez
-            </p>
-            <div class="description">
-            <br/><p>The Olympic Games have gone through many changes since the first games were held in 1896 in Athens, Greece. Since then, both the number of participating countries and the number of competitive events have grown significantly. With these changes, the number of athletes has also increased and there have been changes to the medal table.</p>
-            <br/><p>The goal of this visualization is to identify how the Olympics have changed when comparing two Olympic Games, split up by season. There are four different angles through which we approach this goal: athlete demographics, sports and events, countries, and medals. We hope we can broaden your knowledge of the history of the Olympics and reveal aspects that are less commonly known.</p>
-            <br/><p><strong>Please feel free to use the three dropdowns to change between season and game. First, choose between the Summer or Winter season, then select any two Olympic games to determine how those games differed from one another. </strong></p>
-            <br/><p>The visualizations below explore how different aspects of the Olympics have changed in 120 years. Here are a few questions that can be answered by interacting with our visualizations:
-            Has female athlete participation increased over time?
-            When were Art Competitions added to the Summer Olympics, and when were they removed?
-            Are there new countries participating in sports that they have never participated in before for every Olympic Games?
-            How does the ranking of the countries change between two games?</p>
-            <br/><p>The intended audience is fans of the Olympic Games and sports fans.</p>
-            <br/><p>The data used to create these visualizations can be found on Kaggle <a href="https://www.kaggle.com/code/heesoo37/olympic-history-data-a-thorough-analysis/data" rel="noopener noreferrer" target="_blank">here</a>.</p>
-            </div>
-        </section>
+  <div class="sidenav">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Olympic_rings_with_white_rims.svg/640px-Olympic_rings_with_white_rims.svg.png" alt="Olympic rings" class="rings">
+    <div class="menu">
+    <div id="observablehq-viewof-season-6cd86e48"></div>
+    <div id="observablehq-viewof-first_game-6cd86e48"></div>
+    <div id="observablehq-viewof-second_game-6cd86e48"></div>
+    <p>Jump to...</p>
 
-        <section id="scrolly">
+      <a href="#demographics" class="nav-link">Demographics</a>
+      <a href="#sports-and-events" class="nav-link">Sports and Events</a>
+      <a href="#newcomers" class="nav-link">Newcomers</a>
+      <a href="#rankings" class="nav-link">Medal Count Ranking</a>
+    </div>
+  </div>
+  <main class="main">
+  <div class="header">
+    <h1>120 Years of Olympics Data</h1>
+  </div>
+  <div class="group">
+    <p><strong>Created by Leena Bhai, Tiffany Cheng, Brian Moon, Paco Valdez</strong></p>
+  </div>
 
+<div class="description">
+<p>The Olympic Games have gone through many changes since the first games were held in 1896 in Athens, Greece. Since then, both the number of participating countries and the number of competitive events have grown significantly. With these changes, the number of athletes has also increased and there have been changes to the medal table.</p>
+<p>The goal of this visualization is to identify how the Olympics have changed when comparing two Olympic Games, split up by season. There are four different angles through which we approach this goal: athlete demographics, sports and events, countries, and medals. We hope we can broaden your knowledge of the history of the Olympics and reveal aspects that are less commonly known.</p>
+<p><strong>Please feel free to use the three dropdowns to change between season and game. First, choose between the Summer or Winter season, then select any two Olympic games to determine how those games differed from one another.</strong></p>
+<p>The visualizations below explore how different aspects of the Olympics have changed in 120 years. Here are a few questions that can be answered by interacting with our visualizations:</p>
+<ul>
+  <li>Has female athlete participation increased over time?</li>
+  <li>When were Art Competitions added to the Summer Olympics, and when were they removed?</li>
+  <li>Are there new countries participating in every Olympic Games?</li>
+  <li>How does the ranking of the countries change between two games?</li>
+</ul>
+<p>The intended audience is fans of the Olympic Games and sports fans.</p>
+<p>The data used to create these visualizations can be found on Kaggle <a href="https://www.kaggle.com/code/heesoo37/olympic-history-data-a-thorough-analysis/data" target="_blank">here</a>.</p>
+</div>
 
-            <figure id="figure">
+<div class="ath_demo">
+  <h2 id="demographics">Athlete Demographics</h2>
+  <p><strong>First, we examine the athletes that competed by comparing athlete count and female-to-male athlete participation.</strong></p>
+  <h3>Athlete Participation</h3>
+  <p>Interesting fact: The first modern Olympics were held in 1896 in Greece, and the participation of the athletes have been increasing ever since.</p>
+  <div id="observablehq-histogram-6cd86e48"></div>
 
-                <div class="selector">
-                    <label for="season">Season:</label>
-                    <select id="season">
-                        <option value="Winter">Winter</option>
-                        <option value="Summer" selected="selected">Summer</option>
-                    </select>
-                </div>
-                <div class="selector">
-                    <label for="firstGame">First Game:</label>
-                    <select id="firstGame"></select>
-                </div>
-                <div class="selector">
-                    <label for="secondGame">Second Game:</label>
-                    <select id="secondGame"></select>
-                </div>
-                <div id="view-text" class="selector view-text">
-                    <div id="text-1" style="display: block">
-                        <h3>Athlete Participation</h3>
-                        <p>First, we examine the athletes that competed by comparing athlete count and female-to-male athlete participation.</p>
-                        <p>Interesting fact: The first modern Olympics were held in 1896 in Greece, and the participation of the athletes have been increasing ever since.</p>
-                    </div>
-                    <div id="text-2" style="display: none">
-                        <h3>Athlete Gender Distribution</h3>
-                        <p>Interesting fact: The 1900 Paris Olympics were the first Games that witnessed women participation in the events. However, it was only in the 2012 London Olympics where every participating nation had women athletes in their delegation.</p>
-                    </div>
-                    <div id="text-3" style="display: none">
-                        <h3>Sports and Events</h3>
-                        <p>Next, we turn to look at where some of those athletes competed by identifying sports and events that were added and removed.</p>
-                        <p>Sports and events that were added are in blue and sports and events that were removed are in orange. Sports are found in the middle column and events are found on the right-most column. An example of a sport is &quot;Tug-Of-War&quot; and an example of an event is &quot;Tug-Of-War Men&#39;s Tug-Of-War.&quot;</p>
-                        <p>Interesting fact: Although one might not consider &quot;Art Competitions&quot; as a sport, they were indeed a sport during the 1908 to 1948 Summer Games. Some events within this sport involved literature, music, painting, architecture, and sculpturing.</p>
-                    </div>
-                    <div id="text-4" style="display: none">
-                        <h3>New Participating Countries</h3>
-                        <p>Next, we look to see whether there were new countries that joined the Olympic Games by identifying countries that participated in the second game, but not in the first.</p>
-                    </div>
-                    <div id="text-5" style="display: none">
-                        <h3>Medal Count Ranking</h3>
-                        <p>Finally, we put it all together to see how each country’s athletes performed in their sports and events by comparing the top 10 countries based on medal count.</p>
-                        <p>The bar chart shows the ranking of the top 10 medal receivers and shows the total medals received by a country.</p>
-                        <p>Interesting fact: The USA has been the top medal receiver in both Summer and Winter Olympics, followed by Canada in Winter Olympics and the Soviet Union in Summer Olympics.</p>
-                    </div>
-                </div>
-            </figure>
+  <h3><strong>Athlete Gender Distribution</strong></h3>
+  <p>Interesting fact: The 1900 Paris Olympics were the first Games that witnessed women participation in the events. However, it was only in the 2012 London Olympics where every participating nation had women athletes in their delegation.</p>
+  <div id="observablehq-stacked-6cd86e48"></div>
+</div>
 
+<div class="spo_evt">
+  <h2 id="sports-and-events">Sports and Events</h2>
+  <p><strong>Next, we turn to look at where some of those athletes competed by identifying sports and events that were added and removed.</strong></p>
+  <p>Sports and events that were added are in blue and sports and events that were removed are in orange. Sports are found in the middle column and events are found on the right-most column. An example of a sport is "Tug-Of-War" and an example of an event is "Tug-Of-War Men's Tug-Of-War."</p>
+  <p>Interesting fact: Although one might not consider "Art Competitions" as a sport, they were indeed a sport during the 1908 to 1948 Summer Games. Some events within this sport involved literature, music, painting, architecture, and sculpturing.</p>
+  <div id="observablehq-added_title-6cd86e48"></div>
+  <div id="observablehq-added_chart-6cd86e48"></div>
+  <br></br>
+  <div id="observablehq-removed_title-6cd86e48"></div>
+  <div id="observablehq-removed_chart-6cd86e48"></div>
+</div>
 
-            <article>
-                <div id="demographics" class="step" data-step="1">
-                    <div id="view-1" class="selector view"></div>
-                </div>
-                <div id="gender" class="step" data-step="2">
-                    <div id="view-2" class="selector view"></div>
-                </div>
-                <div id="sports-events" class="step" data-step="3">
-                    <div id="view-3" class="selector view"></div>
-                </div>
-                <div id="newcomers" class="step" data-step="4">
-                    <div id="view-4" class="selector view"></div>
-                </div>
-                <div id="rankings" class="step" data-step="5">
-                    <div id="view-5" class="selector view"></div>
-                </div>
-            </article>
+<div class="new">
+  <h2 id="newcomers">Newcomers</h2>
+  <p><strong>Next, we look to see whether there were new countries that joined the Olympic Games by identifying countries that participated in the second game, but not in the first.</strong></p>
+  <p>The chart shows the top 10 countries, in terms of the number of medals, that participated in the second game, but not the first. Counts of athletes and medals shown in the chart are those of the second game for the respective countries.</p>
+  <p>Interesting fact: In the 2016 games, compared to the 2004 games, 9 countries have newly participated. Serbia, being one of the 9, has won more medals than the rest of the 8 countries combined.</p>
+  <div id="observablehq-point-6cd86e48"></div>
+</div>
 
-        </section>
+<div class="med_rank">
+  <h2 id="rankings">Medal Count Ranking</h2>
+  <p><strong>Finally, we put it all together to see how each country's athletes performed in their sports and events by comparing the top 10 countries based on medal count.</strong></p>
+  <p>The bar chart shows the ranking of the top 10 medal receivers and shows the total medals received by a country.</p>
+  <p>Interesting fact: The USA has been the top medal receiver in both Summer and Winter Olympics, followed by Canada in Winter Olympics and the Soviet Union in Summer Olympics.</p>
+  <div id="observablehq-viewof-replay-6cd86e48"></div>
+  <div id="observablehq-chart-6cd86e48"></div>
+</div>
 
-        <section id="outro"></section>
-    </main>
-
-    <!-- <div class='debug'></div> -->
-    <script src="bundle.js"></script>
+</main>
+  <script src="bundle.js"></script>
+  <script type="module">
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+  import define from "https://api.observablehq.com/d/08701df353a00386.js?v=3";
+  new Runtime().module(define, name => {
+    if (name === "viewof season") return new Inspector(document.querySelector("#observablehq-viewof-season-6cd86e48"));
+    if (name === "viewof first_game") return new Inspector(document.querySelector("#observablehq-viewof-first_game-6cd86e48"));
+    if (name === "viewof second_game") return new Inspector(document.querySelector("#observablehq-viewof-second_game-6cd86e48"));
+    if (name === "histogram") return new Inspector(document.querySelector("#observablehq-histogram-6cd86e48"));
+    if (name === "stacked") return new Inspector(document.querySelector("#observablehq-stacked-6cd86e48"));
+    if (name === "added_title") return new Inspector(document.querySelector("#observablehq-added_title-6cd86e48"));
+    if (name === "added_chart") return new Inspector(document.querySelector("#observablehq-added_chart-6cd86e48"));
+    if (name === "removed_title") return new Inspector(document.querySelector("#observablehq-removed_title-6cd86e48"));
+    if (name === "removed_chart") return new Inspector(document.querySelector("#observablehq-removed_chart-6cd86e48"));
+    if (name === "point") return new Inspector(document.querySelector("#observablehq-point-6cd86e48"));
+    if (name === "viewof replay") return new Inspector(document.querySelector("#observablehq-viewof-replay-6cd86e48"));
+    if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-6cd86e48"));
+    return ["barrace_date","names","rank","keyframes","nameframes","prev","bars","labels","next","datevalues","userData","userDataSecond","addedEventsData","eventsSecond","removedEvents","removedEventsData","addedEvents","userDataFirst","eventsFirst","gamesUser","gamesUserSecond","filtered_chart_data","amount_of_athletes_by_sex","filtered_chart_data_top","gamesUserFirst"].includes(name);
+  });
+  </script>
 </body>
-
 </html>
-
